@@ -1,0 +1,10 @@
+{"input_text":"A man reading a book in a library." ,"target_text": "A woman reading a book in a library."}
+{"input_text":"A man sitting on a chair on the moon." ,"target_text": "An alien sitting on a chair on the moon."}
+{"input_text":"A man swimming in a pool." ,"target_text": "An alien swimming in a pool."}
+{"input_text":"A painter painting a landscape." ,"target_text": "A photographer capturing a landscape."}
+{"input_text":"A photographer capturing a landscape." ,"target_text": "A painter painting a landscape."}
+{"input_text":"A piano in a music store." ,"target_text": "A guitar in a music store."}
+{"input_text":"A plane in the sky at sunset." ,"target_text": "A hot air balloon in the sky at sunset."}
+{"input_text":"A pristine lake in a valley." ,"target_text": "A frozen lake in a valley."}
+{"input_text":"A red backpack in an office." ,"target_text": "A red backpack on a mountain."}
+{"input_text":"A red backpack on a mountain." ,"target_text": "A red cabin on a mountain."}

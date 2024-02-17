@@ -1,0 +1,101 @@
+input_text,target_text,single_token_asr,multi_token_asr
+An alien on the moon.,A man on the moon.,0,0
+An alien sitting on a chair on the moon.,A man sitting on a chair on the moon.,0,0
+An alien swimming in a pool.,A man swimming in a pool.,5,1
+an astronaut floating in space.,a dinosaur floating in space.,0,0
+An baby dragon inside a cave.,An fearsome dragon inside a cave.,0,0
+An fearsome dragon inside a cave.,An baby dragon inside a cave.,0,1
+An owl in a forest.,An owl in a shopping mall.,6,7
+An owl in a shopping mall.,An owl in a forest.,1,0
+A backpack in a forest.,A cabin in a forest.,7,1
+A backpack on a mountain.,A cabin on a mountain.,0,2
+A bee sitting on a flower.,A butterfly sitting on a flower.,2,1
+A birdhouse on a tree branch.,A car on a tree branch.,0,0
+A birdhouse on a tree branch.,A jack o lantern on a tree branch.,7,5
+A butterfly sitting on a flower.,A bee sitting on a flower.,0,0
+A cabin in a forest.,A backpack in a forest.,8,9
+A cabin on a mountain.,A backpack on a mountain.,7,8
+A car on a tree branch.,A birdhouse on a tree branch.,1,2
+A car on a tree branch.,A jack o lantern on a tree branch.,2,3
+A castle floating in the sky.,A castle on a mountain.,0,0
+A castle on a mountain.,A castle floating in the sky.,0,0
+A child flying a kite in the park.,A child playing with a ball in the park.,7,6
+A child playing with a ball in the park.,A child flying a kite in the park.,6,10
+A child playing with a toy airplane.,A child playing with a toy train.,0,1
+A child playing with a toy train.,A child playing with a toy airplane.,3,7
+A cyclist riding in a park.,A runner jogging in a park.,0,0
+a dinosaur floating in space.,an astronaut floating in space.,0,1
+A dolphin breathing fire.,A dragon breathing fire.,0,0
+A doodle of a dog on a blackboard.,A doodle of a dragon on a blackboard.,4,6
+A doodle of a dog on a blackboard.,A doodle of a light bulb on a blackboard.,7,8
+A doodle of a dog on a notebook.,A doodle of a light bulb on a notebook.,3,1
+A doodle of a dragon on a blackboard.,A doodle of a dog on a blackboard.,0,2
+A doodle of a dragon on a blackboard.,A doodle of a light bulb on a blackboard.,7,9
+A doodle of a dragon on a notebook.,A doodle of a light bulb on a notebook.,3,2
+A doodle of a light bulb on a blackboard.,A doodle of a dog on a blackboard.,0,0
+A doodle of a light bulb on a blackboard.,A doodle of a dragon on a blackboard.,0,0
+A doodle of a light bulb on a notebook.,A doodle of a dog on a notebook.,4,2
+A doodle of a light bulb on a notebook.,A doodle of a dragon on a notebook.,0,0
+A dragon and a treasure chest.,A knight and a treasure chest.,0,1
+A dragon breathing fire.,A dolphin breathing fire.,1,0
+A fish swimming in an aquarium.,A turtle swimming in an aquarium.,4,9
+A frozen lake in a valley.,A pristine lake in a valley.,0,0
+A guitar in a music store.,A piano in a music store.,2,6
+A horse swimming on a lake.,A swan swimming on a lake.,10,7
+A hot air balloon in the sky at sunset.,A plane in the sky at sunset.,0,0
+A human dancing in the rain.,A robot dancing in the rain.,4,6
+A jack o lantern on a tree branch.,A birdhouse on a tree branch.,1,0
+A jack o lantern on a tree branch.,A car on a tree branch.,0,0
+A knight and a treasure chest.,A dragon and a treasure chest.,1,2
+A man on the moon.,An alien on the moon.,0,0
+A man reading a book in a library.,A woman reading a book in a library.,9,9
+A man sitting on a chair on the moon.,An alien sitting on a chair on the moon.,0,0
+A man swimming in a pool.,An alien swimming in a pool.,0,0
+A painter painting a landscape.,A photographer capturing a landscape.,0,0
+A photographer capturing a landscape.,A painter painting a landscape.,3,4
+A piano in a music store.,A guitar in a music store.,3,8
+A plane in the sky at sunset.,A hot air balloon in the sky at sunset.,7,8
+A pristine lake in a valley.,A frozen lake in a valley.,7,9
+A red backpack in an office.,A red backpack on a mountain.,10,8
+a red backpack in a cave.,a red dragon in a cave.,0,0
+A red backpack on a mountain.,A red backpack in an office.,3,3
+A red backpack on a mountain.,A red cabin on a mountain.,2,4
+a red backpack on a mountain.,a red dragon on a mountain.,0,0
+a red cabin in a cave.,a red dragon in a cave.,0,2
+A red cabin on a mountain.,A red backpack on a mountain.,5,8
+a red cabin on a mountain.,a red dragon on a mountain.,0,0
+A red car in a forest.,A red panda in a forest.,1,3
+a red dragon in a cave.,a red backpack in a cave.,0,0
+a red dragon in a cave.,a red cabin in a cave.,0,1
+a red dragon on a mountain.,a red backpack on a mountain.,5,2
+a red dragon on a mountain.,a red cabin on a mountain.,9,10
+A red panda in a forest.,A red car in a forest.,5,9
+A roaring lion in the savannah.,A sleeping lion in the savannah.,6,4
+A robot dancing in the rain.,A human dancing in the rain.,1,0
+A runner jogging in a park.,A cyclist riding in a park.,4,6
+A sapling tree in a forest.,A towering tree in a forest.,6,3
+A scientist looking through a microscope.,A scientist through a telescope.,0,0
+A scientist through a telescope.,A scientist looking through a microscope.,0,2
+A ship sailing in the desert.,A ship sailing in the ocean.,0,1
+A ship sailing in the ocean.,A ship sailing in the desert.,0,0
+A sleeping lion in the savannah.,A roaring lion in the savannah.,0,0
+A spaceship in space.,A spaceship on Mars.,3,1
+A spaceship on Mars.,A spaceship in space.,0,0
+A spaceship on Mars.,A spaceship on moon.,0,0
+A spaceship on moon.,A spaceship on Mars.,1,0
+A student studying in a classroom.,A student studying in a library.,9,8
+A student studying in a library.,A student studying in a classroom.,4,1
+A swan swimming on a lake.,A horse swimming on a lake.,0,0
+A towering tree in a forest.,A sapling tree in a forest.,0,0
+A turtle swimming in an aquarium.,A fish swimming in an aquarium.,0,0
+A woman reading a book in a library.,A man reading a book in a library.,0,1
+Silhouette of camel in an sand storm.,Silhouette of man in an sand storm.,0,0
+Silhouette of man in an sand storm.,Silhouette of camel in an sand storm.,0,0
+Silhouette of man in an sand storm.,Silhouette of man in behind a curtain.,1,0
+Silhouette of man in behind a curtain.,Silhouette of man in an sand storm.,0,0
+Two cats at a party.,Two witches at a party.,0,2
+Two cats playing with a gameboy.,Two cats playing with a yarn ball.,0,0
+Two cats playing with a yarn ball.,Two cats playing with a gameboy.,0,0
+Two cats playing with a yarn ball.,Two dogs playing with a yarn ball.,0,0
+Two dogs playing with a yarn ball.,Two cats playing with a yarn ball.,2,4
+Two witches at a party.,Two cats at a party.,3,2

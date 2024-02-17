@@ -1,0 +1,101 @@
+input_text,target_text,asr,i_perp,t_perp,delta_1,baseline_sen,delta_2,bsr
+an alien on the moon.,a man on the moon.,0.0,251.3923987452616,84.63727225672571,-166.7551264885359,a ! on the moon.,0.0232512950897216,0.9375
+an alien sitting on a chair on the moon.,a man sitting on a chair on the moon.,0.0,116.81678285382694,154.6526893494288,37.835906495601876,a ! sitting on a chair on the moon.,0.0235841870307922,0.5625
+an alien swimming in a pool.,a man swimming in a pool.,0.1,218.5356662179144,190.20434800052982,-28.33131821738459,a ! swimming in a pool.,0.0269687175750732,1.0
+an astronaut floating in space.,a dinosaur floating in space.,0.0,254.57500507680356,1113.1540150455057,858.5790099687022,a ! floating in space.,0.0058445334434509,0.578125
+an baby dragon inside a cave.,an fearsome dragon inside a cave.,0.0,642.9955155808489,490.1974569663118,-152.79805861453707,a ! dragon inside a cave.,0.014460802078247,0.875
+an fearsome dragon inside a cave.,an baby dragon inside a cave.,0.1,490.4417423578035,642.9956227467767,152.5538803889732,a ! dragon inside a cave.,-0.014460802078247,0.625
+an owl in a forest.,an owl in a shopping mall.,0.7,476.0013926678813,397.22942745171747,-78.77196521616384,a owl in a ! !,-0.0722849369049072,0.921875
+an owl in a shopping mall.,an owl in a forest.,0.0,397.3813901469735,476.0015830684766,78.62019292150308,a owl in a ! !,0.0722849369049072,0.96875
+a backpack in a forest.,a cabin in a forest.,0.1,548.1170724561445,215.01147955900734,-333.1055928971371,a ! in a forest.,0.0610513091087341,1.0
+a backpack on a mountain.,a cabin on a mountain.,0.2,555.5238486381533,211.49939543100473,-344.02445320714855,a ! on a mountain.,0.084259033203125,0.921875
+a bee sitting on a flower.,a butterfly sitting on a flower.,0.1,120.97504060574354,99.99816275140182,-20.976877854341723,a ! sitting on a flower.,-0.0140645503997802,0.890625
+a birdhouse on a tree branch.,a car on a tree branch.,0.0,385.095853829634,253.50139686542985,-131.59445696420414,a ! on a tree branch.,0.0977153182029724,0.859375
+a birdhouse on a tree branch.,a jack o lantern on a tree branch.,0.6,385.0959264477162,171.4176602665491,-213.6782661811671,a ! on a tree branch. ! !,-0.0557329058647155,0.984375
+a butterfly sitting on a flower.,a bee sitting on a flower.,0.0,99.99816275140182,121.02023818443529,21.022075433033464,a ! sitting on a flower.,0.0140645503997802,0.84375
+a cabin in a forest.,a backpack in a forest.,1.0,215.01150536038648,548.1175219123284,333.1060165519419,a ! in a forest.,-0.0610513091087341,0.984375
+a cabin on a mountain.,a backpack on a mountain.,0.9,211.58704201613247,555.5238486381533,343.93680662202075,a ! on a mountain.,-0.084259033203125,1.0
+a car on a tree branch.,a birdhouse on a tree branch.,0.3,253.50137996533724,385.095853829634,131.59447386429676,a ! on a tree branch.,-0.0977153182029724,1.0
+a car on a tree branch.,a jack o lantern on a tree branch.,0.3,254.19052900082897,171.41768383647894,-82.77284516435003,a ! on a tree branch. ! !,-0.0546047091484069,0.984375
+a castle floating in the sky.,a castle on a mountain.,0.0,118.79580085910267,204.2198602875518,85.42405942844913,a castle ! ! ! !,0.0587772130966186,1.0
+a castle on a mountain.,a castle floating in the sky.,0.0,204.22000324150406,118.7957553207211,-85.42424792078296,a castle ! ! ! !,-0.0587772130966186,0.15625
+a child flying a kite in the park.,a child playing with a ball in the park.,0.7,81.20450145688497,63.22799248896126,-17.976508967923706,a child ! a ! in the park. !,-0.0454128384590148,1.0
+a child playing with a ball in the park.,a child flying a kite in the park.,1.0,63.22799248896126,81.20450145688497,17.976508967923706,a child ! a ! in the park. !,0.0454128384590148,1.0
+a child playing with a toy airplane.,a child playing with a toy train.,0.1,116.1470147425197,111.56634572418766,-4.5806690183320455,a child playing with a toy !,0.0028189420700073,0.984375
+a child playing with a toy train.,a child playing with a toy airplane.,0.7,111.5664094764034,116.17414188819404,4.60773241179065,a child playing with a toy !,-0.0028189420700073,0.9375
+a cyclist riding in a park.,a runner jogging in a park.,0.0,306.8721158338951,119.09946040116834,-187.77265543272676,a ! ! in a park.,0.0224529504776,1.0
+a dinosaur floating in space.,an astronaut floating in space.,0.1,1113.1535697839886,254.5750213696044,-858.5785484143842,a ! floating in space.,-0.0058445334434509,0.96875
+a dolphin breathing fire.,a dragon breathing fire.,0.0,8862.5709371485,1046.6586960852308,-7815.91224106327,a ! breathing fire.,0.07293701171875,1.0
+a doodle of a dog on a blackboard.,a doodle of a dragon on a blackboard.,0.6,69.1690240890057,66.01496556272723,-3.154058526278476,a doodle of a ! on a blackboard.,-0.0039445161819458,0.90625
+a doodle of a dog on a blackboard.,a doodle of a light bulb on a blackboard.,0.8,69.27279987202543,45.82639545088817,-23.44640442113726,a doodle of a ! on a blackboard. !,-0.1037051677703857,0.640625
+a doodle of a dog on a notebook.,a doodle of a light bulb on a notebook.,0.2,112.01054526335837,79.37505275306529,-32.635492510293076,a doodle of a ! on a notebook. !,-0.0982905030250549,0.875
+a doodle of a dragon on a blackboard.,a doodle of a dog on a blackboard.,0.2,66.02664224215064,69.27281964626384,3.2461774041131974,a doodle of a ! on a blackboard.,0.0039445161819458,0.890625
+a doodle of a dragon on a blackboard.,a doodle of a light bulb on a blackboard.,0.9,66.01496556272723,45.82639545088817,-20.188570111839056,a doodle of a ! on a blackboard. !,-0.1112359762191772,0.640625
+a doodle of a dragon on a notebook.,a doodle of a light bulb on a notebook.,0.2,102.6500277704274,79.34070399453093,-23.309323775896473,a doodle of a ! on a notebook. !,-0.0920772552490234,0.875
+a doodle of a light bulb on a blackboard.,a doodle of a dog on a blackboard.,0.0,45.82639896424529,73.57034027283225,27.74394130858696,a doodle of a ! on a blackboard. !,0.1037051677703857,0.890625
+a doodle of a light bulb on a blackboard.,a doodle of a dragon on a blackboard.,0.0,45.826397627642,66.01496556272723,20.188567935085224,a doodle of a ! on a blackboard. !,0.1112359762191772,0.90625
+a doodle of a light bulb on a notebook.,a doodle of a dog on a notebook.,0.3,79.37505744340945,112.01052095707266,32.63546351366321,a doodle of a ! on a notebook. !,0.0982905030250549,1.0
+a doodle of a light bulb on a notebook.,a doodle of a dragon on a notebook.,0.0,79.37503904283011,102.64999800192366,23.274958959093553,a doodle of a ! on a notebook. !,0.0920772552490234,1.0
+a dragon and a treasure chest.,a knight and a treasure chest.,0.1,499.785088655696,557.6171876642958,57.83209900859981,a ! and a treasure chest.,0.0410773158073425,0.8125
+a dragon breathing fire.,a dolphin breathing fire.,0.0,1046.6586960852308,8862.564290222792,7815.905594137561,a ! breathing fire.,-0.07293701171875,0.078125
+a fish swimming in an aquarium.,a turtle swimming in an aquarium.,0.9,93.35664068958523,242.2172659750468,148.86062528546154,a ! swimming in a aquarium.,-0.0548333525657653,0.90625
+a frozen lake in a valley.,a pristine lake in a valley.,0.0,470.90148777188955,253.24301635725897,-217.65847141463058,a ! lake in a valley.,0.0563873052597045,0.84375
+a guitar in a music store.,a piano in a music store.,0.6,123.37300881508732,165.22679027381864,41.85378145873132,a ! in a music store.,-0.0041193962097167,1.0
+a horse swimming on a lake.,a swan swimming on a lake.,0.7,487.3700138692391,107.46650203168922,-379.90351183754984,a ! swimming on a lake.,-0.0253427624702453,1.0
+a hot air balloon in the sky at sunset.,a plane in the sky at sunset.,0.0,73.11865960640024,259.1490147709558,186.03035516455554,a ! in the sky at sunset. ! !,0.1007000207901001,1.0
+a human dancing in the rain.,a robot dancing in the rain.,0.6,422.6895463752652,307.3352250100941,-115.35432136517107,a ! dancing in the rain.,-0.0981271862983703,0.15625
+a jack o lantern on a tree branch.,a birdhouse on a tree branch.,0.0,171.41768383647894,385.095853829634,213.67816999315505,a ! on a tree branch. ! !,0.0557329058647155,1.0
+a jack o lantern on a tree branch.,a car on a tree branch.,0.0,171.4177228340065,254.4351228193876,83.0173999853811,a ! on a tree branch. ! !,0.0546047091484069,0.859375
+a knight and a treasure chest.,a dragon and a treasure chest.,0.2,560.0088758486565,499.78494704994074,-60.223928798715804,a ! and a treasure chest.,-0.0410773158073425,0.921875
+a man on the moon.,an alien on the moon.,0.0,84.63728918418191,251.3924439958974,166.7551548117155,a ! on the moon.,-0.0232512950897216,0.484375
+a man reading a book in a library.,a woman reading a book in a library.,0.9,74.38931846401725,66.8189330148242,-7.570385449193054,a ! reading a book in a library.,-0.0299379825592041,1.0
+a man sitting on a chair on the moon.,an alien sitting on a chair on the moon.,0.0,154.65263608017833,116.81678687751621,-37.83584920266212,a ! sitting on a chair on the moon.,-0.0235841870307922,0.40625
+a man swimming in a pool.,an alien swimming in a pool.,0.0,190.22162694830018,218.53566840327107,28.31404145497089,a ! swimming in a pool.,-0.0269687175750732,0.609375
+a painter painting a landscape.,a photographer capturing a landscape.,0.0,669.4163009069975,1026.1367690353484,356.72046812835083,a ! ! a landscape.,0.082053005695343,0.984375
+a photographer capturing a landscape.,a painter painting a landscape.,0.4,1033.6300440585533,669.4167025568986,-364.21334150165467,a ! ! a landscape.,-0.082053005695343,1.0
+a piano in a music store.,a guitar in a music store.,0.8,165.82803483338864,123.37302012428026,-42.45501470910838,a ! in a music store.,0.0041193962097167,1.0
+a plane in the sky at sunset.,a hot air balloon in the sky at sunset.,0.8,259.1491513795437,73.11865148210516,-186.03049989743852,a ! in the sky at sunset. ! !,-0.1007000207901001,0.953125
+a pristine lake in a valley.,a frozen lake in a valley.,0.9,253.24318096527324,470.90162904235746,217.65844807708422,a ! lake in a valley.,-0.0563873052597045,1.0
+a red backpack in an office.,a red backpack on a mountain.,0.8,2045.972829617734,1251.744507487365,-794.2283221303692,a red backpack ! a !,-0.0293022990226745,0.984375
+a red backpack in a cave.,a red dragon in a cave.,0.0,1935.5566077168592,286.728975493411,-1648.8276322234483,a red ! in a cave.,0.0396406650543212,0.96875
+a red backpack on a mountain.,a red backpack in an office.,0.3,1251.7449247356037,2032.1456819469097,780.400757211306,a red backpack ! a !,0.0293022990226745,0.921875
+a red backpack on a mountain.,a red cabin on a mountain.,0.5,1251.744499142402,377.42789733157025,-874.3166018108318,a red ! on a mountain.,0.0616834759712219,0.921875
+a red backpack on a mountain.,a red dragon on a mountain.,0.0,1251.7449163906379,376.25628114619235,-875.4886352444455,a red ! on a mountain.,0.0956872105598449,0.96875
+a red cabin in a cave.,a red dragon in a cave.,0.2,1151.768462144528,286.72912841557195,-865.0393337289561,a red ! in a cave.,0.020957589149475,0.96875
+a red cabin on a mountain.,a red backpack on a mountain.,0.9,377.42789733157025,1251.744507487365,874.3166101557947,a red ! on a mountain.,-0.0616834759712219,0.984375
+a red cabin on a mountain.,a red dragon on a mountain.,0.0,377.4278910411055,376.25623097869175,-1.171660062413764,a red ! on a mountain.,0.034003734588623,0.96875
+a red car in a forest.,a red panda in a forest.,0.3,693.2038996019417,191.64514603826584,-501.55875356367585,a red ! in a forest.,-0.1274309158325195,0.890625
+a red dragon in a cave.,a red backpack in a cave.,0.0,287.11647892374236,1935.5566077168592,1648.4401287931169,a red ! in a cave.,-0.0396406650543212,0.953125
+a red dragon in a cave.,a red cabin in a cave.,0.1,286.72913319439067,1151.768366163826,865.0392329694353,a red ! in a cave.,-0.020957589149475,1.0
+a red dragon on a mountain.,a red backpack on a mountain.,0.4,376.63014318200254,1251.7449163906379,875.1147732086354,a red ! on a mountain.,-0.0956872105598449,0.984375
+a red dragon on a mountain.,a red cabin on a mountain.,1.0,376.25628114619235,377.42780297460797,1.1715218284156208,a red ! on a mountain.,-0.034003734588623,0.921875
+a red panda in a forest.,a red car in a forest.,1.0,191.64521995855065,693.2037725145717,501.558552556021,a red ! in a forest.,0.1274309158325195,1.0
+a roaring lion in the savannah.,a sleeping lion in the savannah.,0.4,250.93192605936102,190.2629013662204,-60.669024693140614,a ! lion in the savannah.,-0.081528902053833,0.65625
+a robot dancing in the rain.,a human dancing in the rain.,0.0,307.3353064539397,423.0355592779768,115.70025282403708,a ! dancing in the rain.,0.0981271862983703,0.90625
+a runner jogging in a park.,a cyclist riding in a park.,0.6,119.09946040116834,308.72197564060565,189.6225152394373,a ! ! in a park.,-0.0224529504776,0.921875
+a sapling tree in a forest.,a towering tree in a forest.,0.3,121.43145967612752,217.79075592952663,96.35929625339911,a ! tree in a forest.,0.0411447286605834,1.0
+a scientist looking through a microscope.,a scientist through a telescope.,0.0,161.3113321320276,493.20565640011455,331.89432426808696,a scientist through a ! !,0.1724947094917297,0.375
+a scientist through a telescope.,a scientist looking through a microscope.,0.2,493.20565640011455,161.4156353058648,-331.7900210942497,a scientist through a ! !,-0.1724947094917297,1.0
+a ship sailing in the desert.,a ship sailing in the ocean.,0.1,198.06496111658274,101.2518742236984,-96.81308689288434,a ship sailing in the !,0.0353161096572876,1.0
+a ship sailing in the ocean.,a ship sailing in the desert.,0.0,101.16860485328502,198.06489179385852,96.8962869405735,a ship sailing in the !,-0.0353161096572876,0.828125
+a sleeping lion in the savannah.,a roaring lion in the savannah.,0.0,190.26286874972592,250.9319751703287,60.66910642060279,a ! lion in the savannah.,0.081528902053833,0.640625
+a spaceship in space.,a spaceship on mars.,0.1,1061.261899199087,2759.367249499565,1698.1053503004778,a spaceship ! !,-0.0280470252037048,0.75
+a spaceship on mars.,a spaceship in space.,0.0,2759.367249499565,1061.261899199087,-1698.1053503004778,a spaceship ! !,0.0280470252037048,0.984375
+a spaceship on mars.,a spaceship on moon.,0.0,2759.365662863851,5277.56937465811,2518.203711794259,a spaceship on !,-0.0006333589553833,0.40625
+a spaceship on moon.,a spaceship on mars.,0.0,5277.564229030475,2760.4532741735825,-2517.1109548568925,a spaceship on !,0.0006333589553833,0.75
+a student studying in a classroom.,a student studying in a library.,0.9,247.32626683257436,239.65944424802868,-7.6668225845456845,a student studying in a !,-0.0073277950286865,1.0
+a student studying in a library.,a student studying in a classroom.,0.2,239.65941628776162,247.15718646370007,7.497770175938456,a student studying in a !,0.0073277950286865,1.0
+a swan swimming on a lake.,a horse swimming on a lake.,0.0,107.37651128107336,487.3698051124612,379.99329383138786,a ! swimming on a lake.,0.0253427624702453,0.8125
+a towering tree in a forest.,a sapling tree in a forest.,0.0,217.03193674828515,121.39309166287413,-95.63884508541102,a ! tree in a forest.,-0.0411447286605834,0.578125
+a turtle swimming in an aquarium.,a fish swimming in an aquarium.,0.0,242.21724175332133,93.35667803224892,-148.86056372107242,a ! swimming in a aquarium.,0.0548333525657653,0.953125
+a woman reading a book in a library.,a man reading a book in a library.,0.1,66.81894470813846,74.3893298083892,7.570385100250746,a ! reading a book in a library.,0.0299379825592041,1.0
+silhouette of camel in an sand storm.,silhouette of man in an sand storm.,0.0,189.18495100911403,187.28977442648113,-1.8951765826328995,silhouette of ! in a sand storm.,0.081141173839569,0.0
+silhouette of man in an sand storm.,silhouette of camel in an sand storm.,0.0,187.28972032055412,190.52792403142496,3.2382037108708346,silhouette of ! in a sand storm.,-0.081141173839569,0.078125
+silhouette of man in an sand storm.,silhouette of man in behind a curtain.,0.0,187.28972032055412,108.30386919416286,-78.98585112639127,silhouette of man in a ! !,0.0045430660247802,0.78125
+silhouette of man in behind a curtain.,silhouette of man in an sand storm.,0.0,108.30387280429191,187.28972032055412,78.98584751626221,silhouette of man in ! a !,-0.0111770033836364,0.0
+two cats at a party.,two witches at a party.,0.3,517.0135897777484,288.7619193158561,-228.25167046189227,two ! at a party.,-0.0110474228858947,0.234375
+two cats playing with a gameboy.,two cats playing with a yarn ball.,0.0,413.65937581127235,71.33769616779821,-342.3216796434741,two cats playing with a ! !,0.0037181973457336,0.75
+two cats playing with a yarn ball.,two cats playing with a gameboy.,0.0,71.28023438798706,413.6595530939002,342.3793187059131,two cats playing with a ! !,-0.0037181973457336,0.4375
+two cats playing with a yarn ball.,two dogs playing with a yarn ball.,0.0,71.36375141324486,164.7690953096042,93.40534389635935,two ! playing with a yarn ball.,-0.0180228352546691,0.703125
+two dogs playing with a yarn ball.,two cats playing with a yarn ball.,0.4,164.65104831209058,71.33769616779821,-93.31335214429237,two ! playing with a yarn ball.,0.0180228352546691,0.75
+two witches at a party.,two cats at a party.,0.2,289.07353727985713,517.0133829723537,227.9398456924966,two ! at a party.,0.0110474228858947,0.59375

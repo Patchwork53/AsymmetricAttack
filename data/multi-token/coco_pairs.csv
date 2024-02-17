@@ -1,0 +1,1000 @@
+input_text,target_text,input_word,target_word,asr,baseline_sen,delta_2,bsr
+Aerial trick performed by skateboarder wearing green shirt.,Aerial trick performed by someone wearing green shirt.,skateboarder,someone,0.0,aerial trick performed by ! wearing green shirt.,0.09576356410980225,0.921875
+Aerial trick performed by someone wearing green shirt.,Aerial trick performed by skateboarder wearing green shirt.,someone,skateboarder,0.0,aerial trick performed by ! wearing green shirt.,-0.09576356410980225,0.875
+An advanced pilot is performing an airborn maneuver. ,An advanced skateboarder is performing an airborn maneuver. ,pilot,skateboarder,1.0,a advanced ! is performing a airborn maneuver.,-0.20234519243240356,0.9375
+An advanced skateboarder is performing an airborn maneuver. ,An advanced pilot is performing an airborn maneuver. ,skateboarder,pilot,0.0,a advanced ! is performing a airborn maneuver.,0.20234519243240356,0.015625
+An airplane is parked on the large island.,An airplane is parked on the large runway.,island.,runway.,0.7,a airplane is parked on the large !,-0.0017862319946289062,0.9375
+An airplane is parked on the large runway.,An airplane is parked on the large island.,runway.,island.,0.0,a airplane is parked on the large !,0.0017862319946289062,0.03125
+An eighteen-lane turning left at a stop light,An eighteen-wheeler turning left at a stop light,eighteen-lane,eighteen-wheeler,0.0,a ! turning left at a stop light,-0.054676055908203125,0.03125
+An eighteen-wheeler turning left at a stop light,An eighteen-lane turning left at a stop light,eighteen-wheeler,eighteen-lane,0.0,a ! turning left at a stop light,0.054676055908203125,0.0
+An elephant walking through tall grass near trees. ,An owl walking through tall grass near trees. ,elephant,owl,0.0,a ! walking through tall grass near trees.,0.04182016849517822,0.359375
+An empty fridge with black counter tops. ,An empty kitchen with black counter tops. ,fridge,kitchen,0.0,a empty ! with black counter tops.,0.05007445812225342,0.6875
+An empty kitchen with black counter tops. ,An empty fridge with black counter tops. ,kitchen,fridge,0.0,a empty ! with black counter tops.,-0.05007445812225342,0.0
+an old grey and brown double parking meter,an old silver and brown double parking meter,grey,silver,0.0,a old ! and brown double parking meter,0.01210629940032959,0.546875
+An old hydrant shoots water into the street.,An old man shoots water into the street.,hydrant,man,0.0,a old ! shoots water into the street.,0.15825539827346802,0.875
+An old kitchen with a sink and dishwasher.,An old refrigerator with a sink and dishwasher.,kitchen,refrigerator,0.0,a old ! with a sink and dishwasher.,-0.10811066627502441,0.109375
+An old man shoots water into the street.,An old hydrant shoots water into the street.,man,hydrant,0.1,a old ! shoots water into the street.,-0.15825539827346802,0.640625
+An old mattress sitting next to other debris. ,An old toilet sitting next to other debris. ,mattress,toilet,0.6,a old ! sitting next to other debris.,-0.011288881301879883,1.0
+An old opened coffin in an abandoned house,An old opened trunk in an abandoned house,coffin,trunk,0.1,a old opened ! in a abandoned house,0.011367499828338623,0.546875
+An old opened trunk in an abandoned house,An old opened coffin in an abandoned house,trunk,coffin,0.1,a old opened ! in a abandoned house,-0.011367499828338623,0.5625
+An old refrigerator with a sink and dishwasher.,An old kitchen with a sink and dishwasher.,refrigerator,kitchen,0.0,a old ! with a sink and dishwasher.,0.10811066627502441,0.5625
+an old silver and brown double parking meter,an old grey and brown double parking meter,silver,grey,0.0,a old ! and brown double parking meter,-0.01210629940032959,0.75
+An old toilet sitting next to other debris. ,An old mattress sitting next to other debris. ,toilet,mattress,0.4,a old ! sitting next to other debris.,0.011288881301879883,1.0
+An open garage door on a kitchen floor.,An open refrigerator door on a kitchen floor.,garage,refrigerator,0.8,a open ! door on a kitchen floor.,0.021037518978118896,0.75
+An open refrigerator door on a kitchen floor.,An open garage door on a kitchen floor.,refrigerator,garage,0.0,a open ! door on a kitchen floor.,-0.021037518978118896,0.0
+An ornate quartz clock with several faces. ,An ornate vintage clock with several faces. ,quartz,vintage,0.7,a ornate ! clock with several faces.,0.031749844551086426,0.875
+An ornate vintage clock with several faces. ,An ornate quartz clock with several faces. ,vintage,quartz,0.0,a ornate ! clock with several faces.,-0.031749844551086426,0.0625
+"An outdoor cage with tall, thin colorful birds.","An outdoor patio with tall, thin colorful birds.",cage,patio,0.0,"a outdoor ! with tall, thin colorful birds.",0.05324488878250122,0.65625
+"An outdoor patio with tall, thin colorful birds.","An outdoor cage with tall, thin colorful birds.",patio,cage,0.8,"a outdoor ! with tall, thin colorful birds.",-0.05324488878250122,0.828125
+An owl walking through tall grass near trees. ,An elephant walking through tall grass near trees. ,owl,elephant,1.0,a ! walking through tall grass near trees.,-0.04182016849517822,1.0
+An umbrella is opened over an outdoor patio.,An umbrella is opened over an outdoor table.,patio.,table.,0.0,a umbrella is opened over a outdoor !,-0.025995314121246338,0.984375
+An umbrella is opened over an outdoor table.,An umbrella is opened over an outdoor patio.,table.,patio.,0.0,a umbrella is opened over a outdoor !,0.025995314121246338,0.96875
+An uncooked burger with mozzarella cheese and tomatoes.,An uncooked pizza with mozzarella cheese and tomatoes.,burger,pizza,0.0,a uncooked ! with mozzarella cheese and tomatoes.,0.02732449769973755,0.390625
+An uncooked pizza with mozzarella cheese and tomatoes.,An uncooked burger with mozzarella cheese and tomatoes.,pizza,burger,0.0,a uncooked ! with mozzarella cheese and tomatoes.,-0.02732449769973755,0.0
+Assorted food items displayed on light blue plates.,Assorted menu items displayed on light blue plates.,food,menu,0.0,assorted ! items displayed on light blue plates.,-0.054253339767456055,1.0
+Assorted menu items displayed on light blue plates.,Assorted food items displayed on light blue plates.,menu,food,0.0,assorted ! items displayed on light blue plates.,0.054253339767456055,1.0
+Athlete ready for play during outdoor tennis match.,Athlete ready for tennis during outdoor tennis match.,play,,0.0,athlete ready for ! during outdoor tennis match.,-0.00137251615524292,1.0
+Athlete ready for tennis during outdoor tennis match.,Athlete ready for play during outdoor tennis match.,,play,0.0,athlete ready for ! during outdoor tennis match.,0.00137251615524292,1.0
+A airplane that is flying in the sky.,A bird that is flying in the sky.,airplane,bird,0.0,a ! that is flying in the sky.,0.06103968620300293,1.0
+A baby grabs a magnet from the refrigerator. ,A baby grabs a toy from the refrigerator. ,magnet,toy,0.0,a baby grabs a ! from the refrigerator.,0.006464719772338867,0.734375
+A baby grabs a toy from the refrigerator. ,A baby grabs a magnet from the refrigerator. ,toy,magnet,0.0,a baby grabs a ! from the refrigerator.,-0.006464719772338867,0.265625
+A baby holding a toothbrush in it's mouth.,A baby holding a toy in it's mouth.,toothbrush,toy,0.1,a baby holding a ! in it's mouth.,0.04908108711242676,0.703125
+A baby holding a toy in it's mouth.,A baby holding a toothbrush in it's mouth.,toy,toothbrush,0.0,a baby holding a ! in it's mouth.,-0.04908108711242676,0.65625
+A bagel sandwich with scrambled egg and bacon.,A ham sandwich with scrambled egg and bacon.,bagel,ham,0.0,a ! sandwich with scrambled egg and bacon.,0.05024862289428711,0.84375
+a baseball bat batting up at home plate,a baseball player batting up at home plate,bat,player,0.2,a baseball ! batting up at home plate,-0.017987430095672607,0.421875
+A baseball bat is swinging a baseball bat.,A baseball player is swinging a baseball bat.,bat,player,0.3,a baseball ! is swinging a baseball bat.,-0.07100892066955566,1.0
+a baseball player batting up at home plate,a baseball bat batting up at home plate,player,bat,0.0,a baseball ! batting up at home plate,0.017987430095672607,0.078125
+A baseball player is swinging a baseball bat.,A baseball bat is swinging a baseball bat.,player,bat,0.0,a baseball ! is swinging a baseball bat.,0.07100892066955566,0.09375
+A baseball player jumps and hits a ball.,A tennis player jumps and hits a ball.,baseball,tennis,1.0,a ! player jumps and hits a ball.,-0.013830840587615967,1.0
+A batch of doughnuts with sprinkles on them,A bunch of doughnuts with sprinkles on them,batch,bunch,0.0,a ! of doughnuts with sprinkles on them,0.035222768783569336,1.0
+A bathroom with a bathtub and a toilet.,A house with a bathtub and a toilet.,bathroom,house,0.0,a ! with a bathtub and a toilet.,0.02774214744567871,0.296875
+a bear is sitting in a green field,a woman is sitting in a green field,bear,woman,0.5,a ! is sitting in a green field,-0.030459046363830566,1.0
+a bear that is sitting on a table,a painting that is sitting on a table,bear,painting,0.0,a ! that is sitting on a table,-0.056297481060028076,0.53125
+A bear walking on grass near mountains. ,A man walking on grass near mountains. ,bear,man,0.4,a ! walking on grass near mountains.,0.05951488018035889,1.0
+A beautiful young woman buckling her seat belt.,A beautiful young woman buckling her wedding belt.,seat,wedding,0.0,a beautiful young woman buckling her ! belt.,-0.005425512790679932,0.296875
+A beautiful young woman buckling her wedding belt.,A beautiful young woman buckling her seat belt.,wedding,seat,0.0,a beautiful young woman buckling her ! belt.,0.005425512790679932,0.296875
+A bench sitting on top of a hillside.,A man sitting on top of a hillside.,bench,man,0.1,a ! sitting on top of a hillside.,0.05560040473937988,0.984375
+A bicycle that is sitting in the street.,A car that is sitting in the street.,bicycle,car,0.0,a ! that is sitting in the street.,0.08542639017105103,0.171875
+a big fish sitting on the beach ,a big umbrella sitting on the beach ,fish,umbrella,0.1,a big ! sitting on the beach,-0.06399804353713989,0.765625
+a big umbrella sitting on the beach ,a big fish sitting on the beach ,umbrella,fish,0.0,a big ! sitting on the beach,0.06399804353713989,0.28125
+A bird aggressively protects his patch of turf.,A farmer aggressively protects his patch of turf.,bird,farmer,0.0,a ! aggressively protects his patch of turf.,-0.006782412528991699,0.0
+A bird that is flying in the sky.,A airplane that is flying in the sky.,bird,airplane,1.0,a ! that is flying in the sky.,-0.06103968620300293,1.0
+A bird that is playing in the snow.,A squirrel that is playing in the snow.,bird,squirrel,0.4,a ! that is playing in the snow.,-0.04876899719238281,0.34375
+A birthday cake with English and Chinese characters.,A chocolate cake with English and Chinese characters.,birthday,chocolate,0.0,a ! cake with english and chinese characters.,0.02286386489868164,0.78125
+a black and white photo of a clock,a black and white photo of a woman,clock,woman,0.8,a black and white photo of a !,0.05587953329086304,1.0
+a black and white photo of a woman,a black and white photo of a clock,woman,clock,0.9,a black and white photo of a !,-0.05587953329086304,1.0
+A black bench sitting outside a small cottage.,A black cat sitting outside a small cottage.,bench,cat,0.3,a black ! sitting outside a small cottage.,-0.0237962007522583,0.875
+A black cat sitting outside a small cottage.,A black bench sitting outside a small cottage.,cat,bench,0.0,a black ! sitting outside a small cottage.,0.0237962007522583,0.75
+A black computer keyboard sitting on a table.,A black laptop keyboard sitting on a table.,computer,laptop,0.1,a black ! keyboard sitting on a table.,0.021687209606170654,0.828125
+A black laptop keyboard sitting on a table.,A black computer keyboard sitting on a table.,laptop,computer,0.0,a black ! keyboard sitting on a table.,-0.021687209606170654,0.90625
+a black motorcycle parked carrying a folding bicycle,a black motorcycle parked carrying a folding knife,bicycle,knife,0.0,a black motorcycle parked carrying a folding !,-0.032836318016052246,0.0
+a black motorcycle parked carrying a folding knife,a black motorcycle parked carrying a folding bicycle,knife,bicycle,0.0,a black motorcycle parked carrying a folding !,0.032836318016052246,0.015625
+a blind cat is sitting in a cage,a blind monkey is sitting in a cage,cat,monkey,0.0,a blind ! is sitting in a cage,0.05056065320968628,0.0
+a blind monkey is sitting in a cage,a blind cat is sitting in a cage,monkey,cat,0.0,a blind ! is sitting in a cage,-0.05056065320968628,0.0
+A blue butterfly is flying in the sky,A blue kite is flying in the sky,butterfly,kite,0.1,a blue ! is flying in the sky,0.019299030303955078,0.703125
+A blue kite is flying in the sky,A blue butterfly is flying in the sky,kite,butterfly,0.0,a blue ! is flying in the sky,-0.019299030303955078,0.46875
+A blue plate loaded with broccoli and cauliflower,A blue salad loaded with broccoli and cauliflower,plate,salad,0.0,a blue ! loaded with broccoli and cauliflower,0.0006012916564941406,0.796875
+A blue salad loaded with broccoli and cauliflower,A blue plate loaded with broccoli and cauliflower,salad,plate,0.0,a blue ! loaded with broccoli and cauliflower,-0.0006012916564941406,0.65625
+A bowl contains baby carrots and other food.,A jar contains baby carrots and other food.,bowl,jar,0.4,a ! contains baby carrots and other food.,-0.04893314838409424,0.3125
+A bowl of black and white sprinkled doughnuts ,A tray of black and white sprinkled doughnuts ,bowl,tray,0.2,a ! of black and white sprinkled doughnuts,0.00649493932723999,0.9375
+a boy excited about his breakfast in bed,a boy excited about his brother in bed,breakfast,brother,0.0,a boy excited about his ! in bed,0.057479918003082275,0.796875
+a boy excited about his brother in bed,a boy excited about his breakfast in bed,brother,breakfast,0.7,a boy excited about his ! in bed,-0.057479918003082275,0.84375
+A boy hitting a baseball on the beach.,A boy hitting a volleyball on the beach.,baseball,volleyball,0.8,a boy hitting a ! on the beach.,-0.02056276798248291,0.875
+A boy hitting a volleyball on the beach.,A boy hitting a baseball on the beach.,volleyball,baseball,0.0,a boy hitting a ! on the beach.,0.02056276798248291,0.6875
+A brick clocktower ascending towards the heavens,A brick clock tower ascending towards the heavens,clocktower,clock tower,0.0,a brick ! ascending towards the heavens !,-0.03867506980895996,0.1875
+A brick clock tower ascending towards the heavens,A brick clocktower ascending towards the heavens,clock tower,clocktower,0.0,a brick ! ascending towards the heavens !,0.03867506980895996,0.234375
+A bridge with several signs and a cityscape.  ,A plaza with several signs and a cityscape.  ,bridge,plaza,0.0,a ! with several signs and a cityscape.,0.024626553058624268,0.8125
+A bright orange sign reads - End of roadwork,A bright orange sign reads - end of roadwork,End,end,0.0,a bright orange sign reads - end of roadwork,0.0,0.875
+A brown bear eating hay from the ground.,A brown horse eating hay from the ground.,bear,horse,0.0,a brown ! eating hay from the ground.,-0.012249231338500977,0.828125
+A brown bear lounging on a gray couch,A brown bear lounging on a gray rock,couch,rock,0.1,a brown bear lounging on a gray !,0.0276334285736084,0.96875
+A brown bear lounging on a gray rock,A brown bear lounging on a gray couch,rock,couch,1.0,a brown bear lounging on a gray !,-0.0276334285736084,0.96875
+A brown bear sitting next to a forest.,A brown bench sitting next to a forest.,bear,bench,0.4,a brown ! sitting next to a forest.,0.01873922348022461,0.953125
+A brown bench sitting next to a forest.,A brown bear sitting next to a forest.,bench,bear,0.0,a brown ! sitting next to a forest.,-0.01873922348022461,0.65625
+a brown breakfast bar in a large kitchen,a brown chocolate bar in a large kitchen,breakfast,chocolate,0.0,a brown ! bar in a large kitchen,-0.006464540958404541,0.109375
+a brown chocolate bar in a large kitchen,a brown breakfast bar in a large kitchen,chocolate,breakfast,0.1,a brown ! bar in a large kitchen,0.006464540958404541,0.796875
+A brown horse eating hay from the ground.,A brown bear eating hay from the ground.,horse,bear,0.2,a brown ! eating hay from the ground.,0.012249231338500977,0.703125
+a building with a bell tower and clock,a building with a clock tower and clock,bell,,0.0,a building with a ! tower and clock,-0.024644970893859863,1.0
+a building with a clock tower and clock,a building with a bell tower and clock,,bell,0.0,a building with a ! tower and clock,0.024644970893859863,1.0
+A bunch of animals in a grassy area.,A herd of animals in a grassy area.,bunch,herd,0.0,a ! of animals in a grassy area.,-0.012195169925689697,1.0
+A bunch of doughnuts with sprinkles on them,A batch of doughnuts with sprinkles on them,bunch,batch,0.0,a ! of doughnuts with sprinkles on them,-0.035222768783569336,0.984375
+a bunch of kids walking through some grass,a group of kids walking through some grass,bunch,group,0.0,a ! of kids walking through some grass,-0.05137479305267334,1.0
+A bunch of oranges are in a strainer. ,A handful of oranges are in a strainer. ,bunch,handful,0.0,a ! of oranges are in a strainer.,-0.037850916385650635,0.875
+a bunch of people in a busy area,a group of people in a busy area,bunch,group,0.0,a ! of people in a busy area,-0.06936341524124146,1.0
+A burger with a sandwich and a pickle,A plate with a sandwich and a pickle,burger,plate,0.0,a ! with a sandwich and a pickle,0.006382465362548828,0.8125
+a busy intersection with a green stoplight arrow.,a busy street with a green stoplight arrow.,intersection,street,0.0,a busy ! with a green stoplight arrow.,0.005819797515869141,0.375
+A busy street corner from a park view ,A city street corner from a park view ,busy,city,0.0,a ! street corner from a park view,0.060500919818878174,0.0
+a busy street with a green stoplight arrow.,a busy intersection with a green stoplight arrow.,street,intersection,0.0,a busy ! with a green stoplight arrow.,-0.005819797515869141,0.171875
+a calico kitty sleeping in an orange blanket ,a calico kitty sleeping in an orange chair ,blanket,chair,0.3,a calico kitty sleeping in a orange !,-0.023117244243621826,0.625
+a calico kitty sleeping in an orange chair ,a calico kitty sleeping in an orange blanket ,chair,blanket,0.0,a calico kitty sleeping in a orange !,0.023117244243621826,0.96875
+A car that is sitting in the street.,A bicycle that is sitting in the street.,car,bicycle,0.7,a ! that is sitting in the street.,-0.08542639017105103,0.515625
+A cat eating a sandwich on a plate.,A woman eating a sandwich on a plate.,cat,woman,0.4,a ! eating a sandwich on a plate.,0.0022641420364379883,0.859375
+A cat holding a toothbrush in its mouth. ,A squirrel holding a toothbrush in its mouth. ,cat,squirrel,0.0,a ! holding a toothbrush in its mouth.,-0.04083675146102905,0.1875
+A cat is sitting inside a large bathtub.,A toddler is sitting inside a large bathtub.,cat,toddler,0.9,a ! is sitting inside a large bathtub.,-0.03061884641647339,0.875
+A cat laying on top of a couch.,A kitten laying on top of a couch.,cat,kitten,0.0,a ! laying on top of a couch.,-0.05706709623336792,1.0
+A cat snuggling with a teddy bear's foot. ,A kitten snuggling with a teddy bear's foot. ,cat,kitten,0.0,a ! snuggling with a teddy bear's foot.,-0.019072353839874268,0.203125
+A cat that is sitting on some cushions.,A kitten that is sitting on some cushions.,cat,kitten,0.0,a ! that is sitting on some cushions.,-0.056285083293914795,0.96875
+A cat that is sitting on some steps.,A staircase that is sitting on some steps.,cat,staircase,0.0,a ! that is sitting on some steps.,-0.06693416833877563,0.0
+A cell phone flipped open near a lamp.,A cell phone flipped open near a mailbox.,lamp.,mailbox.,0.0,a cell phone flipped open near a !,-0.02171456813812256,0.34375
+A cell phone flipped open near a mailbox.,A cell phone flipped open near a lamp.,mailbox.,lamp.,0.0,a cell phone flipped open near a !,0.02171456813812256,0.59375
+a chair and a bed in a room,a sofa and a bed in a room,chair,sofa,0.0,a ! and a bed in a room,-0.03941679000854492,0.03125
+a chef preparing pizza on a wooden table,a lady preparing pizza on a wooden table,chef,lady,0.0,a ! preparing pizza on a wooden table,-0.013164699077606201,0.984375
+A chocolate cake with English and Chinese characters.,A birthday cake with English and Chinese characters.,chocolate,birthday,0.0,a ! cake with english and chinese characters.,-0.02286386489868164,0.921875
+A city councillor looking down the street ,A city sidewalk looking down the street ,councillor,sidewalk,0.3,a city ! looking down the street,0.08961474895477295,1.0
+A city sidewalk looking down the street ,A city councillor looking down the street ,sidewalk,councillor,0.0,a city ! looking down the street,-0.08961474895477295,0.0
+A city street corner from a park view ,A busy street corner from a park view ,city,busy,0.0,a ! street corner from a park view,-0.060500919818878174,0.0
+a clean kitchen with 4 stools in it.,a clean tub with 4 stools in it.,kitchen,tub,0.0,a clean ! with 4 stools in it.,0.023990273475646973,0.015625
+a clean tub with 4 stools in it.,a clean kitchen with 4 stools in it.,tub,kitchen,0.5,a clean ! with 4 stools in it.,-0.023990273475646973,0.921875
+A clock mounted with chains outside a building,A protester mounted with chains outside a building,clock,protester,0.0,a ! mounted with chains outside a building,-0.05439352989196777,0.765625
+a clock on a table behind a painting.,a painting on a table behind a painting.,clock,painting,0.0,a ! on a table behind a painting.,0.02751612663269043,0.0
+a clock tower in front of some buildings ,a tall tower in front of some buildings ,clock,tall,0.0,a ! tower in front of some buildings,0.11580431461334229,0.6875
+a close up of a disassembled remote control  ,a mock up of a disassembled remote control  ,close,mock,0.0,a ! up of a disassembled remote control,-0.061791419982910156,0.125
+a close up of a plate with food,a close up of a restaurant with food,plate,restaurant,0.0,a close up of a ! with food,-0.06359553337097168,0.4375
+a close up of a restaurant with food,a close up of a plate with food,restaurant,plate,0.9,a close up of a ! with food,0.06359553337097168,0.9375
+a close up of a vandalized stop sign ,a mock up of a vandalized stop sign ,close,mock,0.0,a ! up of a vandalized stop sign,-0.0038980841636657715,0.015625
+A close up of flowers in a vase.,A pile up of flowers in a vase.,close,pile,0.0,a ! up of flowers in a vase.,0.02747899293899536,0.125
+a collage of photos with many electronics ,a collection of photos with many electronics ,collage,collection,0.0,a ! of photos with many electronics,0.052053749561309814,0.9375
+A collection of paintings against a fence outside.,A collection of paintings against a wall outside.,fence,wall,0.1,a collection of paintings against a ! outside.,0.03503572940826416,0.953125
+A collection of paintings against a wall outside.,A collection of paintings against a fence outside.,wall,fence,0.1,a collection of paintings against a ! outside.,-0.03503572940826416,1.0
+a collection of photos with many electronics ,a collage of photos with many electronics ,collection,collage,0.0,a ! of photos with many electronics,-0.052053749561309814,0.8125
+A colorful public forum focused on the sinks.,A colorful public restroom focused on the sinks.,forum,restroom,0.3,a colorful public ! focused on the sinks.,-0.08804941177368164,0.8125
+A colorful public restroom focused on the sinks.,A colorful public forum focused on the sinks.,restroom,forum,0.0,a colorful public ! focused on the sinks.,0.08804941177368164,0.0
+A commuter train entering into a train station,A metro train entering into a train station,commuter,metro,0.0,a ! train entering into a train station,0.01251155138015747,0.984375
+A construction truck is surrounded by a fence.,A pickup truck is surrounded by a fence.,construction,pickup,0.1,a ! truck is surrounded by a fence.,-0.0033405423164367676,0.953125
+a couple of animals walking around a bush ,a couple of animals walking around a farm ,bush,farm,0.1,a couple of animals walking around a !,-0.05353903770446777,0.828125
+a couple of animals walking around a farm ,a couple of animals walking around a bush ,farm,bush,0.0,a couple of animals walking around a !,0.05353903770446777,0.140625
+a couple of cellphones are on a rampage,a couple of cellphones are on a table,rampage,table,0.3,a couple of cellphones are on a !,-0.006876826286315918,0.921875
+a couple of cellphones are on a table,a couple of cellphones are on a rampage,table,rampage,0.0,a couple of cellphones are on a !,0.006876826286315918,0.0
+A couple of cows on a grassy field.,A couple of cows on a grassy pasture.,field.,pasture.,0.0,a couple of cows on a grassy !,-0.007252633571624756,1.0
+A couple of cows on a grassy pasture.,A couple of cows on a grassy field.,pasture.,field.,0.0,a couple of cows on a grassy !,0.007252633571624756,1.0
+a couple of giraffes reach for a basket ,a couple of giraffes reach for a snack ,basket,snack,0.1,a couple of giraffes reach for a !,-0.018983185291290283,0.359375
+a couple of giraffes reach for a snack ,a couple of giraffes reach for a basket ,snack,basket,0.0,a couple of giraffes reach for a !,0.018983185291290283,0.0
+A couple of green signs on a pole.,A couple of green signs on a sidewalk.,pole.,sidewalk.,0.1,a couple of green signs on a !,-0.07307583093643188,1.0
+A couple of green signs on a sidewalk.,A couple of green signs on a pole.,sidewalk.,pole.,0.0,a couple of green signs on a !,0.07307583093643188,0.921875
+a couple of knifes are near a tree,a couple of knifes are near a vegetable,tree,vegetable,0.8,a couple of knifes are near a !,0.02280902862548828,0.875
+a couple of knifes are near a vegetable,a couple of knifes are near a tree,vegetable,tree,0.5,a couple of knifes are near a !,-0.02280902862548828,0.6875
+A couple people in the sky flying kites.,A couple people in the water flying kites.,sky,water,0.5,a couple people in the ! flying kites.,0.025010108947753906,0.96875
+A couple people in the water flying kites.,A couple people in the sky flying kites.,water,sky,0.0,a couple people in the ! flying kites.,-0.025010108947753906,0.9375
+A cow drinking from a puddle of water.,A woman drinking from a puddle of water.,cow,woman,0.0,a ! drinking from a puddle of water.,0.08253252506256104,0.5
+A cup filled with chocolate and vanilla cupcakes. ,A plate filled with chocolate and vanilla cupcakes. ,cup,plate,1.0,a ! filled with chocolate and vanilla cupcakes.,-0.044969022274017334,0.578125
+A deer walking with it's trunk held out. ,A elephant walking with it's trunk held out. ,deer,elephant,0.1,a ! walking with it's trunk held out.,-0.023259401321411133,0.796875
+A desert emptied without any cars or humans. ,A freeway emptied without any cars or humans. ,desert,freeway,0.2,a ! emptied without any cars or humans.,-0.0691368579864502,0.609375
+A desk with a laptop an computer monitors.,A woman with a laptop an computer monitors.,desk,woman,0.0,a ! with a laptop a computer monitors.,-0.0366552472114563,0.53125
+A diesel engine carrying carts down a track.,A train engine carrying carts down a track.,diesel,train,0.3,a ! engine carrying carts down a track.,0.014248490333557129,0.671875
+A display of clocks inside a shop window.,A stack of clocks inside a shop window.,display,stack,0.0,a ! of clocks inside a shop window.,-0.0013692378997802734,0.65625
+A distant airplane flying between two large buildings.,A distant drone flying between two large buildings.,airplane,drone,0.4,a distant ! flying between two large buildings.,0.014352202415466309,0.53125
+A distant drone flying between two large buildings.,A distant airplane flying between two large buildings.,drone,airplane,0.4,a distant ! flying between two large buildings.,-0.014352202415466309,0.71875
+a dog in a field near a fence ,a sheep in a field near a fence ,dog,sheep,0.7,a ! in a field near a fence,-0.022155404090881348,0.96875
+A dog jumping to catch a flying frisbee,A squirrel jumping to catch a flying frisbee,dog,squirrel,0.3,a ! jumping to catch a flying frisbee,-0.031674087047576904,0.671875
+A dog resting on the beach at dusk.,A dolphin resting on the beach at dusk.,dog,dolphin,0.4,a ! resting on the beach at dusk.,-0.05482351779937744,0.25
+A dolphin resting on the beach at dusk.,A dog resting on the beach at dusk.,dolphin,dog,0.9,a ! resting on the beach at dusk.,0.05482351779937744,0.921875
+A double decker bus driving down a street.,A double decker was driving down a street.,bus,was,0.0,a double decker ! driving down a street.,0.011905312538146973,0.96875
+A double decker was driving down a street.,A double decker bus driving down a street.,was,bus,0.0,a double decker ! driving down a street.,-0.011905312538146973,1.0
+a drone is flying through some dark clouds,a plane is flying through some dark clouds,drone,plane,0.0,a ! is flying through some dark clouds,0.05293053388595581,1.0
+A duck and baby ducks in the foreground.,A duck and baby ducks in the water.,foreground.,water.,0.0,a duck and baby ducks in the !,0.022727251052856445,1.0
+A duck and baby ducks in the water.,A duck and baby ducks in the foreground.,water.,foreground.,0.0,a duck and baby ducks in the !,-0.022727251052856445,0.96875
+A elephant that is standing in the dirt.,A tree that is standing in the dirt.,elephant,tree,0.2,a ! that is standing in the dirt.,0.06722235679626465,0.953125
+A elephant walking with it's trunk held out. ,A deer walking with it's trunk held out. ,elephant,deer,0.0,a ! walking with it's trunk held out.,0.023259401321411133,0.0
+A empty bench on a snow covered beach.,A empty suitcase on a snow covered beach.,bench,suitcase,0.0,a empty ! on a snow covered beach.,-0.01831650733947754,0.59375
+A empty suitcase on a snow covered beach.,A empty bench on a snow covered beach.,suitcase,bench,1.0,a empty ! on a snow covered beach.,0.01831650733947754,0.75
+A family sitting around playing with an Atari. ,A kid sitting around playing with an Atari. ,family,kid,0.0,a ! sitting around playing with a atari.,0.03023660182952881,0.453125
+A farmer aggressively protects his patch of turf.,A bird aggressively protects his patch of turf.,farmer,bird,0.0,a ! aggressively protects his patch of turf.,0.006782412528991699,0.0
+A field full of green plants and fruit.,A garden full of green plants and fruit.,field,garden,0.1,a ! full of green plants and fruit.,0.0191534161567688,0.546875
+A fighter jet that is on the runway.,A passenger jet that is on the runway.,fighter,passenger,0.6,a ! jet that is on the runway.,0.021254301071166992,1.0
+A fighter plane is flying through the sky.,A prop plane is flying through the sky.,fighter,prop,0.0,a ! plane is flying through the sky.,0.0007063746452331543,0.890625
+A firehydrant sitting in some grass and snow,A firehydrant sitting in some grass and weeds,snow,weeds,1.0,a firehydrant sitting in some grass and !,0.031007051467895508,1.0
+A firehydrant sitting in some grass and weeds,A firehydrant sitting in some grass and snow,weeds,snow,0.0,a firehydrant sitting in some grass and !,-0.031007051467895508,0.953125
+A food entree is served on a plate.,A food item is served on a plate.,entree,item,0.0,a food ! is served on a plate.,0.06933259963989258,1.0
+A food item is served on a plate.,A food entree is served on a plate.,item,entree,0.0,a food ! is served on a plate.,-0.06933259963989258,1.0
+A foreign aid sign that's covered in snow.,A foreign street sign that's covered in snow.,aid,street,0.2,a foreign ! sign that's covered in snow.,-0.020536303520202637,0.546875
+A foreign street sign that's covered in snow.,A foreign aid sign that's covered in snow.,street,aid,0.0,a foreign ! sign that's covered in snow.,0.020536303520202637,0.828125
+A freeway emptied without any cars or humans. ,A desert emptied without any cars or humans. ,freeway,desert,0.0,a ! emptied without any cars or humans.,0.0691368579864502,0.34375
+A furry cat sits on a blue chair. ,A furry kitten sits on a blue chair. ,cat,kitten,0.0,a furry ! sits on a blue chair.,-0.031008899211883545,0.984375
+A furry kitten sits on a blue chair. ,A furry cat sits on a blue chair. ,kitten,cat,0.0,a furry ! sits on a blue chair.,0.031008899211883545,0.984375
+A fuzzy cat lying in an open suitcase.,A fuzzy kitten lying in an open suitcase.,cat,kitten,0.0,a fuzzy ! lying in a open suitcase.,-0.02360403537750244,0.96875
+A fuzzy kitten lying in an open suitcase.,A fuzzy cat lying in an open suitcase.,kitten,cat,0.0,a fuzzy ! lying in a open suitcase.,0.02360403537750244,0.984375
+A gaming console plugged into an electric source.,A gaming system plugged into an electric source.,console,system,0.1,a gaming ! plugged into a electric source.,0.04828333854675293,0.984375
+A gaming system plugged into an electric source.,A gaming console plugged into an electric source.,system,console,0.0,a gaming ! plugged into a electric source.,-0.04828333854675293,0.9375
+A garden full of green plants and fruit.,A field full of green plants and fruit.,garden,field,0.0,a ! full of green plants and fruit.,-0.0191534161567688,0.0625
+a giraffe reaching up to eat some leaves ,a woman reaching up to eat some leaves ,giraffe,woman,0.0,a ! reaching up to eat some leaves,0.02855396270751953,0.140625
+A giraffe standing in front of green brush.,A man standing in front of green brush.,giraffe,man,0.0,a ! standing in front of green brush.,0.12224209308624268,0.8125
+A giraffe standing under a several tree branches.,A man standing under a several tree branches.,giraffe,man,0.0,a ! standing under a several tree branches.,0.134388267993927,0.859375
+a giraffe staring right into the camera ,a man staring right into the camera ,giraffe,man,0.1,a ! staring right into the camera,0.12707698345184326,1.0
+A giraffe that is standing behind a tree.,A squirrel that is standing behind a tree.,giraffe,squirrel,0.0,a ! that is standing behind a tree.,0.017555058002471924,0.0
+A giraffe walking through a lush green field.,A woman walking through a lush green field.,giraffe,woman,0.6,a ! walking through a lush green field.,0.07053297758102417,1.0
+A giraffe walking through a tree filled forest.,A man walking through a tree filled forest.,giraffe,man,0.0,a ! walking through a tree filled forest.,0.10386741161346436,1.0
+A girl getting pushed in a child's bathroom.,A girl getting pushed in a child's swing.,bathroom.,swing.,0.3,a girl getting pushed in a child's !,0.03492087125778198,0.75
+A girl getting pushed in a child's swing.,A girl getting pushed in a child's bathroom.,swing.,bathroom.,0.0,a girl getting pushed in a child's !,-0.03492087125778198,0.0
+A grazing horse bending down eating grass.,A while horse bending down eating grass .,grazing grass.,while grass .,0.0,a ! horse bending down eating ! !,0.08107131719589233,0.59375
+A gross dirty mess in a unmaintained bathroom. ,A gross dirty toilet in a unmaintained bathroom. ,mess,toilet,0.0,a gross dirty ! in a unmaintained bathroom.,-0.09137636423110962,0.90625
+A gross dirty toilet in a unmaintained bathroom. ,A gross dirty mess in a unmaintained bathroom. ,toilet,mess,0.0,a gross dirty ! in a unmaintained bathroom.,0.09137636423110962,0.9375
+A GROUP OF ALL WHITE IN A BATHROOM ,A PICTURE OF ALL WHITE IN A BATHROOM ,GROUP,PICTURE,0.0,a ! of all white in a bathroom,-0.019962310791015625,0.921875
+A group of birds flying above the beach.,A group of birds flying above the clouds.,beach.,clouds.,0.2,a group of birds flying above the !,-0.03156810998916626,0.984375
+A group of birds flying above the clouds.,A group of birds flying above the beach.,clouds.,beach.,0.3,a group of birds flying above the !,0.03156810998916626,0.921875
+A group of children are feeding an animal.,A group of children are feeding an elephant.,animal.,elephant.,0.0,a group of children are feeding a !,-0.0885319709777832,0.859375
+A group of children are feeding an elephant.,A group of children are feeding an animal.,elephant.,animal.,0.0,a group of children are feeding a !,0.0885319709777832,0.96875
+A group of children playing an out side.,A group of children playing baseball out side.,an,baseball,0.6,a group of children playing ! out side.,-0.10056298971176147,1.0
+A group of children playing baseball out side.,A group of children playing an out side.,baseball,an,0.0,a group of children playing ! out side.,0.10056298971176147,0.984375
+a group of kids walking through some grass,a bunch of kids walking through some grass,group,bunch,0.0,a ! of kids walking through some grass,0.05137479305267334,1.0
+A group of men standing around a room.,A group of men standing around a table.,room.,table.,1.0,a group of men standing around a !,-0.015684127807617188,1.0
+A group of men standing around a table.,A group of men standing around a room.,table.,room.,0.2,a group of men standing around a !,0.015684127807617188,0.96875
+A group of mopeds passing on a pasture.,A group of mopeds passing on a street.,pasture.,street.,0.2,a group of mopeds passing on a !,-0.003874838352203369,1.0
+A group of mopeds passing on a street.,A group of mopeds passing on a pasture.,street.,pasture.,0.0,a group of mopeds passing on a !,0.003874838352203369,0.828125
+A group of people gather around a plane.,A group of people gather around a table.,plane.,table.,0.7,a group of people gather around a !,0.04664510488510132,1.0
+A group of people gather around a table.,A group of people gather around a plane.,table.,plane.,1.0,a group of people gather around a !,-0.04664510488510132,1.0
+a group of people in a busy area,a bunch of people in a busy area,group,bunch,0.0,a ! of people in a busy area,0.06936341524124146,1.0
+A group of people looking at police motorcycles.,A group of people looking at vintage motorcycles.,police,vintage,0.4,a group of people looking at ! motorcycles.,-0.005006074905395508,1.0
+A group of people looking at vintage motorcycles.,A group of people looking at police motorcycles.,vintage,police,0.1,a group of people looking at ! motorcycles.,0.005006074905395508,0.421875
+A group of people skiing on a glacier ,A group of people skiing on a slope ,glacier,slope,0.7,a group of people skiing on a !,0.028629004955291748,0.96875
+A group of people skiing on a slope ,A group of people skiing on a glacier ,slope,glacier,0.0,a group of people skiing on a !,-0.028629004955291748,0.453125
+A guy does a trick on a skateboard.,A squirrel does a trick on a skateboard.,guy,squirrel,0.6,a ! does a trick on a skateboard.,-0.061246514320373535,0.546875
+A ham sandwich with scrambled egg and bacon.,A bagel sandwich with scrambled egg and bacon.,ham,bagel,0.2,a ! sandwich with scrambled egg and bacon.,-0.05024862289428711,0.96875
+A handful of oranges are in a strainer. ,A bunch of oranges are in a strainer. ,handful,bunch,0.0,a ! of oranges are in a strainer.,0.037850916385650635,0.921875
+A hand grasping on to a Wii controller.,A man grasping on to a Wii controller.,hand,man,0.0,a ! grasping on to a wii controller.,-0.007975637912750244,0.890625
+A harbor filled with boats floating on water.,A lake filled with boats floating on water.,harbor,lake,0.0,a ! filled with boats floating on water.,0.02709662914276123,1.0
+"A healthy plate of guacamole, broccoli, and kale.","A healthy plate of guacamole, broccoli, and toast.",kale.,toast.,0.1,"a healthy plate of guacamole, broccoli, and !",-0.035907089710235596,0.84375
+"A healthy plate of guacamole, broccoli, and toast.","A healthy plate of guacamole, broccoli, and kale.",toast.,kale.,0.0,"a healthy plate of guacamole, broccoli, and !",0.035907089710235596,0.78125
+A herd of animals in a grassy area.,A bunch of animals in a grassy area.,herd,bunch,0.0,a ! of animals in a grassy area.,0.012195169925689697,1.0
+A homemade pizza on a wooden cutting board.,A square pizza on a wooden cutting board.,homemade,square,0.0,a ! pizza on a wooden cutting board.,-0.031500160694122314,0.984375
+A Honda Civic parked in a grass driveway,A Honda motorcycle parked in a grass driveway,Civic,motorcycle,0.9,a honda ! parked in a grass driveway,-0.042817652225494385,0.84375
+A Honda motorcycle parked in a grass driveway,A Honda Civic parked in a grass driveway,motorcycle,Civic,0.5,a honda ! parked in a grass driveway,0.042817652225494385,0.78125
+a horse in a field near many trees ,a tree in a field near many trees ,horse,tree,0.0,a ! in a field near many trees,0.060201942920684814,0.015625
+a horse in a field of tall grass,a tree in a field of tall grass,horse,tree,0.2,a ! in a field of tall grass,0.01722133159637451,1.0
+A horse that is going by some grass.,A train that is going by some grass.,horse,train,1.0,a ! that is going by some grass.,-0.010481417179107666,1.0
+A hotel room with two separate twin beds.,A single room with two separate twin beds.,hotel,single,0.0,a ! room with two separate twin beds.,0.03953683376312256,0.921875
+A hot oven filled with lots of food.,A toaster oven filled with lots of food.,hot,toaster,0.9,a ! oven filled with lots of food.,-0.1440255045890808,0.890625
+A house with a bathtub and a toilet.,A bathroom with a bathtub and a toilet.,house,bathroom,0.9,a ! with a bathtub and a toilet.,-0.02774214744567871,0.828125
+A house with a bathtub and a toilet.,A restroom with a bathtub and a toilet.,house,restroom,0.2,a ! with a bathtub and a toilet.,-0.0075661540031433105,0.890625
+A house with wood floors and wood cabinets.,A kitchen with wood floors and wood cabinets.,house,kitchen,0.0,a ! with wood floors and wood cabinets.,-0.06170094013214111,1.0
+A jar contains baby carrots and other food.,A bowl contains baby carrots and other food.,jar,bowl,0.1,a ! contains baby carrots and other food.,0.04893314838409424,0.21875
+A jumper catches air coming off a jump.,A snowboarder catches air coming off a jump.,jumper,snowboarder,0.0,a ! catches air coming off a jump.,-0.2243422269821167,0.984375
+A kid sitting around playing with an Atari. ,A family sitting around playing with an Atari. ,kid,family,0.2,a ! sitting around playing with a atari.,-0.03023660182952881,0.4375
+A kitchen filled with lots of counter space.,A space filled with lots of counter space.,kitchen,space,0.0,a ! filled with lots of counter space.,0.16173475980758667,0.90625
+A kitchen with plants sitting in the window,A tree with plants sitting in the window,kitchen,tree,0.0,a ! with plants sitting in the window,0.02499973773956299,0.265625
+A kitchen with wood floors and wood cabinets.,A house with wood floors and wood cabinets.,kitchen,house,0.0,a ! with wood floors and wood cabinets.,0.06170094013214111,1.0
+A kitten laying on top of a couch.,A cat laying on top of a couch.,kitten,cat,0.0,a ! laying on top of a couch.,0.05706709623336792,1.0
+A kitten snuggling with a teddy bear's foot. ,A cat snuggling with a teddy bear's foot. ,kitten,cat,0.0,a ! snuggling with a teddy bear's foot.,0.019072353839874268,0.140625
+A kitten that is sitting on some cushions.,A cat that is sitting on some cushions.,kitten,cat,0.0,a ! that is sitting on some cushions.,0.056285083293914795,0.984375
+a lady preparing pizza on a wooden table,a chef preparing pizza on a wooden table,lady,chef,0.0,a ! preparing pizza on a wooden table,0.013164699077606201,0.984375
+A lake filled with boats floating on water.,A harbor filled with boats floating on water.,lake,harbor,0.2,a ! filled with boats floating on water.,-0.02709662914276123,1.0
+A laptop and keyboard sit on a desk.  ,A mouse and keyboard sit on a desk.  ,laptop,mouse,0.0,a ! and keyboard sit on a desk.,-0.004062771797180176,0.90625
+A laptop on a bed in a room.,A mattress on a bed in a room.,laptop,mattress,1.0,a ! on a bed in a room.,-0.02009660005569458,1.0
+A large airplane is on the airport runway.,A large hangar is on the airport runway.,airplane,hangar,0.0,a large ! is on the airport runway.,0.03666532039642334,0.390625
+A large antenna mounted on a tower ,A large  clock mounted on a tower ,antenna,clock,0.0,a large ! mounted on a tower,-0.01305621862411499,0.9375
+A large bird floating out in the water.,A large fish floating out in the water.,bird,fish,0.4,a large ! floating out in the water.,0.023252248764038086,0.796875
+A large boulder sitting along a coastal region.,A large city sitting along a coastal region.,boulder,city,0.0,a large ! sitting along a coastal region.,0.06603491306304932,0.921875
+A large building with people gathered in front.,A large crowd with people gathered in front.,building,crowd,0.8,a large ! with people gathered in front.,0.06757152080535889,1.0
+A large bus on a open city street.,A large mural on a open city street.,bus,mural,0.1,a large ! on a open city street.,-0.05938255786895752,0.90625
+A large city sitting along a coastal region.,A large boulder sitting along a coastal region.,city,boulder,0.2,a large ! sitting along a coastal region.,-0.06603491306304932,1.0
+A large clocktower is pictured near a fence.,A large clocktower is pictured near a mosque.,fence.,mosque.,0.0,a large clocktower is pictured near a !,-0.044757962226867676,0.671875
+A large clocktower is pictured near a mosque.,A large clocktower is pictured near a fence.,mosque.,fence.,0.7,a large clocktower is pictured near a !,0.044757962226867676,0.96875
+A large clock tower and traffic moving near.,A large residential tower and traffic moving near.,clock,residential,0.4,a large ! tower and traffic moving near.,0.09325063228607178,0.84375
+A large clock tower towering over a city.,A large clock tower towering over a hill.,city.,hill.,0.5,a large clock tower towering over a !,0.02418649196624756,0.90625
+A large clock tower towering over a hill.,A large clock tower towering over a city.,hill.,city.,0.0,a large clock tower towering over a !,-0.02418649196624756,0.984375
+A large crowd is attending a community fair.,A large crowd is attending a county fair.,community,county,0.0,a large crowd is attending a ! fair.,-0.04370671510696411,0.3125
+A large crowd is attending a county fair.,A large crowd is attending a community fair.,county,community,0.3,a large crowd is attending a ! fair.,0.04370671510696411,0.8125
+A large crowd with people gathered in front.,A large building with people gathered in front.,crowd,building,0.0,a large ! with people gathered in front.,-0.06757152080535889,1.0
+A large double cheeseburger with lettuce and tomato.,A large double dish with lettuce and tomato.,cheeseburger,dish,0.0,a large double ! with lettuce and tomato.,0.05214273929595947,0.015625
+A large double dish with lettuce and tomato.,A large double cheeseburger with lettuce and tomato.,dish,cheeseburger,0.9,a large double ! with lettuce and tomato.,-0.05214273929595947,1.0
+A large fish floating out in the water.,A large bird floating out in the water.,fish,bird,0.0,a large ! floating out in the water.,-0.023252248764038086,0.453125
+A large garden with many vases of flowers.,A large table with many vases of flowers.,garden,table,0.8,a large ! with many vases of flowers.,-0.01609933376312256,0.984375
+A large group of birds in the water.,A large group of birds in the wild.,water.,wild.,0.0,a large group of birds in the !,-0.011027753353118896,1.0
+A large group of birds in the wild.,A large group of birds in the water.,wild.,water.,0.0,a large group of birds in the !,0.011027753353118896,1.0
+A large hangar is on the airport runway.,A large airplane is on the airport runway.,hangar,airplane,0.6,a large ! is on the airport runway.,-0.03666532039642334,1.0
+A large long train on a steel track.,A large long tunnel on a steel track.,train,tunnel,1.0,a large long ! on a steel track.,-0.09091562032699585,1.0
+A large long train on a steel track.,A large long tunnel on a steel track.,train,tunnel,1.0,a large long ! on a steel track.,-0.09091562032699585,1.0
+A large long tunnel on a steel track.,A large long train on a steel track.,tunnel,train,0.2,a large long ! on a steel track.,0.09091562032699585,0.828125
+A large long tunnel on a steel track.,A large long train on a steel track.,tunnel,train,0.2,a large long ! on a steel track.,0.09091562032699585,0.828125
+A large mural on a open city street.,A large bus on a open city street.,mural,bus,0.1,a large ! on a open city street.,0.05938255786895752,1.0
+A large residential tower and traffic moving near.,A large clock tower and traffic moving near.,residential,clock,0.0,a large ! tower and traffic moving near.,-0.09325063228607178,0.9375
+"A large salad has bread, cheese and lettuce.","A large sandwich has bread, cheese and lettuce.",salad,sandwich,0.7,"a large ! has bread, cheese and lettuce.",0.002101898193359375,0.953125
+"A large sandwich has bread, cheese and lettuce.","A large salad has bread, cheese and lettuce.",sandwich,salad,0.0,"a large ! has bread, cheese and lettuce.",-0.002101898193359375,0.640625
+A large table with many vases of flowers.,A large garden with many vases of flowers.,table,garden,0.3,a large ! with many vases of flowers.,0.01609933376312256,0.1875
+A large water balloon flying over the ocean,A large water bird flying over the ocean,balloon,bird,0.3,a large water ! flying over the ocean,0.021323800086975098,0.96875
+A large water bird flying over the ocean,A large water balloon flying over the ocean,bird,balloon,0.0,a large water ! flying over the ocean,-0.021323800086975098,0.578125
+A large yellow train moving down a track.,A large yellow truck moving down a track.,train,truck,0.3,a large yellow ! moving down a track.,0.0013828277587890625,0.984375
+A large yellow truck moving down a track.,A large yellow train moving down a track.,truck,train,1.0,a large yellow ! moving down a track.,-0.0013828277587890625,1.0
+A large  clock mounted on a tower ,A large antenna mounted on a tower ,clock,antenna,0.1,a large ! mounted on a tower,0.01305621862411499,0.640625
+A light cycle procession down a wet street.,A motor cycle procession down a wet street.,light,motor,0.2,a ! cycle procession down a wet street.,-0.05024152994155884,0.921875
+A little boy that is playing with stuff.,A little kid that is playing with stuff.,boy,kid,0.0,a little ! that is playing with stuff.,0.03573465347290039,0.984375
+A little kid that is playing with stuff.,A little boy that is playing with stuff.,kid,boy,0.0,a little ! that is playing with stuff.,-0.03573465347290039,0.984375
+A live guard truck parked on a beach.,A live lobster truck parked on a beach.,guard,lobster,0.7,a live ! truck parked on a beach.,-0.0016345977783203125,0.71875
+A live lobster truck parked on a beach.,A live guard truck parked on a beach.,lobster,guard,0.0,a live ! truck parked on a beach.,0.0016345977783203125,0.46875
+A long dead cow resting in the grass.,A long horn cow resting in the grass.,dead,horn,0.3,a long ! cow resting in the grass.,-0.03281843662261963,0.96875
+"A long empty, minimal modern skylit home kitchen.","A long empty, minimal modern skylit style kitchen.",home,style,0.0,"a long empty, minimal modern skylit ! kitchen.",-0.059540510177612305,1.0
+"A long empty, minimal modern skylit style kitchen.","A long empty, minimal modern skylit home kitchen.",style,home,0.0,"a long empty, minimal modern skylit ! kitchen.",0.059540510177612305,1.0
+A long horn cow resting in the grass.,A long dead cow resting in the grass.,horn,dead,0.0,a long ! cow resting in the grass.,0.03281843662261963,0.0
+A magician preforming tricks on a half pipe. ,A skateboarder preforming tricks on a half pipe. ,magician,skateboarder,1.0,a ! preforming tricks on a half pipe.,-0.09246313571929932,0.921875
+A man and woman talking in the kitchen.,A man and woman talking in the street.,kitchen.,street.,0.2,a man and woman talking in the !,0.0050814151763916016,0.96875
+A man and woman talking in the street.,A man and woman talking in the kitchen.,street.,kitchen.,0.6,a man and woman talking in the !,-0.0050814151763916016,1.0
+A man and woman with their small children.,A man and woman with their small dog.,children.,dog.,0.2,a man and woman with their small !,0.006316840648651123,0.84375
+A man and woman with their small dog.,A man and woman with their small children.,dog.,children.,0.2,a man and woman with their small !,-0.006316840648651123,0.578125
+A man carving down a snowy mountain side,A skier carving down a snowy mountain side,man,skier,0.1,a ! carving down a snowy mountain side,-0.03575378656387329,1.0
+A man does a dance on a skateboard.,A man does a jump on a skateboard.,dance,jump,0.9,a man does a ! on a skateboard.,-0.013692378997802734,0.921875
+A man does a jump on a skateboard.,A man does a dance on a skateboard.,jump,dance,0.0,a man does a ! on a skateboard.,0.013692378997802734,0.0
+A man grasping on to a Wii controller.,A hand grasping on to a Wii controller.,man,hand,0.2,a ! grasping on to a wii controller.,0.007975637912750244,0.921875
+A man grinding his skateboard on a rail.,A man grinding his teeth on a rail.,skateboard,teeth,0.0,a man grinding his ! on a rail.,0.0576099157333374,0.0
+A man grinding his teeth on a rail.,A man grinding his skateboard on a rail.,teeth,skateboard,0.5,a man grinding his ! on a rail.,-0.0576099157333374,0.546875
+A man helps his friend with his suit.,A man helps his son with his suit.,friend,son,0.1,a man helps his ! with his suit.,-0.03588688373565674,0.828125
+A man helps his son with his suit.,A man helps his friend with his suit.,son,friend,0.0,a man helps his ! with his suit.,0.03588688373565674,0.6875
+A man holding a baby in a chair.,A man holding a baby in a wheelchair.,chair.,wheelchair.,0.2,a man holding a baby in a !,-0.03442704677581787,0.984375
+A man holding a baby in a wheelchair.,A man holding a baby in a chair.,wheelchair.,chair.,0.0,a man holding a baby in a !,0.03442704677581787,0.90625
+A man holding a child in high school.,A man holding a child in high water.,school.,water.,0.7,a man holding a child in high !,0.003916621208190918,0.984375
+A man holding a child in high water.,A man holding a child in high school.,water.,school.,0.0,a man holding a child in high !,-0.003916621208190918,0.0
+A man holding a pumpkin shaped pizza pie.,A man holding a square shaped pizza pie.,pumpkin,square,0.0,a man holding a ! shaped pizza pie.,0.0015706419944763184,0.84375
+A man holding a square shaped pizza pie.,A man holding a pumpkin shaped pizza pie.,square,pumpkin,0.0,a man holding a ! shaped pizza pie.,-0.0015706419944763184,0.15625
+A man in a hat riding a horse.,A man in a wheelchair riding a horse.,hat,wheelchair,0.0,a man in a ! riding a horse.,-0.06151324510574341,0.1875
+A man in a wheelchair riding a horse.,A man in a hat riding a horse.,wheelchair,hat,0.0,a man in a ! riding a horse.,0.06151324510574341,0.9375
+a man in glasses is holding a gun,a man in glasses is holding a spoon,gun,spoon,0.1,a man in glasses is holding a !,-0.019805729389190674,0.734375
+a man in glasses is holding a spoon,a man in glasses is holding a gun,spoon,gun,1.0,a man in glasses is holding a !,0.019805729389190674,0.890625
+A man is carrying groceries on his board,A skateboarder is carrying groceries on his board,man,skateboarder,0.0,a ! is carrying groceries on his board,-0.1332937479019165,0.640625
+A man is carrying some huge tree trunks.,A truck is carrying some huge tree trunks.,man,truck,0.7,a ! is carrying some huge tree trunks.,-0.028591156005859375,1.0
+A man is holding a yellow flag outside,A man is holding a yellow frisbee outside,flag,frisbee,0.6,a man is holding a yellow ! outside,0.0014183521270751953,1.0
+A man is holding a yellow frisbee outside,A man is holding a yellow flag outside,frisbee,flag,0.1,a man is holding a yellow ! outside,-0.0014183521270751953,0.953125
+A man is plowing the field in preparation.,A man is plowing the lawn in preparation.,field,lawn,0.0,a man is plowing the ! in preparation.,-0.04964262247085571,0.140625
+A man is plowing the lawn in preparation.,A man is plowing the field in preparation.,lawn,field,0.0,a man is plowing the ! in preparation.,0.04964262247085571,0.859375
+a man moving down a hill laughing ,a snowboarding moving down a hill laughing ,man,snowboarding,0.0,a ! moving down a hill laughing,-0.021705210208892822,0.140625
+A man on a beach flying a kite,A man on a motorcycle flying a kite,beach,motorcycle,0.0,a man on a ! flying a kite,-0.06826519966125488,0.890625
+a man on a beach surfing a wave,a man on a surfboard surfing a wave,beach,surfboard,0.8,a man on a ! surfing a wave,-0.08062726259231567,1.0
+A man on a motorcycle flying a kite,A man on a beach flying a kite,motorcycle,beach,0.4,a man on a ! flying a kite,0.06826519966125488,0.96875
+A man on a motorcycle in a parade ,A man on a motorcycle in a wheelchair ,parade,wheelchair,0.0,a man on a motorcycle in a !,0.027954399585723877,0.015625
+A man on a motorcycle in a wheelchair ,A man on a motorcycle in a parade ,wheelchair,parade,0.2,a man on a motorcycle in a !,-0.027954399585723877,0.984375
+a man on a motorcycle in mid air ,a man on a skateboard in mid air ,motorcycle,skateboard,0.7,a man on a ! in mid air,0.009562969207763672,1.0
+A man on a raft in the water.,A man on a surfboard in the water.,raft,surfboard,1.0,a man on a ! in the water.,-0.10602009296417236,0.984375
+a man on a skateboard in mid air ,a man on a motorcycle in mid air ,skateboard,motorcycle,0.8,a man on a ! in mid air,-0.009562969207763672,0.9375
+A man on a surfboard in the water.,A man on a raft in the water.,surfboard,raft,0.0,a man on a ! in the water.,0.10602009296417236,0.9375
+a man on a surfboard surfing a wave,a man on a beach surfing a wave,surfboard,beach,0.0,a man on a ! surfing a wave,0.08062726259231567,0.140625
+A man riding a bicycle past a car.,A man riding a bike past a car.,bicycle,bike,0.0,a man riding a ! past a car.,0.03339892625808716,0.546875
+A man riding a bike past a car.,A man riding a bicycle past a car.,bike,bicycle,0.0,a man riding a ! past a car.,-0.03339892625808716,0.578125
+A man sitting on top of a hillside.,A bench sitting on top of a hillside.,man,bench,0.3,a ! sitting on top of a hillside.,-0.05560040473937988,0.984375
+A man standing in a open grass field.,A sheep standing in a open grass field.,man,sheep,0.5,a ! standing in a open grass field.,-0.09135580062866211,1.0
+A man standing in front of a clock.,A man standing in front of a truck.,clock.,truck.,0.8,a man standing in front of a !,-0.01399010419845581,1.0
+A man standing in front of a truck.,A man standing in front of a clock.,truck.,clock.,0.1,a man standing in front of a !,0.01399010419845581,0.984375
+A man standing in front of green brush.,A giraffe standing in front of green brush.,man,giraffe,0.8,a ! standing in front of green brush.,-0.12224209308624268,0.921875
+A man standing next to a fridge freezer ,A stove standing next to a fridge freezer ,man,stove,0.0,a ! standing next to a fridge freezer,-0.036328792572021484,0.28125
+A man standing under a several tree branches.,A giraffe standing under a several tree branches.,man,giraffe,0.9,a ! standing under a several tree branches.,-0.134388267993927,0.875
+a man staring right into the camera ,a giraffe staring right into the camera ,man,giraffe,0.9,a ! staring right into the camera,-0.12707698345184326,0.984375
+A man surfing waves on his surfboard,A man surfing waves on his surf board,surfboard,surf board,0.0,a man surfing waves on his ! !,0.02590346336364746,1.0
+A man surfing waves on his surf board,A man surfing waves on his surfboard,surf board,surfboard,0.0,a man surfing waves on his ! !,-0.02590346336364746,1.0
+A man throwing a frisbee in a park ,A man throwing a rock in a park ,frisbee,rock,0.0,a man throwing a ! in a park,0.05851161479949951,0.21875
+A man throwing a rock in a park ,A man throwing a frisbee in a park ,rock,frisbee,1.0,a man throwing a ! in a park,-0.05851161479949951,1.0
+A man walking on grass near mountains. ,A bear walking on grass near mountains. ,man,bear,0.8,a ! walking on grass near mountains.,-0.05951488018035889,0.828125
+A man walking past an empty dorm room. ,A man walking past an empty living room. ,dorm,living,0.0,a man walking past a empty ! room.,0.011868834495544434,0.921875
+A man walking past an empty living room. ,A man walking past an empty dorm room. ,living,dorm,0.0,a man walking past a empty ! room.,-0.011868834495544434,0.046875
+A man walking through a tree filled forest.,A giraffe walking through a tree filled forest.,man,giraffe,1.0,a ! walking through a tree filled forest.,-0.10386741161346436,1.0
+A man wearing ties and rainbow colored glasses,A man wearing ties and rainbow sun glasses,colored,sun,0.0,a man wearing ties and rainbow ! glasses,-0.044777631759643555,0.921875
+A man wearing ties and rainbow sun glasses,A man wearing ties and rainbow colored glasses,sun,colored,0.0,a man wearing ties and rainbow ! glasses,0.044777631759643555,0.921875
+A mattress on a bed in a room.,A laptop on a bed in a room.,mattress,laptop,0.3,a ! on a bed in a room.,0.02009660005569458,0.625
+a mess of various clothing on a chair ,a mess of various shapes on a chair ,clothing,shapes,0.0,a mess of various ! on a chair,0.022837936878204346,0.0
+a mess of various shapes on a chair ,a mess of various clothing on a chair ,shapes,clothing,0.2,a mess of various ! on a chair,-0.022837936878204346,0.359375
+A metro train entering into a train station,A commuter train entering into a train station,metro,commuter,0.0,a ! train entering into a train station,-0.01251155138015747,0.984375
+a mock up of a disassembled remote control  ,a close up of a disassembled remote control  ,mock,close,0.0,a ! up of a disassembled remote control,0.061791419982910156,0.453125
+a mock up of a vandalized stop sign ,a close up of a vandalized stop sign ,mock,close,0.0,a ! up of a vandalized stop sign,0.0038980841636657715,0.28125
+A mother sheep with two black baby sheeps.,A white sheep with two black baby sheeps.,mother,white,0.0,a ! sheep with two black baby sheeps.,0.016997933387756348,0.09375
+A motorized cart fills a train with luggage,A motorized train fills a train with luggage,cart,,0.0,a motorized ! fills a train with luggage,0.013493895530700684,0.0
+A motorized train fills a train with luggage,A motorized cart fills a train with luggage,,cart,0.0,a motorized ! fills a train with luggage,-0.013493895530700684,0.046875
+A motor cycle procession down a wet street.,A light cycle procession down a wet street.,motor,light,0.0,a ! cycle procession down a wet street.,0.05024152994155884,0.671875
+A mouse and keyboard sit on a desk.  ,A laptop and keyboard sit on a desk.  ,mouse,laptop,0.2,a ! and keyboard sit on a desk.,0.004062771797180176,1.0
+A multicolor passenger train waiting at a platform.,A multicolor passenger train waiting at a station.,platform.,station.,0.0,a multicolor passenger train waiting at a !,-0.0027251839637756348,0.984375
+A multicolor passenger train waiting at a station.,A multicolor passenger train waiting at a platform.,station.,platform.,0.0,a multicolor passenger train waiting at a !,0.0027251839637756348,0.984375
+A neatly made bed with a red sheet. ,A neatly made rectangle with a red sheet. ,bed,rectangle,0.0,a neatly made ! with a red sheet.,-0.018460392951965332,0.390625
+A neatly made rectangle with a red sheet. ,A neatly made bed with a red sheet. ,rectangle,bed,0.8,a neatly made ! with a red sheet.,0.018460392951965332,0.859375
+A neon sign outside of a brick building.,A stop sign outside of a brick building.,neon,stop,0.0,a ! sign outside of a brick building.,-0.004335463047027588,0.9375
+a newly wed couple celebrating with a baby,a newly wed couple celebrating with a toast,baby,toast,1.0,a newly wed couple celebrating with a !,-0.005869150161743164,0.96875
+a newly wed couple celebrating with a toast,a newly wed couple celebrating with a baby,toast,baby,0.2,a newly wed couple celebrating with a !,0.005869150161743164,0.953125
+A new silver motorbike parked in a garage.,A new silver Porsche parked in a garage.,motorbike,Porsche,0.7,a new silver ! parked in a garage.,-0.004030764102935791,0.921875
+A new silver Porsche parked in a garage.,A new silver motorbike parked in a garage.,Porsche,motorbike,0.1,a new silver ! parked in a garage.,0.004030764102935791,0.703125
+a painting on a table behind a painting.,a clock on a table behind a painting.,painting,clock,0.3,a ! on a table behind a painting.,-0.02751612663269043,0.578125
+a painting that is sitting on a table,a bear that is sitting on a table,painting,bear,0.1,a ! that is sitting on a table,0.056297481060028076,0.46875
+A parked car next to a green tent.,A parked motorcycle next to a green tent.,car,motorcycle,0.7,a parked ! next to a green tent.,-0.07178562879562378,0.984375
+A parked motorcycle next to a green tent.,A parked car next to a green tent.,motorcycle,car,0.0,a parked ! next to a green tent.,0.07178562879562378,0.734375
+A parking voucher machine on a snow-covered sidewalk.,A vending voucher machine on a snow-covered sidewalk.,parking,vending,0.3,a ! voucher machine on a snow-covered sidewalk.,0.022388935089111328,1.0
+A passenger jet that is on the runway.,A fighter jet that is on the runway.,passenger,fighter,1.0,a ! jet that is on the runway.,-0.021254301071166992,1.0
+A performer attending to an injured brown horse.,A veterinarian attending to an injured brown horse.,performer,veterinarian,0.0,a ! attending to a injured brown horse.,-0.06215488910675049,0.046875
+a person at a dinner table eating salad,a person at a picnic table eating salad,dinner,picnic,0.6,a person at a ! table eating salad,-0.002723217010498047,1.0
+a person at a picnic table eating salad,a person at a dinner table eating salad,picnic,dinner,0.0,a person at a ! table eating salad,0.002723217010498047,0.984375
+A person doing a trick on a computer. ,A person doing a trick on a skateboard. ,computer.,skateboard.,1.0,a person doing a trick on a !,-0.028814613819122314,0.96875
+A person doing a trick on a skateboard. ,A person doing a trick on a computer. ,skateboard.,computer.,0.0,a person doing a trick on a !,0.028814613819122314,0.03125
+A person feeding a cat with a banana,A person feeding a squirrel with a banana,cat,squirrel,0.1,a person feeding a ! with a banana,-0.02390575408935547,0.484375
+A person feeding a squirrel with a banana,A person feeding a cat with a banana,squirrel,cat,0.0,a person feeding a ! with a banana,0.02390575408935547,0.84375
+A person holding an iPad in a garage.,A person holding an umbrella in a garage.,iPad,umbrella,0.0,a person holding a ! in a garage.,-0.0015145540237426758,0.953125
+A person holding an umbrella in a garage.,A person holding an iPad in a garage.,umbrella,iPad,0.1,a person holding a ! in a garage.,0.0015145540237426758,0.953125
+A person holding a knife near the ocean. ,A person holding a surfboard near the ocean. ,knife,surfboard,1.0,a person holding a ! near the ocean.,-0.09983396530151367,0.96875
+A person holding a surfboard near the ocean. ,A person holding a knife near the ocean. ,surfboard,knife,0.0,a person holding a ! near the ocean.,0.09983396530151367,0.890625
+A person holding up a purple pencil case.,A person holding up a purple suit case.,pencil,suit,0.4,a person holding up a purple ! case.,-0.009392619132995605,0.890625
+A person holding up a purple suit case.,A person holding up a purple pencil case.,suit,pencil,0.0,a person holding up a purple ! case.,0.009392619132995605,0.734375
+a person in a bikini with a frisbee ,a person in a field with a frisbee ,bikini,field,0.0,a person in a ! with a frisbee,0.07426398992538452,0.90625
+a person in a field with a frisbee ,a person in a bikini with a frisbee ,field,bikini,0.0,a person in a ! with a frisbee,-0.07426398992538452,0.90625
+a person in a kitchen area preparing food,a person in a kitchen table preparing food,area,table,0.0,a person in a kitchen ! preparing food,-0.037420451641082764,0.96875
+a person in a kitchen table preparing food,a person in a kitchen area preparing food,table,area,0.5,a person in a kitchen ! preparing food,0.037420451641082764,1.0
+A person on a raft in the water.,A person on a surfboard in the water.,raft,surfboard,1.0,a person on a ! in the water.,-0.10273140668869019,0.984375
+A person on a surfboard in the water.,A person on a raft in the water.,surfboard,raft,0.0,a person on a ! in the water.,0.10273140668869019,0.984375
+A person rides belly-down on a bicycle. ,A person rides belly-down on a surfboard. ,bicycle.,surfboard.,0.0,a person rides belly-down on a !,-0.025086283683776855,0.5
+A person rides belly-down on a surfboard. ,A person rides belly-down on a bicycle. ,surfboard.,bicycle.,0.0,a person rides belly-down on a !,0.025086283683776855,0.1875
+a person riding skis on a snowy mountain,a person riding skis on a snowy surface,mountain,surface,0.0,a person riding skis on a snowy !,0.020658671855926514,1.0
+a person riding skis on a snowy mountain,a person riding skis on a snowy surface,mountain,surface,0.0,a person riding skis on a snowy !,0.020658671855926514,1.0
+a person riding skis on a snowy surface,a person riding skis on a snowy mountain,surface,mountain,0.0,a person riding skis on a snowy !,-0.020658671855926514,1.0
+a person riding skis on a snowy surface,a person riding skis on a snowy mountain,surface,mountain,0.0,a person riding skis on a snowy !,-0.020658671855926514,1.0
+A person riding the waves on a bicycle.,A person riding the waves on a surfboard.,bicycle.,surfboard.,0.9,a person riding the waves on a !,-0.005643069744110107,1.0
+A person riding the waves on a surfboard.,A person riding the waves on a bicycle.,surfboard.,bicycle.,0.1,a person riding the waves on a !,0.005643069744110107,0.9375
+A person serving a meal on a spatula.,A person serving a sandwich on a spatula.,meal,sandwich,0.0,a person serving a ! on a spatula.,-0.033893883228302,0.234375
+A person serving a sandwich on a spatula.,A person serving a meal on a spatula.,sandwich,meal,0.0,a person serving a ! on a spatula.,0.033893883228302,0.3125
+a person skiing down a steep snowy hill,a person skiing down a steep snowy slope,hill,slope,0.0,a person skiing down a steep snowy !,-0.00871509313583374,0.984375
+a person skiing down a steep snowy slope,a person skiing down a steep snowy hill,slope,hill,0.0,a person skiing down a steep snowy !,0.00871509313583374,1.0
+A person that is looking at a cake.,A person that is looking at a gun.,cake.,gun.,0.4,a person that is looking at a !,0.047247886657714844,0.96875
+A person that is looking at a gun.,A person that is looking at a cake.,gun.,cake.,0.3,a person that is looking at a !,-0.047247886657714844,1.0
+A person with a backpack and a suitcase.,A person with a hat and a suitcase.,backpack,hat,0.3,a person with a ! and a suitcase.,0.01290428638458252,0.90625
+A person with a hat and a suitcase.,A person with a backpack and a suitcase.,hat,backpack,0.0,a person with a ! and a suitcase.,-0.01290428638458252,0.65625
+A person with a knife on a street.,A person with a suitcase on a street.,knife,suitcase,0.8,a person with a ! on a street.,-0.04217660427093506,0.96875
+A person with a suitcase on a street.,A person with a knife on a street.,suitcase,knife,0.0,a person with a ! on a street.,0.04217660427093506,0.609375
+a photo showing a sink and some drawers,a room showing a sink and some drawers,photo,room,0.1,a ! showing a sink and some drawers,-0.051268696784973145,0.8125
+A pickup truck is surrounded by a fence.,A construction truck is surrounded by a fence.,pickup,construction,0.0,a ! truck is surrounded by a fence.,0.0033405423164367676,0.890625
+A PICTURE OF ALL WHITE IN A BATHROOM ,A GROUP OF ALL WHITE IN A BATHROOM ,PICTURE,GROUP,0.0,a ! of all white in a bathroom,0.019962310791015625,0.4375
+A picture of a cake on a plate,A quarter of a cake on a plate,picture,quarter,0.0,a ! of a cake on a plate,-0.018844127655029297,0.015625
+A picture of a clean dorm room. ,A picture of a clean living room. ,dorm,living,0.0,a picture of a clean ! room.,0.032639503479003906,0.96875
+A picture of a clean living room. ,A picture of a clean dorm room. ,living,dorm,0.0,a picture of a clean ! room.,-0.032639503479003906,0.171875
+A picture of a cluttered home office desk.,A picture of a cluttered Microsoft office desk.,home,Microsoft,0.0,a picture of a cluttered ! office desk.,-0.06315600872039795,0.03125
+A picture of a cluttered Microsoft office desk.,A picture of a cluttered home office desk.,Microsoft,home,1.0,a picture of a cluttered ! office desk.,0.06315600872039795,0.953125
+a picture of a man on an umbrella ,a shadow of a man on an umbrella ,picture,shadow,0.0,a ! of a man on a umbrella,0.000693202018737793,0.21875
+A picture of children's favorite reading story. ,A picture of children's toy reading story. ,favorite,toy,0.0,a picture of children's ! reading story.,-0.06519454717636108,0.21875
+A picture of children's toy reading story. ,A picture of children's favorite reading story. ,toy,favorite,0.0,a picture of children's ! reading story.,0.06519454717636108,0.0
+"A picture shows old computers, mice and keyboards.","A picture shows old computers, mouse and keyboards.",mice,mouse,0.0,"a picture shows old computers, ! and keyboards.",0.00951230525970459,0.671875
+"A picture shows old computers, mouse and keyboards.","A picture shows old computers, mice and keyboards.",mouse,mice,0.0,"a picture shows old computers, ! and keyboards.",-0.00951230525970459,0.515625
+A piece of chocolate cake with chocolate icing.,A slice of chocolate cake with chocolate icing.,piece,slice,0.0,a ! of chocolate cake with chocolate icing.,-0.004792213439941406,1.0
+A pile up of flowers in a vase.,A close up of flowers in a vase.,pile,close,0.0,a ! up of flowers in a vase.,-0.02747899293899536,1.0
+A pitcher winding up to throw a fastball.,A pitcher winding up to throw a pitch.,fastball.,pitch.,0.0,a pitcher winding up to throw a !,0.06780791282653809,1.0
+A pitcher winding up to throw a pitch.,A pitcher winding up to throw a fastball.,pitch.,fastball.,0.0,a pitcher winding up to throw a !,-0.06780791282653809,0.0
+A pizza being made within the oven ,A sausage being made within the oven ,pizza,sausage,0.0,a ! being made within the oven,-0.05574822425842285,0.8125
+a pizza next to a glass of beer ,a spoon next to a glass of beer ,pizza,spoon,0.0,a ! next to a glass of beer,0.02109074592590332,0.375
+a plane is flying through some dark clouds,a drone is flying through some dark clouds,plane,drone,0.0,a ! is flying through some dark clouds,-0.05293053388595581,1.0
+A plate filled with chocolate and vanilla cupcakes. ,A cup filled with chocolate and vanilla cupcakes. ,plate,cup,0.0,a ! filled with chocolate and vanilla cupcakes.,0.044969022274017334,0.0625
+A plate full of beef and broccoli stew. ,A pot full of beef and broccoli stew. ,plate,pot,0.0,a ! full of beef and broccoli stew.,0.020931541919708252,1.0
+A plate with a sandwich and a pickle,A burger with a sandwich and a pickle,plate,burger,0.0,a ! with a sandwich and a pickle,-0.006382465362548828,0.125
+A plate with a sandwich and salad greens.,A salad with a sandwich and salad greens.,plate,,0.0,a ! with a sandwich and salad greens.,0.05518472194671631,0.859375
+a plate with chicken and some vegetables together,a salad with chicken and some vegetables together,plate,salad,0.0,a ! with chicken and some vegetables together,-0.025371193885803223,1.0
+A plaza with several signs and a cityscape.  ,A bridge with several signs and a cityscape.  ,plaza,bridge,0.1,a ! with several signs and a cityscape.,-0.024626553058624268,0.515625
+A pot full of beef and broccoli stew. ,A plate full of beef and broccoli stew. ,pot,plate,0.8,a ! full of beef and broccoli stew.,-0.020931541919708252,0.984375
+A propellor airplane is on a grassy runway.,A propellor plane is on a grassy runway.,airplane,plane,0.0,a propellor ! is on a grassy runway.,0.02411860227584839,1.0
+A propellor plane is on a grassy runway.,A propellor airplane is on a grassy runway.,plane,airplane,0.0,a propellor ! is on a grassy runway.,-0.02411860227584839,0.984375
+A prop plane is flying through the sky.,A fighter plane is flying through the sky.,prop,fighter,0.2,a ! plane is flying through the sky.,-0.0007063746452331543,1.0
+A protester mounted with chains outside a building,A clock mounted with chains outside a building,protester,clock,0.8,a ! mounted with chains outside a building,0.05439352989196777,1.0
+A public bathroom area with orange tile walls.,A public seating area with orange tile walls.,bathroom,seating,0.1,a public ! area with orange tile walls.,0.011463820934295654,0.96875
+A public seating area with orange tile walls.,A public bathroom area with orange tile walls.,seating,bathroom,0.4,a public ! area with orange tile walls.,-0.011463820934295654,0.90625
+A quarter of a cake on a plate,A picture of a cake on a plate,quarter,picture,1.0,a ! of a cake on a plate,0.018844127655029297,1.0
+A red boat is floating near some houses.,A red flag is floating near some houses.,boat,flag,0.0,a red ! is floating near some houses.,0.019603252410888672,0.8125
+a red carpet is in a living room,a red coach is in a living room,carpet,coach,0.0,a red ! is in a living room,-0.021806657314300537,0.9375
+a red coach is in a living room,a red carpet is in a living room,coach,carpet,0.4,a red ! is in a living room,0.021806657314300537,0.671875
+A red fire truck driving down a  street.,A red pickup truck driving down a  street.,fire,pickup,0.3,a red ! truck driving down a street.,-0.004915952682495117,1.0
+A red flag flying through a blue sky.,A red plane flying through a blue sky.,flag,plane,0.8,a red ! flying through a blue sky.,-0.0721280574798584,1.0
+A red flag is floating near some houses.,A red boat is floating near some houses.,flag,boat,0.9,a red ! is floating near some houses.,-0.019603252410888672,1.0
+A red icing doughnut with sprinkles on top.,A red velvet doughnut with sprinkles on top.,icing,velvet,0.0,a red ! doughnut with sprinkles on top.,0.006677806377410889,0.953125
+A red pickup truck driving down a  street.,A red fire truck driving down a  street.,pickup,fire,0.2,a red ! truck driving down a street.,0.004915952682495117,1.0
+A red plane flying through a blue sky.,A red flag flying through a blue sky.,plane,flag,0.0,a red ! flying through a blue sky.,0.0721280574798584,0.984375
+A red velvet doughnut with sprinkles on top.,A red icing doughnut with sprinkles on top.,velvet,icing,0.0,a red ! doughnut with sprinkles on top.,-0.006677806377410889,0.90625
+A refrigerator freezer next to a  wall.,A small freezer next to a  wall.,refrigerator,small,0.0,a ! freezer next to a wall.,0.055372536182403564,0.71875
+A restroom with a bathtub and a toilet.,A house with a bathtub and a toilet.,restroom,house,0.0,a ! with a bathtub and a toilet.,0.0075661540031433105,0.296875
+a room showing a sink and some drawers,a photo showing a sink and some drawers,room,photo,0.0,a ! showing a sink and some drawers,0.051268696784973145,0.859375
+A room with some chairs and a bookshelf.,A room with some chairs and a fireplace.,bookshelf.,fireplace.,0.1,a room with some chairs and a !,0.0642545223236084,1.0
+A room with some chairs and a fireplace.,A room with some chairs and a bookshelf.,fireplace.,bookshelf.,0.0,a room with some chairs and a !,-0.0642545223236084,1.0
+"A salad has cilantro, carrots, and other vegetables.","A sandwich has cilantro, carrots, and other vegetables.",salad,sandwich,1.0,"a ! has cilantro, carrots, and other vegetables.",-0.04246354103088379,0.984375
+A salad with a sandwich and salad greens.,A plate with a sandwich and salad greens.,,plate,0.3,a ! with a sandwich and salad greens.,-0.05518472194671631,0.984375
+a salad with chicken and some vegetables together,a plate with chicken and some vegetables together,salad,plate,0.5,a ! with chicken and some vegetables together,0.025371193885803223,1.0
+"A sandwich has cilantro, carrots, and other vegetables.","A salad has cilantro, carrots, and other vegetables.",sandwich,salad,1.0,"a ! has cilantro, carrots, and other vegetables.",0.04246354103088379,0.984375
+A sausage being made within the oven ,A pizza being made within the oven ,sausage,pizza,0.1,a ! being made within the oven,0.05574822425842285,0.90625
+a sexy women that is on a mission,a sexy women that is on a skateboard,mission,skateboard,0.9,a sexy women that is on a !,-0.16215163469314575,0.90625
+a sexy women that is on a skateboard,a sexy women that is on a mission,skateboard,mission,0.0,a sexy women that is on a !,0.16215163469314575,0.0
+a shadow of a man on an umbrella ,a picture of a man on an umbrella ,shadow,picture,0.0,a ! of a man on a umbrella,-0.000693202018737793,0.0
+a sheep in a field near a fence ,a dog in a field near a fence ,sheep,dog,0.1,a ! in a field near a fence,0.022155404090881348,0.96875
+A sheep standing in a open grass field.,A man standing in a open grass field.,sheep,man,0.3,a ! standing in a open grass field.,0.09135580062866211,1.0
+A single horse walking on a rocky trail.,A single woman walking on a rocky trail.,horse,woman,0.3,a single ! walking on a rocky trail.,0.05589860677719116,1.0
+A single room with two separate twin beds.,A hotel room with two separate twin beds.,single,hotel,0.0,a ! room with two separate twin beds.,-0.03953683376312256,1.0
+A single woman walking on a rocky trail.,A single horse walking on a rocky trail.,woman,horse,0.6,a single ! walking on a rocky trail.,-0.05589860677719116,1.0
+A sink with cracked porcelain highlights this bathroom,A wall with cracked porcelain highlights this bathroom,sink,wall,0.0,a ! with cracked porcelain highlights this bathroom,0.06732916831970215,0.09375
+A skateboarder is carrying groceries on his board,A man is carrying groceries on his board,skateboarder,man,0.0,a ! is carrying groceries on his board,0.1332937479019165,0.234375
+A skateboarder preforming tricks on a half pipe. ,A magician preforming tricks on a half pipe. ,skateboarder,magician,0.0,a ! preforming tricks on a half pipe.,0.09246313571929932,0.0
+A skateboarder rides along a diagonally slanted wall.,A train rides along a diagonally slanted wall.,skateboarder,train,0.0,a ! rides along a diagonally slanted wall.,0.21727418899536133,0.171875
+A skier carving down a snowy mountain side,A man carving down a snowy mountain side,skier,man,0.0,a ! carving down a snowy mountain side,0.03575378656387329,0.875
+A skier is going through bumpy snow hills.,A train is going through bumpy snow hills.,skier,train,0.1,a ! is going through bumpy snow hills.,0.03973102569580078,0.640625
+A slice of chocolate cake with chocolate icing.,A piece of chocolate cake with chocolate icing.,slice,piece,0.0,a ! of chocolate cake with chocolate icing.,0.004792213439941406,1.0
+A small airplane is flying in the sky.,A small plane is flying in the sky.,airplane,plane,0.0,a small ! is flying in the sky.,0.02141815423965454,1.0
+A small bird is perched on a birdfeeder.,A small bird is perched on a tree.,birdfeeder.,tree.,0.0,a small bird is perched on a !,0.07010161876678467,0.609375
+A small bird is perched on a tree.,A small bird is perched on a birdfeeder.,tree.,birdfeeder.,1.0,a small bird is perched on a !,-0.07010161876678467,0.828125
+A small boy sitting on a luggage cart,A small boy sitting on a shopping cart,luggage,shopping,0.1,a small boy sitting on a ! cart,0.029993057250976562,0.9375
+A small boy sitting on a shopping cart,A small boy sitting on a luggage cart,shopping,luggage,0.0,a small boy sitting on a ! cart,-0.029993057250976562,0.703125
+a small child is holding up a bottle,a small child is holding up a toy,bottle,toy,0.4,a small child is holding up a !,0.0065879225730896,0.90625
+a small child is holding up a toy,a small child is holding up a bottle,toy,bottle,0.2,a small child is holding up a !,-0.0065879225730896,0.84375
+A small dining room with a king bed.,A small hotel room with a king bed.,dining,hotel,0.0,a small ! room with a king bed.,0.004586458206176758,0.0
+a small dog is standing in a sink,a small fish is standing in a sink,dog,fish,0.0,a small ! is standing in a sink,0.01862013339996338,0.390625
+A small egg sits on a white plate. ,A small sandwich sits on a white plate. ,egg,sandwich,0.9,a small ! sits on a white plate.,-0.021381258964538574,0.921875
+a small fish is standing in a sink,a small dog is standing in a sink,fish,dog,0.3,a small ! is standing in a sink,-0.01862013339996338,0.859375
+A small freezer next to a  wall.,A refrigerator freezer next to a  wall.,small,refrigerator,0.0,a ! freezer next to a wall.,-0.055372536182403564,0.65625
+a small golden egg in a plastic bag,a small golden pastry in a plastic bag,egg,pastry,0.2,a small golden ! in a plastic bag,-0.036085546016693115,0.9375
+a small golden pastry in a plastic bag,a small golden egg in a plastic bag,pastry,egg,0.0,a small golden ! in a plastic bag,0.036085546016693115,0.890625
+A small hotel room with a king bed.,A small dining room with a king bed.,hotel,dining,0.0,a small ! room with a king bed.,-0.004586458206176758,0.0
+A small plane is flying in the sky.,A small airplane is flying in the sky.,plane,airplane,0.0,a small ! is flying in the sky.,-0.02141815423965454,1.0
+A small sandwich sits on a white plate. ,A small egg sits on a white plate. ,sandwich,egg,0.0,a small ! sits on a white plate.,0.021381258964538574,0.796875
+A snowboarder catches air coming off a jump.,A jumper catches air coming off a jump.,snowboarder,jumper,0.0,a ! catches air coming off a jump.,0.2243422269821167,0.78125
+a snowboarding moving down a hill laughing ,a man moving down a hill laughing ,snowboarding,man,0.0,a ! moving down a hill laughing,0.021705210208892822,0.453125
+A soccer player jumps to return a ball.,A tennis player jumps to return a ball.,soccer,tennis,1.0,a ! player jumps to return a ball.,-0.0011335015296936035,0.96875
+a sofa and a bed in a room,a chair and a bed in a room,sofa,chair,0.0,a ! and a bed in a room,0.03941679000854492,0.359375
+A space filled with lots of counter space.,A kitchen filled with lots of counter space.,space,kitchen,0.0,a ! filled with lots of counter space.,-0.16173475980758667,0.96875
+a spin brush tooth brush on the sink,a tooth brush tooth brush on the sink,spin,,0.0,a ! brush tooth brush on the sink,-0.002243518829345703,0.140625
+a spooky looking hotel resort in the hills,a spooky looking ski resort in the hills,hotel,ski,0.0,a spooky looking ! resort in the hills,-0.050797462463378906,0.0
+a spooky looking ski resort in the hills,a spooky looking hotel resort in the hills,ski,hotel,0.0,a spooky looking ! resort in the hills,0.050797462463378906,0.046875
+a spoon next to a glass of beer ,a pizza next to a glass of beer ,spoon,pizza,1.0,a ! next to a glass of beer,-0.02109074592590332,1.0
+A square pizza on a wooden cutting board.,A homemade pizza on a wooden cutting board.,square,homemade,0.1,a ! pizza on a wooden cutting board.,0.031500160694122314,1.0
+A squirrel does a trick on a skateboard.,A guy does a trick on a skateboard.,squirrel,guy,0.2,a ! does a trick on a skateboard.,0.061246514320373535,0.984375
+A squirrel holding a toothbrush in its mouth. ,A cat holding a toothbrush in its mouth. ,squirrel,cat,0.0,a ! holding a toothbrush in its mouth.,0.04083675146102905,0.453125
+A squirrel jumping to catch a flying frisbee,A dog jumping to catch a flying frisbee,squirrel,dog,0.5,a ! jumping to catch a flying frisbee,0.031674087047576904,0.75
+A squirrel riding it's skateboard on a ramp.,A teenager riding it's skateboard on a ramp.,squirrel,teenager,1.0,a ! riding it's skateboard on a ramp.,0.028867900371551514,0.859375
+A squirrel that is playing in the snow.,A bird that is playing in the snow.,squirrel,bird,0.0,a ! that is playing in the snow.,0.04876899719238281,0.0
+A squirrel that is standing behind a tree.,A giraffe that is standing behind a tree.,squirrel,giraffe,0.1,a ! that is standing behind a tree.,-0.017555058002471924,0.15625
+A stack of clocks inside a shop window.,A display of clocks inside a shop window.,stack,display,0.0,a ! of clocks inside a shop window.,0.0013692378997802734,0.921875
+A stained glassed candle shines over a clock.,A stained glassed window shines over a clock.,candle,window,0.7,a stained glassed ! shines over a clock.,0.058164894580841064,0.921875
+A stained glassed window shines over a clock.,A stained glassed candle shines over a clock.,window,candle,0.0,a stained glassed ! shines over a clock.,-0.058164894580841064,0.125
+A staircase that is sitting on some steps.,A cat that is sitting on some steps.,staircase,cat,0.5,a ! that is sitting on some steps.,0.06693416833877563,0.921875
+A stop sign outside of a brick building.,A neon sign outside of a brick building.,stop,neon,0.2,a ! sign outside of a brick building.,0.004335463047027588,0.984375
+a stop sign underneath some telephone wiring ,a warning sign underneath some telephone wiring ,stop,warning,0.0,a ! sign underneath some telephone wiring,0.0018761754035949707,0.46875
+A store filled with bathroom equipment and accessories.,A store filled with bathroom supplies and accessories.,equipment,supplies,0.3,a store filled with bathroom ! and accessories.,0.020505785942077637,1.0
+A store filled with bathroom supplies and accessories.,A store filled with bathroom equipment and accessories.,supplies,equipment,0.0,a store filled with bathroom ! and accessories.,-0.020505785942077637,0.984375
+A stove standing next to a fridge freezer ,A man standing next to a fridge freezer ,stove,man,0.4,a ! standing next to a fridge freezer,0.036328792572021484,0.78125
+A strange plant hanging off a banana tree.,A strange plant hanging off a Christmas tree.,banana,Christmas,0.0,a strange plant hanging off a ! tree.,0.024881958961486816,0.0
+A strange plant hanging off a Christmas tree.,A strange plant hanging off a banana tree.,Christmas,banana,0.0,a strange plant hanging off a ! tree.,-0.024881958961486816,0.0
+A street pole is loaded with different signs.,A totem pole is loaded with different signs.,street,totem,0.1,a ! pole is loaded with different signs.,-0.02781778573989868,0.09375
+A street sign above an orange detour sign.,A yellow sign above an orange detour sign.,street,yellow,0.0,a ! sign above a orange detour sign.,0.0005946159362792969,0.03125
+A street sign is underneath a concrete overpass. ,A warning sign is underneath a concrete overpass. ,street,warning,0.0,a ! sign is underneath a concrete overpass.,0.021464884281158447,0.734375
+A stuffed animal is sitting outside an eatery.,A stuffed bear is sitting outside an eatery.,animal,bear,0.0,a stuffed ! is sitting outside a eatery.,0.00010895729064941406,0.84375
+A stuffed bear is sitting outside an eatery.,A stuffed animal is sitting outside an eatery.,bear,animal,0.0,a stuffed ! is sitting outside a eatery.,-0.00010895729064941406,0.765625
+a surfer riding a wave under a pier,a woman riding a wave under a pier,surfer,woman,0.0,a ! riding a wave under a pier,0.02714771032333374,0.703125
+A table and some chairs in a room.,A television and some chairs in a room.,table,television,0.0,a ! and some chairs in a room.,-0.05707508325576782,0.96875
+a table with a vase with many flowers,a tree with a vase with many flowers,table,tree,0.0,a ! with a vase with many flowers,-0.011102795600891113,0.21875
+A tall brick church adorned with a clock.,A tall brick church spire with a clock.,adorned,spire,0.0,a tall brick church ! with a clock.,-0.05294764041900635,0.96875
+A tall brick church spire with a clock.,A tall brick church adorned with a clock.,spire,adorned,0.0,a tall brick church ! with a clock.,0.05294764041900635,0.96875
+A tall building with a large white dome.,A tall building with a large white statue.,dome.,statue.,0.0,a tall building with a large white !,0.00929570198059082,0.453125
+A tall building with a large white statue.,A tall building with a large white dome.,statue.,dome.,0.1,a tall building with a large white !,-0.00929570198059082,1.0
+a tall tower in front of some buildings ,a clock tower in front of some buildings ,tall,clock,0.6,a ! tower in front of some buildings,-0.11580431461334229,1.0
+A teenager is wearing glasses and a tie.,A woman is wearing glasses and a tie.,teenager,woman,0.1,a ! is wearing glasses and a tie.,0.006536245346069336,0.9375
+A teenager riding it's skateboard on a ramp.,A squirrel riding it's skateboard on a ramp.,teenager,squirrel,0.0,a ! riding it's skateboard on a ramp.,-0.028867900371551514,0.296875
+A television and some chairs in a room.,A table and some chairs in a room.,television,table,0.7,a ! and some chairs in a room.,0.05707508325576782,1.0
+A tennis player jumps and hits a ball.,A baseball player jumps and hits a ball.,tennis,baseball,0.6,a ! player jumps and hits a ball.,0.013830840587615967,0.328125
+A tennis player jumps to return a ball.,A soccer player jumps to return a ball.,tennis,soccer,0.9,a ! player jumps to return a ball.,0.0011335015296936035,0.484375
+A toaster oven filled with lots of food.,A hot oven filled with lots of food.,toaster,hot,0.1,a ! oven filled with lots of food.,0.1440255045890808,0.671875
+A toddler is sitting inside a large bathtub.,A cat is sitting inside a large bathtub.,toddler,cat,0.6,a ! is sitting inside a large bathtub.,0.03061884641647339,0.734375
+a tooth brush tooth brush on the sink,a spin brush tooth brush on the sink,,spin,0.0,a ! brush tooth brush on the sink,0.002243518829345703,0.0
+A totem pole is loaded with different signs.,A street pole is loaded with different signs.,totem,street,0.0,a ! pole is loaded with different signs.,0.02781778573989868,1.0
+A traffic light by a Lutzdale sign. ,A traffic light by a Lutz road sign. ,Lutzdale,Lutz road,0.0,a traffic light by a ! sign. !,-0.00891721248626709,0.125
+A traffic light by a Lutz road sign. ,A traffic light by a Lutzdale sign. ,Lutz road,Lutzdale,0.0,a traffic light by a ! sign. !,0.00891721248626709,0.296875
+A traffic light is showing a green arrow.,A traffic light is showing a green light.,arrow.,light.,0.0,a traffic light is showing a green !,0.04381674528121948,0.71875
+A traffic light is showing a green light.,A traffic light is showing a green arrow.,light.,arrow.,0.0,a traffic light is showing a green !,-0.04381674528121948,0.578125
+A train engine carrying carts down a track.,A diesel engine carrying carts down a track.,train,diesel,0.0,a ! engine carrying carts down a track.,-0.014248490333557129,0.75
+A train is going through bumpy snow hills.,A skier is going through bumpy snow hills.,train,skier,0.6,a ! is going through bumpy snow hills.,-0.03973102569580078,0.6875
+A train rides along a diagonally slanted wall.,A skateboarder rides along a diagonally slanted wall.,train,skateboarder,0.5,a ! rides along a diagonally slanted wall.,-0.21727418899536133,0.765625
+A train that is going by some grass.,A horse that is going by some grass.,train,horse,0.6,a ! that is going by some grass.,0.010481417179107666,0.875
+A tray of black and white sprinkled doughnuts ,A bowl of black and white sprinkled doughnuts ,tray,bowl,0.0,a ! of black and white sprinkled doughnuts,-0.00649493932723999,0.796875
+a tree in a field near many trees ,a horse in a field near many trees ,tree,horse,0.9,a ! in a field near many trees,-0.060201942920684814,1.0
+a tree in a field of tall grass,a horse in a field of tall grass,tree,horse,0.5,a ! in a field of tall grass,-0.01722133159637451,1.0
+A tree that is standing in the dirt.,A elephant that is standing in the dirt.,tree,elephant,0.5,a ! that is standing in the dirt.,-0.06722235679626465,1.0
+a tree with a vase with many flowers,a table with a vase with many flowers,tree,table,1.0,a ! with a vase with many flowers,0.011102795600891113,1.0
+A tree with plants sitting in the window,A kitchen with plants sitting in the window,tree,kitchen,0.9,a ! with plants sitting in the window,-0.02499973773956299,1.0
+a tree with some flowers near a window,a vase with some flowers near a window,tree,vase,0.7,a ! with some flowers near a window,0.004670977592468262,1.0
+A truck is carrying some huge tree trunks.,A man is carrying some huge tree trunks.,truck,man,0.0,a ! is carrying some huge tree trunks.,0.028591156005859375,0.75
+a truck that transports cars on the back,a van that transports cars on the back,truck,van,0.0,a ! that transports cars on the back,0.056078553199768066,0.140625
+A tv remote control sits on a shelf.,A tv remote control sits on a table.,shelf.,table.,0.0,a tv remote control sits on a !,-0.004382193088531494,0.921875
+A tv remote control sits on a table.,A tv remote control sits on a shelf.,table.,shelf.,0.1,a tv remote control sits on a !,0.004382193088531494,0.671875
+a underground train station in the bronx are ,a underground train station in the Netherlands are ,bronx,Netherlands,0.0,a underground train station in the ! are,-0.023140251636505127,0.0
+a underground train station in the Netherlands are ,a underground train station in the bronx are ,Netherlands,bronx,0.0,a underground train station in the ! are,0.023140251636505127,0.0
+a van that transports cars on the back,a truck that transports cars on the back,van,truck,0.0,a ! that transports cars on the back,-0.056078553199768066,0.171875
+a vase with some flowers near a window,a tree with some flowers near a window,vase,tree,0.4,a ! with some flowers near a window,-0.004670977592468262,0.6875
+A vending voucher machine on a snow-covered sidewalk.,A parking voucher machine on a snow-covered sidewalk.,vending,parking,0.0,a ! voucher machine on a snow-covered sidewalk.,-0.022388935089111328,1.0
+A very large and very posh living room.,A very large and very posh living space.,room.,space.,0.0,a very large and very posh living !,0.009449958801269531,1.0
+A very large and very posh living space.,A very large and very posh living room.,space.,room.,0.0,a very large and very posh living !,-0.009449958801269531,1.0
+A veterinarian attending to an injured brown horse.,A performer attending to an injured brown horse.,veterinarian,performer,0.0,a ! attending to a injured brown horse.,0.06215488910675049,0.0
+A waiting area in an airport terminal ,A waiting queue in an airport terminal ,area,queue,0.0,a waiting ! in a airport terminal,0.023886442184448242,1.0
+A waiting queue in an airport terminal ,A waiting area in an airport terminal ,queue,area,0.3,a waiting ! in a airport terminal,-0.023886442184448242,0.984375
+A wall with cracked porcelain highlights this bathroom,A sink with cracked porcelain highlights this bathroom,wall,sink,0.0,a ! with cracked porcelain highlights this bathroom,-0.06732916831970215,0.078125
+A warning sign is underneath a concrete overpass. ,A street sign is underneath a concrete overpass. ,warning,street,0.0,a ! sign is underneath a concrete overpass.,-0.021464884281158447,0.46875
+a warning sign underneath some telephone wiring ,a stop sign underneath some telephone wiring ,warning,stop,0.0,a ! sign underneath some telephone wiring,-0.0018761754035949707,0.3125
+a well arranged room as an exhibition room,a well arranged room as an meeting room,exhibition,meeting,0.4,a well arranged room as a ! room,-0.05537736415863037,1.0
+a well arranged room as an meeting room,a well arranged room as an exhibition room,meeting,exhibition,0.8,a well arranged room as a ! room,0.05537736415863037,0.359375
+A while horse bending down eating grass .,A grazing horse bending down eating grass.,while grass .,grazing grass.,0.0,a ! horse bending down eating ! !,-0.08107131719589233,0.6875
+a white bird is standing on a beach,a white bird is standing on a ledge,beach,ledge,0.8,a white bird is standing on a !,0.0028384923934936523,0.9375
+a white bird is standing on a ledge,a white bird is standing on a beach,ledge,beach,0.2,a white bird is standing on a !,-0.0028384923934936523,0.953125
+A white bus driving past a tall building.,A white sedan driving past a tall building.,bus,sedan,0.0,a white ! driving past a tall building.,0.01733499765396118,0.859375
+A white bus is driving down the street,A white SUV is driving down the street,bus,SUV,0.9,a white ! is driving down the street,-0.013334214687347412,0.953125
+A white ceramic sink next to a toilet.,A white kitchen sink next to a toilet.,ceramic,kitchen,0.0,a white ! sink next to a toilet.,-0.061553359031677246,0.015625
+A white desk and mirror in a room.,A white sink and mirror in a room.,desk,sink,0.7,a white ! and mirror in a room.,-0.0825040340423584,0.75
+A white elephant in a very small kitchen.,A white refrigerator in a very small kitchen.,elephant,refrigerator,0.0,a white ! in a very small kitchen.,-0.09682011604309082,0.03125
+A white elephant sitting next to a toilet.,A white sink sitting next to a toilet.,elephant,sink,0.0,a white ! sitting next to a toilet.,-0.010959386825561523,0.390625
+A white kitchen sink next to a toilet.,A white ceramic sink next to a toilet.,kitchen,ceramic,0.2,a white ! sink next to a toilet.,0.061553359031677246,0.359375
+A white refrigerator in a very small kitchen.,A white elephant in a very small kitchen.,refrigerator,elephant,0.0,a white ! in a very small kitchen.,0.09682011604309082,0.0
+A white sedan driving past a tall building.,A white bus driving past a tall building.,sedan,bus,0.7,a white ! driving past a tall building.,-0.01733499765396118,0.890625
+A white sheep with two black baby sheeps.,A mother sheep with two black baby sheeps.,white,mother,0.1,a ! sheep with two black baby sheeps.,-0.016997933387756348,0.5625
+A white sink and mirror in a room.,A white desk and mirror in a room.,sink,desk,0.0,a white ! and mirror in a room.,0.0825040340423584,0.96875
+A white sink and tub in a bathroom.,A white towel and tub in a bathroom.,sink,towel,0.0,a white ! and tub in a bathroom.,0.021786510944366455,0.953125
+A white sink sitting next to a toilet.,A white elephant sitting next to a toilet.,sink,elephant,0.0,a white ! sitting next to a toilet.,0.010959386825561523,0.078125
+A white SUV is driving down the street,A white bus is driving down the street,SUV,bus,0.6,a white ! is driving down the street,0.013334214687347412,1.0
+A white SUV that has its seat up.,A white toilet that has its seat up.,SUV,toilet,0.9,a white ! that has its seat up.,-0.009846627712249756,0.953125
+A white toilet that has its seat up.,A white SUV that has its seat up.,toilet,SUV,0.0,a white ! that has its seat up.,0.009846627712249756,0.03125
+A white towel and tub in a bathroom.,A white sink and tub in a bathroom.,towel,sink,0.0,a white ! and tub in a bathroom.,-0.021786510944366455,0.515625
+A woman adjusts clock while several people watch.,A woman adjusts sunglasses while several people watch.,clock,sunglasses,0.6,a woman adjusts ! while several people watch.,-0.04757678508758545,0.984375
+A woman adjusts sunglasses while several people watch.,A woman adjusts clock while several people watch.,sunglasses,clock,0.2,a woman adjusts ! while several people watch.,0.04757678508758545,0.765625
+A woman bathing her dog in the shower,A woman bathing her dog in the sink,shower,sink,0.0,a woman bathing her dog in the !,0.008340239524841309,0.765625
+A woman bathing her dog in the sink,A woman bathing her dog in the shower,sink,shower,0.4,a woman bathing her dog in the !,-0.008340239524841309,0.75
+A woman carrying skis up a snowy hill.,A woman carrying skis up a snowy slope.,hill.,slope.,0.0,a woman carrying skis up a snowy !,-0.00685572624206543,0.84375
+A woman carrying skis up a snowy slope.,A woman carrying skis up a snowy hill.,slope.,hill.,0.0,a woman carrying skis up a snowy !,0.00685572624206543,0.625
+A woman drinking from a puddle of water.,A cow drinking from a puddle of water.,woman,cow,0.9,a ! drinking from a puddle of water.,-0.08253252506256104,0.796875
+A woman eating a sandwich on a plate.,A cat eating a sandwich on a plate.,woman,cat,0.1,a ! eating a sandwich on a plate.,-0.0022641420364379883,0.578125
+A woman feeding a giraffe under a tent. ,A woman feeding a kitten under a tent. ,giraffe,kitten,0.0,a woman feeding a ! under a tent.,0.015706241130828857,0.90625
+A woman feeding a kitten under a tent. ,A woman feeding a giraffe under a tent. ,kitten,giraffe,0.5,a woman feeding a ! under a tent.,-0.015706241130828857,0.734375
+a woman is holding a box of pizza,a woman is holding a slice of pizza,box,slice,0.4,a woman is holding a ! of pizza,0.01747649908065796,0.96875
+a woman is holding a slice of pizza,a woman is holding a box of pizza,slice,box,0.2,a woman is holding a ! of pizza,-0.01747649908065796,0.984375
+A woman is riding an orange sports bike.,A woman is riding an orange sports motorcycle.,bike.,motorcycle.,0.0,a woman is riding a orange sports !,-0.031095683574676514,0.859375
+A woman is riding an orange sports motorcycle.,A woman is riding an orange sports bike.,motorcycle.,bike.,0.3,a woman is riding a orange sports !,0.031095683574676514,0.9375
+a woman is sitting in a green field,a bear is sitting in a green field,woman,bear,0.1,a ! is sitting in a green field,0.030459046363830566,0.546875
+A woman is wearing glasses and a tie.,A teenager is wearing glasses and a tie.,woman,teenager,1.0,a ! is wearing glasses and a tie.,-0.006536245346069336,0.984375
+A woman looks upon a science fiction exhibit,A woman looks upon a science museum exhibit,fiction,museum,0.2,a woman looks upon a science ! exhibit,0.0256311297416687,0.9375
+A woman looks upon a science museum exhibit,A woman looks upon a science fiction exhibit,museum,fiction,0.4,a woman looks upon a science ! exhibit,-0.0256311297416687,0.984375
+A woman on a beach in the ocean.,A woman on a surfboard in the ocean.,beach,surfboard,1.0,a woman on a ! in the ocean.,-0.14495933055877686,0.984375
+A woman on a surfboard in the ocean.,A woman on a beach in the ocean.,surfboard,beach,0.0,a woman on a ! in the ocean.,0.14495933055877686,0.96875
+A woman prepares to serve the ceremonial ball.,A woman prepares to serve the tennis ball.,ceremonial,tennis,1.0,a woman prepares to serve the ! ball.,0.07302463054656982,0.984375
+A woman prepares to serve the tennis ball.,A woman prepares to serve the ceremonial ball.,tennis,ceremonial,0.0,a woman prepares to serve the ! ball.,-0.07302463054656982,0.0
+a woman reaching up to eat some leaves ,a giraffe reaching up to eat some leaves ,woman,giraffe,0.3,a ! reaching up to eat some leaves,-0.02855396270751953,0.5625
+a woman riding a wave under a pier,a surfer riding a wave under a pier,woman,surfer,0.0,a ! riding a wave under a pier,-0.02714771032333374,0.75
+A woman standing next to a computer monitor.,A woman standing next to a computer screen.,monitor.,screen.,0.0,a woman standing next to a computer !,0.01817953586578369,1.0
+A woman standing next to a computer screen.,A woman standing next to a computer monitor.,screen.,monitor.,0.0,a woman standing next to a computer !,-0.01817953586578369,1.0
+A woman walking through a lush green field.,A giraffe walking through a lush green field.,woman,giraffe,1.0,a ! walking through a lush green field.,-0.07053297758102417,1.0
+A woman with a laptop an computer monitors.,A desk with a laptop an computer monitors.,woman,desk,0.1,a ! with a laptop a computer monitors.,0.0366552472114563,0.984375
+A women who is sitting on a bench.,A women who is sitting on a boat.,bench.,boat.,0.6,a women who is sitting on a !,-0.001101076602935791,0.984375
+A women who is sitting on a boat.,A women who is sitting on a bench.,boat.,bench.,0.9,a women who is sitting on a !,0.001101076602935791,1.0
+a worn wooden bench beneath some shade trees,a worn wooden hut beneath some shade trees,bench,hut,0.0,a worn wooden ! beneath some shade trees,0.0007439851760864258,0.96875
+a worn wooden hut beneath some shade trees,a worn wooden bench beneath some shade trees,hut,bench,1.0,a worn wooden ! beneath some shade trees,-0.0007439851760864258,0.984375
+A yellow fishing boat moving through choppy waters.,A yellow tug boat moving through choppy waters.,fishing,tug,0.0,a yellow ! boat moving through choppy waters.,-0.04097294807434082,0.96875
+A yellow sign above an orange detour sign.,A street sign above an orange detour sign.,yellow,street,0.0,a ! sign above a orange detour sign.,-0.0005946159362792969,0.015625
+A yellow tug boat moving through choppy waters.,A yellow fishing boat moving through choppy waters.,tug,fishing,0.0,a yellow ! boat moving through choppy waters.,0.04097294807434082,0.984375
+A young boy is standing on his skateboard.,A young teenager is standing on his skateboard.,boy,teenager,0.0,a young ! is standing on his skateboard.,-0.02355051040649414,0.9375
+a young boy wearing shorts on a skateboard,a young female wearing shorts on a skateboard,boy,female,0.2,a young ! wearing shorts on a skateboard,-0.013522744178771973,0.9375
+A young boy with a Nintendo game controller.,A young boy with a video game controller.,Nintendo,video,0.1,a young boy with a ! game controller.,-0.009581804275512695,1.0
+A young boy with a video game controller.,A young boy with a Nintendo game controller.,video,Nintendo,0.0,a young boy with a ! game controller.,0.009581804275512695,0.8125
+A young child sits holding a stuffed animal.,A young child sits holding a stuffed bear.,animal.,bear.,0.0,a young child sits holding a stuffed !,0.028225064277648926,0.921875
+A young child sits holding a stuffed bear.,A young child sits holding a stuffed animal.,bear.,animal.,0.0,a young child sits holding a stuffed !,-0.028225064277648926,0.9375
+a young female wearing shorts on a skateboard,a young boy wearing shorts on a skateboard,female,boy,0.6,a young ! wearing shorts on a skateboard,0.013522744178771973,1.0
+A young girl holding a yellow tennis ball.,A young girl holding a yellow tennis racquet.,ball.,racquet.,0.2,a young girl holding a yellow tennis !,0.0122605562210083,1.0
+A young girl holding a yellow tennis racquet.,A young girl holding a yellow tennis ball.,racquet.,ball.,0.0,a young girl holding a yellow tennis !,-0.0122605562210083,0.953125
+A young man doing tricks on a bicycle,A young man doing tricks on a skateboard,bicycle,skateboard,0.6,a young man doing tricks on a !,0.012156128883361816,1.0
+A young man doing tricks on a skateboard,A young man doing tricks on a bicycle,skateboard,bicycle,1.0,a young man doing tricks on a !,-0.012156128883361816,0.96875
+A young man drinking a cup of coffee,A young man drinking a mug of coffee,cup,mug,0.0,a young man drinking a ! of coffee,-0.059606194496154785,1.0
+A young man drinking a mug of coffee,A young man drinking a cup of coffee,mug,cup,0.0,a young man drinking a ! of coffee,0.059606194496154785,0.96875
+A young teenager is standing on his skateboard.,A young boy is standing on his skateboard.,teenager,boy,0.9,a young ! is standing on his skateboard.,0.02355051040649414,0.9375
+A young woman playing tennis in a tournament.,A young woman playing volleyball in a tournament.,tennis,volleyball,0.0,a young woman playing ! in a tournament.,-0.020821034908294678,0.109375
+A young woman playing volleyball in a tournament.,A young woman playing tennis in a tournament.,volleyball,tennis,0.4,a young woman playing ! in a tournament.,0.020821034908294678,0.375
+Baby bear climbing large rock near pine tree.,Baby elephant climbing large rock near pine tree.,bear,elephant,0.3,baby ! climbing large rock near pine tree.,-0.05740088224411011,0.765625
+Baby elephant climbing large rock near pine tree.,Baby bear climbing large rock near pine tree.,elephant,bear,0.0,baby ! climbing large rock near pine tree.,0.05740088224411011,0.96875
+BASEBALL GAME GOING ON WITH BATTER AT BAT, BEST GAME GOING ON WITH BATTER AT BAT,BASEBALL,BEST,0.0,! game going on with batter at bat,-0.005044758319854736,0.0
+Baseball players fielding a hit in the infield.,Baseball players fielding a hit in the outfield.,infield.,outfield.,0.0,baseball players fielding a hit in the !,0.008180975914001465,0.0
+Baseball players fielding a hit in the outfield.,Baseball players fielding a hit in the infield.,outfield.,infield.,0.0,baseball players fielding a hit in the !,-0.008180975914001465,0.0
+Baseball players playing baseball on a baseball field.,Young players playing baseball on a baseball field.,Baseball,Young,0.0,! players playing baseball on a baseball field.,-0.007719278335571289,1.0
+Blue seats in a bus in a city.,Blue seats in a row in a city.,bus,row,0.0,blue seats in a ! in a city.,0.060725271701812744,0.5
+Blue seats in a row in a city.,Blue seats in a bus in a city.,row,bus,0.8,blue seats in a ! in a city.,-0.060725271701812744,0.96875
+Boy flying his dog outside in the yard.,Boy flying his kite outside in the yard.,dog,kite,1.0,boy flying his ! outside in the yard.,-0.06847596168518066,1.0
+Boy flying his kite outside in the yard.,Boy flying his dog outside in the yard.,kite,dog,0.0,boy flying his ! outside in the yard.,0.06847596168518066,0.109375
+Bunches of bananas are displayed in a basket.,Bunches of bananas are displayed in a shop.,basket.,shop.,0.2,bunches of bananas are displayed in a !,0.04589998722076416,1.0
+Bunches of bananas are displayed in a shop.,Bunches of bananas are displayed in a basket.,shop.,basket.,0.0,bunches of bananas are displayed in a !,-0.04589998722076416,0.984375
+Cat sitting right next to keyboard on laptop,Cat sitting right next to me on laptop,keyboard,me,0.0,cat sitting right next to ! on laptop,0.10823714733123779,0.6875
+Cat sitting right next to me on laptop,Cat sitting right next to keyboard on laptop,me,keyboard,0.4,cat sitting right next to ! on laptop,-0.10823714733123779,0.90625
+Chicken and broccoli are sitting on a plate.,Meat and broccoli are sitting on a plate.,Chicken,Meat,0.1,! and broccoli are sitting on a plate.,0.023772239685058594,1.0
+Chicken with fried food and soda on table,Hoagie with fried food and soda on table,Chicken,Hoagie,0.6,! with fried food and soda on table,-0.09889525175094604,0.828125
+Children graze in a lushly green mountain meadow,Sheep graze in a lushly green mountain meadow,Children,Sheep,0.8,! graze in a lushly green mountain meadow,0.02256178855895996,1.0
+Children playing on and around a giraffe sculpture.,Children playing on and around a Lego sculpture.,giraffe,Lego,0.1,children playing on and around a ! sculpture.,-0.02618885040283203,0.96875
+Children playing on and around a Lego sculpture.,Children playing on and around a giraffe sculpture.,Lego,giraffe,0.0,children playing on and around a ! sculpture.,0.02618885040283203,0.984375
+Children standing behind two zebras as they graze.,Monkey standing behind two zebras as they graze.,Children,Monkey,0.0,! standing behind two zebras as they graze.,0.025431513786315918,0.0
+Closeup of various oranges and bananas in pile., piles of various oranges and bananas in pile.,Closeup,piles,0.0,! of various oranges and bananas in pile.,0.05464529991149902,0.65625
+coffee cream and a croissant on a tray,Ice cream and a croissant on a tray,coffee,Ice,0.0,! cream and a croissant on a tray,-0.027390003204345703,0.953125
+Dog in parking lot and on a leash., parked in parking lot and on a leash.,Dog,parked,0.0,! in parking lot and on a leash.,0.08137702941894531,0.671875
+Doughnuts sitting on a shelf in a bakery.,Doughnuts sitting on a table in a bakery.,shelf,table,0.0,doughnuts sitting on a ! in a bakery.,0.015722990036010742,0.390625
+Doughnuts sitting on a table in a bakery.,Doughnuts sitting on a shelf in a bakery.,table,shelf,1.0,doughnuts sitting on a ! in a bakery.,-0.015722990036010742,0.984375
+Family and friends are together at the beach.,Family and friends are together at the vigil.,beach.,vigil.,0.4,family and friends are together at the !,-0.08093643188476562,0.984375
+Family and friends are together at the vigil.,Family and friends are together at the beach.,vigil.,beach.,0.1,family and friends are together at the !,0.08093643188476562,1.0
+Fans watching a batter take his practice swings.,Fans watching a player take his practice swings.,batter,player,0.0,fans watching a ! take his practice swings.,0.015569090843200684,0.34375
+Fans watching a player take his practice swings.,Fans watching a batter take his practice swings.,player,batter,0.0,fans watching a ! take his practice swings.,-0.015569090843200684,0.078125
+Four giraffes are walking up an inclined path.,Four giraffes are walking up an inclined slope.,path.,slope.,0.0,four giraffes are walking up a inclined !,0.016152024269104004,0.140625
+Four giraffes are walking up an inclined slope.,Four giraffes are walking up an inclined path.,slope.,path.,0.0,four giraffes are walking up a inclined !,-0.016152024269104004,0.0625
+Four people compete on horseback playing playing polo.,Four people compete on Saturday playing playing polo.,horseback,Saturday,0.0,four people compete on ! playing playing polo.,0.02140355110168457,0.671875
+Four people compete on Saturday playing playing polo.,Four people compete on horseback playing playing polo.,Saturday,horseback,0.5,four people compete on ! playing playing polo.,-0.02140355110168457,0.96875
+Four people playing frisbee on a soccer field.,Four people playing soccer on a soccer field.,frisbee,,0.2,four people playing ! on a soccer field.,0.06150442361831665,1.0
+Four people playing soccer on a soccer field.,Four people playing frisbee on a soccer field.,,frisbee,0.0,four people playing ! on a soccer field.,-0.06150442361831665,0.21875
+four zebras standing in the tall drywall,four zebras standing in the tall dry grass,drywall,dry grass,1.0,four zebras standing in the tall ! !,-0.05547893047332764,0.96875
+four zebras standing in the tall dry grass,four zebras standing in the tall drywall,dry grass,drywall,0.0,four zebras standing in the tall ! !,0.05547893047332764,0.0
+Fresh red and yellow tulips in a basket.,Fresh red and yellow tulips in a vase.,basket.,vase.,0.4,fresh red and yellow tulips in a !,0.015927135944366455,0.9375
+Fresh red and yellow tulips in a vase.,Fresh red and yellow tulips in a basket.,vase.,basket.,0.0,fresh red and yellow tulips in a !,-0.015927135944366455,1.0
+Fried chicken and french fries served on paper.,Fried fish and french fries served on paper.,chicken,fish,0.3,fried ! and french fries served on paper.,0.00496673583984375,0.90625
+Fried fish and french fries served on paper.,Fried chicken and french fries served on paper.,fish,chicken,0.1,fried ! and french fries served on paper.,-0.00496673583984375,0.9375
+Giraffe reaching into basked with trees in background,Giraffe reaching into basked with trees in camouflage,background,camouflage,0.0,giraffe reaching into basked with trees in !,-0.035375356674194336,0.0
+Giraffe reaching into basked with trees in camouflage,Giraffe reaching into basked with trees in background,camouflage,background,0.0,giraffe reaching into basked with trees in !,0.035375356674194336,0.140625
+Guys look through the cabinets and cabinets. ,Guys look through the cabinets and refrigerator. ,cabinets.,refrigerator.,0.4,guys look through the cabinets and !,-0.030353844165802002,0.90625
+Guys look through the cabinets and refrigerator. ,Guys look through the cabinets and cabinets. ,refrigerator.,cabinets.,0.0,guys look through the cabinets and !,0.030353844165802002,0.453125
+Herd of zebras standing on a rocky field.,Images of zebras standing on a rocky field.,Herd,Images,0.0,! of zebras standing on a rocky field.,-0.09698998928070068,0.515625
+Hoagie with fried food and soda on table,Chicken with fried food and soda on table,Hoagie,Chicken,0.0,! with fried food and soda on table,0.09889525175094604,1.0
+Horse figurines next to walk on a leash.,Horse figurines next to walk on a table.,leash.,table.,0.0,horse figurines next to walk on a !,-0.01752948760986328,0.0
+Horse figurines next to walk on a table.,Horse figurines next to walk on a leash.,table.,leash.,0.0,horse figurines next to walk on a !,0.01752948760986328,0.21875
+Ice cream and a croissant on a tray,coffee cream and a croissant on a tray,Ice,coffee,0.0,! cream and a croissant on a tray,0.027390003204345703,0.03125
+Images of zebras standing on a rocky field.,Herd of zebras standing on a rocky field.,Images,Herd,0.0,! of zebras standing on a rocky field.,0.09698998928070068,0.921875
+lady plays catch while camping in the sun,Man plays catch while camping in the sun,lady,Man,0.0,! plays catch while camping in the sun,-0.003775656223297119,0.96875
+Large marble looking building with a steeple top.,Large rectangular looking building with a steeple top.,marble,rectangular,0.1,large ! looking building with a steeple top.,0.03818917274475098,1.0
+Large rectangular looking building with a steeple top.,Large marble looking building with a steeple top.,rectangular,marble,0.1,large ! looking building with a steeple top.,-0.03818917274475098,0.984375
+Life with indefinite end because of bright light,Toilet with indefinite end because of bright light,Life,Toilet,0.0,! with indefinite end because of bright light,-0.16838747262954712,0.0
+Locomotive pulling cars on tracks in outdoor area.,Police pulling cars on tracks in outdoor area.,Locomotive,Police,0.0,! pulling cars on tracks in outdoor area.,0.010294020175933838,0.328125
+Many oranges have been placed inside a bowl.,Many oranges have been placed inside a refrigerator.,bowl.,refrigerator.,0.8,many oranges have been placed inside a !,-0.0022324323654174805,0.9375
+Many oranges have been placed inside a refrigerator.,Many oranges have been placed inside a bowl.,refrigerator.,bowl.,0.3,many oranges have been placed inside a !,0.0022324323654174805,0.78125
+Many umbrellas shade the beach from the sun.,Many umbrellas shade the city from the sun.,beach,city,0.2,many umbrellas shade the ! from the sun.,-0.05394864082336426,0.890625
+Many umbrellas shade the city from the sun.,Many umbrellas shade the beach from the sun.,city,beach,0.4,many umbrellas shade the ! from the sun.,0.05394864082336426,0.96875
+Man and his motorcycle flying through the air.,Man and his wife flying through the air.,motorcycle,wife,0.0,man and his ! flying through the air.,0.13267862796783447,0.796875
+Man and his wife flying through the air.,Man and his motorcycle flying through the air.,wife,motorcycle,0.2,man and his ! flying through the air.,-0.13267862796783447,0.671875
+Man plays catch while camping in the sun,lady plays catch while camping in the sun,Man,lady,0.0,! plays catch while camping in the sun,0.003775656223297119,0.9375
+Man sitting for a majestic scenic photo ,Snowboarder sitting for a majestic scenic photo ,Man,Snowboarder,0.2,! sitting for a majestic scenic photo,-0.19448930025100708,0.78125
+Meat and broccoli are sitting on a plate.,Chicken and broccoli are sitting on a plate.,Meat,Chicken,0.0,! and broccoli are sitting on a plate.,-0.023772239685058594,1.0
+Men in an industrial kitchen preparing various items.,Working in an industrial kitchen preparing various items.,Men,Working,0.2,! in a industrial kitchen preparing various items.,0.10332852602005005,1.0
+Men standing on a tennis court playing tennis.,Woman standing on a tennis court playing tennis.,Men,Woman,0.4,! standing on a tennis court playing tennis.,-0.0032608509063720703,0.796875
+Monkey standing behind two zebras as they graze.,Children standing behind two zebras as they graze.,Monkey,Children,0.1,! standing behind two zebras as they graze.,-0.025431513786315918,0.0625
+Mouse a keyboard sitting on a work bench.,Mouse a man sitting on a work bench.,keyboard,man,0.0,mouse a ! sitting on a work bench.,0.00962066650390625,0.0625
+Mouse a man sitting on a work bench.,Mouse a keyboard sitting on a work bench.,man,keyboard,0.3,mouse a ! sitting on a work bench.,-0.00962066650390625,0.703125
+Multiple pumpkins and a mural on the wall.,Multiple pumpkins and a skeleton on the wall.,mural,skeleton,0.0,multiple pumpkins and a ! on the wall.,0.03333079814910889,0.625
+Multiple pumpkins and a skeleton on the wall.,Multiple pumpkins and a mural on the wall.,skeleton,mural,0.0,multiple pumpkins and a ! on the wall.,-0.03333079814910889,0.953125
+Open area food court with colorful umbrellas. ,Open area food stalls with colorful umbrellas. ,court,stalls,0.0,open area food ! with colorful umbrellas.,-0.019788026809692383,1.0
+Open area food stalls with colorful umbrellas. ,Open area food court with colorful umbrellas. ,stalls,court,0.0,open area food ! with colorful umbrellas.,0.019788026809692383,1.0
+part of a sandwich sitting on a table,Picture of a sandwich sitting on a table,part,Picture,0.0,! of a sandwich sitting on a table,-0.03450137376785278,0.640625
+People are playing some video games on television.,People are playing some video games on Twitch.,television.,Twitch.,0.0,people are playing some video games on !,0.03329312801361084,0.015625
+People are playing some video games on Twitch.,People are playing some video games on television.,Twitch.,television.,0.5,people are playing some video games on !,-0.03329312801361084,1.0
+People are riding their horses in the parade.,People are riding their horses in the streets.,parade.,streets.,0.0,people are riding their horses in the !,0.03674876689910889,1.0
+People are riding their horses in the streets.,People are riding their horses in the parade.,streets.,parade.,0.0,people are riding their horses in the !,-0.03674876689910889,1.0
+People are standing by a small freight train.,People are standing by a small passenger train.,freight,passenger,0.0,people are standing by a small ! train.,0.0381583571434021,0.984375
+People are standing by a small passenger train.,People are standing by a small freight train.,passenger,freight,0.1,people are standing by a small ! train.,-0.0381583571434021,0.453125
+People are standing near an airport security kiosk.,People are standing near an airport ticket kiosk.,security,ticket,0.0,people are standing near a airport ! kiosk.,0.022311806678771973,1.0
+People are standing near an airport ticket kiosk.,People are standing near an airport security kiosk.,ticket,security,0.0,people are standing near a airport ! kiosk.,-0.022311806678771973,1.0
+PEOPLE CELEBRATING WITH CHOCOLATE CAKE AND FIRE ,PEOPLE CELEBRATING WITH CHOCOLATE CAKE AND WINE ,FIRE,WINE,0.7,people celebrating with chocolate cake and !,0.008796870708465576,0.984375
+PEOPLE CELEBRATING WITH CHOCOLATE CAKE AND WINE ,PEOPLE CELEBRATING WITH CHOCOLATE CAKE AND FIRE ,WINE,FIRE,0.0,people celebrating with chocolate cake and !,-0.008796870708465576,0.96875
+People in the cockpit and parachutes overhead.  ,People in the water and parachutes overhead.  ,cockpit,water,0.0,people in the ! and parachutes overhead.,0.15964281558990479,0.953125
+People in the water and parachutes overhead.  ,People in the cockpit and parachutes overhead.  ,water,cockpit,0.0,people in the ! and parachutes overhead.,-0.15964281558990479,0.28125
+People sitting near a colorful striped canvas bag.,People sitting near a colorful striped canvas tent.,bag.,tent.,0.7,people sitting near a colorful striped canvas !,-0.03397965431213379,0.984375
+People sitting near a colorful striped canvas tent.,People sitting near a colorful striped canvas bag.,tent.,bag.,0.9,people sitting near a colorful striped canvas !,0.03397965431213379,0.953125
+People walking down a sidewalk passing Chinese restaurants.,People walking down a street passing Chinese restaurants.,sidewalk,street,0.0,people walking down a ! passing chinese restaurants.,0.022480130195617676,1.0
+People walking down a street passing Chinese restaurants.,People walking down a sidewalk passing Chinese restaurants.,street,sidewalk,0.0,people walking down a ! passing chinese restaurants.,-0.022480130195617676,0.984375
+People with drinks standing around a deserted island.,People with drinks standing around a kitchen island.,deserted,kitchen,0.0,people with drinks standing around a ! island.,-0.04418748617172241,1.0
+People with drinks standing around a kitchen island.,People with drinks standing around a deserted island.,kitchen,deserted,0.0,people with drinks standing around a ! island.,0.04418748617172241,0.0
+Person in a green bikini fling a kite.,Person in a green park fling a kite.,bikini,park,0.2,person in a green ! fling a kite.,0.0038930177688598633,1.0
+Person in a green park fling a kite.,Person in a green bikini fling a kite.,park,bikini,0.0,person in a green ! fling a kite.,-0.0038930177688598633,0.796875
+Picture of a sandwich sitting on a table,part of a sandwich sitting on a table,Picture,part,0.0,! of a sandwich sitting on a table,0.03450137376785278,0.84375
+Pizza with everything on it sitting on counter.  , fridge with everything on it sitting on counter.  ,Pizza,fridge,0.0,! with everything on it sitting on counter.,-0.03333413600921631,0.1875
+Police pulling cars on tracks in outdoor area.,Locomotive pulling cars on tracks in outdoor area.,Police,Locomotive,1.0,! pulling cars on tracks in outdoor area.,-0.010294020175933838,1.0
+Red double decker bus waiting to load passengers,Red double speed bus waiting to load passengers,decker,speed,0.0,red double ! bus waiting to load passengers,0.04483377933502197,0.390625
+Red double speed bus waiting to load passengers,Red double decker bus waiting to load passengers,speed,decker,0.2,red double ! bus waiting to load passengers,-0.04483377933502197,0.328125
+"Rural train depot, level crossing and buildings ","Rural train tracks, level crossing and buildings ","depot,","tracks,",0.2,rural train ! level crossing and buildings,0.01172327995300293,1.0
+"Rural train tracks, level crossing and buildings ","Rural train depot, level crossing and buildings ","tracks,","depot,",0.0,rural train ! level crossing and buildings,-0.01172327995300293,0.921875
+Several animals walking and grazing on a farm. ,Several animals walking and grazing on a pasture. ,farm.,pasture.,0.1,several animals walking and grazing on a !,0.01745915412902832,1.0
+Several animals walking and grazing on a pasture. ,Several animals walking and grazing on a farm. ,pasture.,farm.,0.0,several animals walking and grazing on a !,-0.01745915412902832,1.0
+Several apples and pears sit on a shelf.,Several apples and pears sit on a surface.,shelf.,surface.,0.2,several apples and pears sit on a !,0.03474116325378418,1.0
+Several apples and pears sit on a surface.,Several apples and pears sit on a shelf.,surface.,shelf.,0.0,several apples and pears sit on a !,-0.03474116325378418,0.96875
+Several birds are walking along a muddy field.,Several birds are walking along a muddy trail.,field.,trail.,0.0,several birds are walking along a muddy !,-0.0010204315185546875,0.890625
+Several birds are walking along a muddy trail.,Several birds are walking along a muddy field.,trail.,field.,0.0,several birds are walking along a muddy !,0.0010204315185546875,0.984375
+several people hold umbrellas in a rain storm,several people hold umbrellas in a tropical storm,rain,tropical,0.0,several people hold umbrellas in a ! storm,-0.0015169382095336914,0.65625
+several people hold umbrellas in a tropical storm,several people hold umbrellas in a rain storm,tropical,rain,0.7,several people hold umbrellas in a ! storm,0.0015169382095336914,0.984375
+Shaggy Bear gets dinner served on a plate.,Shaggy dog gets dinner served on a plate.,Bear,dog,0.4,shaggy ! gets dinner served on a plate.,-0.024093806743621826,0.890625
+Shaggy dog gets dinner served on a plate.,Shaggy Bear gets dinner served on a plate.,dog,Bear,0.1,shaggy ! gets dinner served on a plate.,0.024093806743621826,0.828125
+Sheep graze in a lushly green mountain meadow,Children graze in a lushly green mountain meadow,Sheep,Children,0.0,! graze in a lushly green mountain meadow,-0.02256178855895996,0.90625
+Skateboarder performing aerial maneuvers on partly cloudy day.,Skateboarder performing aerial trick on partly cloudy day.,maneuvers,trick,0.0,skateboarder performing aerial ! on partly cloudy day.,0.06475961208343506,0.96875
+Skateboarder performing aerial trick on partly cloudy day.,Skateboarder performing aerial maneuvers on partly cloudy day.,trick,maneuvers,0.0,skateboarder performing aerial ! on partly cloudy day.,-0.06475961208343506,1.0
+Skier on a snowy mountain carrying a backpack.,Snow on a snowy mountain carrying a backpack.,Skier,Snow,0.0,! on a snowy mountain carrying a backpack.,-0.005322396755218506,0.96875
+Small bathroom with a toilet and a sink.,Small kitchen with a toilet and a sink.,bathroom,kitchen,0.0,small ! with a toilet and a sink.,-0.005261361598968506,0.234375
+Small boats are traveling through the small river,Small boats are traveling through the small waterways,river,waterways,0.0,small boats are traveling through the small !,-0.01875162124633789,0.921875
+Small boats are traveling through the small waterways,Small boats are traveling through the small river,waterways,river,0.0,small boats are traveling through the small !,0.01875162124633789,0.9375
+Small children eating fruit sitting on a rock. ,Small monkey eating fruit sitting on a rock. ,children,monkey,0.9,small ! eating fruit sitting on a rock.,-0.03244882822036743,0.9375
+Small kitchen with a toilet and a sink.,Small bathroom with a toilet and a sink.,kitchen,bathroom,0.8,small ! with a toilet and a sink.,0.005261361598968506,0.9375
+Small monkey eating fruit sitting on a rock. ,Small children eating fruit sitting on a rock. ,monkey,children,0.6,small ! eating fruit sitting on a rock.,0.03244882822036743,0.96875
+Snowboarder sitting for a majestic scenic photo ,Man sitting for a majestic scenic photo ,Snowboarder,Man,0.0,! sitting for a majestic scenic photo,0.19448930025100708,0.828125
+Snow on a snowy mountain carrying a backpack.,Skier on a snowy mountain carrying a backpack.,Snow,Skier,0.0,! on a snowy mountain carrying a backpack.,0.005322396755218506,1.0
+Someone is just about to cut the cord.,Someone is just about to cut the pizza.,cord.,pizza.,0.6,someone is just about to cut the !,-0.05768454074859619,0.828125
+Someone is just about to cut the pizza.,Someone is just about to cut the cord.,pizza.,cord.,0.0,someone is just about to cut the !,0.05768454074859619,0.0625
+Someone standing in the doorway with their skii's. ,Someone standing in the snow with their skii's. ,doorway,snow,0.0,someone standing in the ! with their skii's.,0.027070164680480957,0.984375
+Someone standing in the snow with their skii's. ,Someone standing in the doorway with their skii's. ,snow,doorway,0.0,someone standing in the ! with their skii's.,-0.027070164680480957,0.8125
+Someone who is laying down under a suitcase.,Someone who is laying down under a tree.,suitcase.,tree.,0.0,someone who is laying down under a !,0.004145264625549316,0.796875
+Someone who is laying down under a tree.,Someone who is laying down under a suitcase.,tree.,suitcase.,0.0,someone who is laying down under a !,-0.004145264625549316,0.796875
+Some flashing lights near some very big buildings.,Some traffic lights near some very big buildings.,flashing,traffic,0.0,some ! lights near some very big buildings.,-0.09807485342025757,0.84375
+Some horses are being led In a field,Some horses are being led In a Row,field,Row,0.4,some horses are being led in a !,0.04641366004943848,0.921875
+Some horses are being led In a Row,Some horses are being led In a field,Row,field,0.1,some horses are being led in a !,-0.04641366004943848,0.359375
+some males on some beaches are playing volleyball,some males on some sand are playing volleyball,beaches,sand,0.0,some males on some ! are playing volleyball,0.009500563144683838,0.8125
+some males on some sand are playing volleyball,some males on some beaches are playing volleyball,sand,beaches,0.0,some males on some ! are playing volleyball,-0.009500563144683838,0.9375
+Some people who are walking on a beach.,Some people who are walking on a sidewalk.,beach.,sidewalk.,0.4,some people who are walking on a !,-0.029729247093200684,0.953125
+Some people who are walking on a sidewalk.,Some people who are walking on a beach.,sidewalk.,beach.,0.0,some people who are walking on a !,0.029729247093200684,1.0
+Some posted signs near a big bridge overpass.,Some street signs near a big bridge overpass.,posted,street,0.0,some ! signs near a big bridge overpass.,-0.06151020526885986,0.6875
+Some sheep and deer grazing in a field.,Some zebra and deer grazing in a field.,sheep,zebra,0.3,some ! and deer grazing in a field.,-0.028603672981262207,0.53125
+Some street signs near a big bridge overpass.,Some posted signs near a big bridge overpass.,street,posted,0.4,some ! signs near a big bridge overpass.,0.06151020526885986,0.890625
+Some traffic lights near some very big buildings.,Some flashing lights near some very big buildings.,traffic,flashing,0.0,some ! lights near some very big buildings.,0.09807485342025757,0.78125
+some yellow signs attached to a brick wall ,some yellow signs attached to a building wall ,brick,building,0.0,some yellow signs attached to a ! wall,0.026279926300048828,0.984375
+some yellow signs attached to a building wall ,some yellow signs attached to a brick wall ,building,brick,0.0,some yellow signs attached to a ! wall,-0.026279926300048828,1.0
+Some zebra and deer grazing in a field.,Some sheep and deer grazing in a field.,zebra,sheep,0.0,some ! and deer grazing in a field.,0.028603672981262207,0.453125
+stop sign on a street of a cemetary,stop sign on a wall of a cemetary,street,wall,0.0,stop sign on a ! of a cemetary,-0.016815781593322754,0.125
+stop sign on a wall of a cemetary,stop sign on a street of a cemetary,wall,street,0.0,stop sign on a ! of a cemetary,0.016815781593322754,0.421875
+Street light with street signs that restrict traffic., red light with street signs that restrict traffic.,Street,red,0.0,! light with street signs that restrict traffic.,0.0497247576713562,0.1875
+There are several trays filled with chicken sandwiches.,There are several trays filled with doughnut sandwiches.,chicken,doughnut,0.3,there are several trays filled with ! sandwiches.,-0.10019910335540771,0.359375
+There are several trays filled with doughnut sandwiches.,There are several trays filled with chicken sandwiches.,doughnut,chicken,0.1,there are several trays filled with ! sandwiches.,0.10019910335540771,0.890625
+There are two kites flying in the sky.,There are two kites flying in the wind.,sky.,wind.,0.0,there are two kites flying in the !,0.00821620225906372,0.9375
+There are two kites flying in the wind.,There are two kites flying in the sky.,wind.,sky.,0.0,there are two kites flying in the !,-0.00821620225906372,0.9375
+There is a bird standing in the sand.,There is a man standing in the sand.,bird,man,0.4,there is a ! standing in the sand.,0.004619598388671875,0.953125
+There is a dog sleeping on a futon.,There is a toddler sleeping on a futon.,dog,toddler,0.0,there is a ! sleeping on a futon.,0.0025140047073364258,0.53125
+there is a green clock in the street,there is a green light in the street,clock,light,0.0,there is a green ! in the street,0.04257786273956299,0.9375
+there is a green light in the street,there is a green clock in the street,light,clock,0.9,there is a green ! in the street,-0.04257786273956299,0.984375
+There is a helicopter turning in mid air,There is a plane turning in mid air,helicopter,plane,0.0,there is a ! turning in mid air,0.07527732849121094,0.171875
+There is a man standing in the sand.,There is a bird standing in the sand.,man,bird,0.7,there is a ! standing in the sand.,-0.004619598388671875,0.984375
+There is a man working on a laptop.,There is a man working on a tractor.,laptop.,tractor.,0.0,there is a man working on a !,-0.05368685722351074,0.78125
+There is a man working on a tractor.,There is a man working on a laptop.,tractor.,laptop.,0.0,there is a man working on a !,0.05368685722351074,1.0
+There is a plane turning in mid air,There is a helicopter turning in mid air,plane,helicopter,0.6,there is a ! turning in mid air,-0.07527732849121094,1.0
+There is a toddler sleeping on a futon.,There is a dog sleeping on a futon.,toddler,dog,0.3,there is a ! sleeping on a futon.,-0.0025140047073364258,0.65625
+they are two laptops with a green logo.,they are two laptops with a green screen.,logo.,screen.,0.0,they are two laptops with a green !,-0.05069077014923096,0.6875
+they are two laptops with a green screen.,they are two laptops with a green logo.,screen.,logo.,0.0,they are two laptops with a green !,0.05069077014923096,0.765625
+The backside of white iPhone mobile phone.,The back view of white iPhone mobile phone.,backside,back view,0.0,the ! of white iphone mobile phone. !,-0.032332658767700195,0.84375
+The back view of white iPhone mobile phone.,The backside of white iPhone mobile phone.,back view,backside,0.0,the ! of white iphone mobile phone. !,0.032332658767700195,0.828125
+The bathroom and the kitchen is being cleaned.,The refrigerator and the kitchen is being cleaned.,bathroom,refrigerator,0.0,the ! and the kitchen is being cleaned.,-0.020765304565429688,0.0625
+THE BIG TRUCK AND THE CRANE ARE WORKING ,THE DUMP TRUCK AND THE CRANE ARE WORKING ,BIG,DUMP,0.0,the ! truck and the crane are working,-0.0766947865486145,0.796875
+the birds are flying next to the boat ,the birds are flying next to the trees ,boat,trees,0.0,the birds are flying next to the !,0.05182391405105591,0.875
+the birds are flying next to the trees ,the birds are flying next to the boat ,trees,boat,0.0,the birds are flying next to the !,-0.05182391405105591,0.453125
+The blender pitcher is full of chopped vegetables.,The blender tray is full of chopped vegetables.,pitcher,tray,0.0,the blender ! is full of chopped vegetables.,-0.019408345222473145,0.09375
+The blender tray is full of chopped vegetables.,The blender pitcher is full of chopped vegetables.,tray,pitcher,0.1,the blender ! is full of chopped vegetables.,0.019408345222473145,0.71875
+The boats are sailing out on the beach.,The boats are sailing out on the water.,beach.,water.,0.4,the boats are sailing out on the !,0.04692620038986206,0.921875
+The boats are sailing out on the water.,The boats are sailing out on the beach.,water.,beach.,0.0,the boats are sailing out on the !,-0.04692620038986206,0.046875
+The boy is eating from his feeding bowl.,The giraffe is eating from his feeding bowl.,boy,giraffe,0.1,the ! is eating from his feeding bowl.,-0.09417307376861572,0.53125
+The boy is playing with two Frisbee's. ,The otter is playing with two Frisbee's. ,boy,otter,0.0,the ! is playing with two frisbee's.,-0.06230133771896362,0.1875
+The boy jumped the rope onto the bench.,The boy jumped the skateboard onto the bench.,rope,skateboard,0.0,the boy jumped the ! onto the bench.,0.011905431747436523,0.0
+The boy jumped the skateboard onto the bench.,The boy jumped the rope onto the bench.,skateboard,rope,0.0,the boy jumped the ! onto the bench.,-0.011905431747436523,0.0
+The burger with chicken on it looks delicious.,The pizza with chicken on it looks delicious.,burger,pizza,0.1,the ! with chicken on it looks delicious.,-0.008170127868652344,0.65625
+The cake is shaped like a teddy bear.,The doll is shaped like a teddy bear.,cake,doll,0.0,the ! is shaped like a teddy bear.,0.03388774394989014,0.84375
+The city bus is filled with people traveling. ,The shuttle bus is filled with people traveling. ,city,shuttle,0.1,the ! bus is filled with people traveling.,-0.0034581422805786133,1.0
+The dam became beached during the recent storm.,The sailboat became beached during the recent storm.,dam,sailboat,0.0,the ! became beached during the recent storm.,-0.1651821732521057,0.015625
+The dish is covered with spices and vegetables. ,The meat is covered with spices and vegetables. ,dish,meat,0.0,the ! is covered with spices and vegetables.,-0.008907556533813477,0.859375
+The doll is shaped like a teddy bear.,The cake is shaped like a teddy bear.,doll,cake,0.2,the ! is shaped like a teddy bear.,-0.03388774394989014,0.9375
+THE DUMP TRUCK AND THE CRANE ARE WORKING ,THE BIG TRUCK AND THE CRANE ARE WORKING ,DUMP,BIG,0.0,the ! truck and the crane are working,0.0766947865486145,0.71875
+The face of a large brass antique clock.,The face of a large brass antique statue.,clock.,statue.,0.3,the face of a large brass antique !,-0.0008153915405273438,0.984375
+The face of a large brass antique statue.,The face of a large brass antique clock.,statue.,clock.,1.0,the face of a large brass antique !,0.0008153915405273438,0.953125
+The fish is floating along in the water.,The fruit is floating along in the water.,fish,fruit,0.3,the ! is floating along in the water.,-0.02321946620941162,0.921875
+The fruit is floating along in the water.,The fish is floating along in the water.,fruit,fish,0.0,the ! is floating along in the water.,0.02321946620941162,0.734375
+The giraffe is a truly majestic tall animal. ,The unicorn is a truly majestic tall animal. ,giraffe,unicorn,0.0,the ! is a truly majestic tall animal.,0.06882494688034058,0.0
+The giraffe is eating from his feeding bowl.,The boy is eating from his feeding bowl.,giraffe,boy,0.0,the ! is eating from his feeding bowl.,0.09417307376861572,0.6875
+The glaring lights of cars and flashing lights.,The glaring lights of cars and street lights.,flashing,street,0.0,the glaring lights of cars and ! lights.,-0.024463891983032227,0.0
+The glaring lights of cars and street lights.,The glaring lights of cars and flashing lights.,street,flashing,0.0,the glaring lights of cars and ! lights.,0.024463891983032227,0.0
+The houseboat has a car in its garage.,The houseboat has a generator in its garage.,car,generator,0.0,the houseboat has a ! in its garage.,-0.0444490909576416,0.0
+The houseboat has a generator in its garage.,The houseboat has a car in its garage.,generator,car,0.0,the houseboat has a ! in its garage.,0.0444490909576416,0.046875
+The huge elephant stands in his own environment.,The huge statue stands in his own environment.,elephant,statue,0.0,the huge ! stands in his own environment.,0.038980960845947266,0.140625
+The huge statue stands in his own environment.,The huge elephant stands in his own environment.,statue,elephant,0.1,the huge ! stands in his own environment.,-0.038980960845947266,0.9375
+The hunter is standing near four brown deer. ,The zebra is standing near four brown deer. ,hunter,zebra,0.0,the ! is standing near four brown deer.,-0.03881728649139404,0.046875
+The image shows a half of an orange.,The image shows a silhouette of an orange.,half,silhouette,0.0,the image shows a ! of a orange.,-0.0646970272064209,0.078125
+The image shows a silhouette of an orange.,The image shows a half of an orange.,silhouette,half,0.0,the image shows a ! of a orange.,0.0646970272064209,0.90625
+The large blue screen is covered with rust.,The large blue train is covered with rust.,screen,train,0.6,the large blue ! is covered with rust.,0.028094172477722168,1.0
+The large blue train is covered with rust.,The large blue screen is covered with rust.,train,screen,0.1,the large blue ! is covered with rust.,-0.028094172477722168,0.640625
+The lid of a toilet is propped up.,The top of a toilet is propped up.,lid,top,0.0,the ! of a toilet is propped up.,0.03868246078491211,0.234375
+The man is running during a baseball game.,The man is running during a football game.,baseball,football,0.6,the man is running during a ! game.,0.024323761463165283,0.40625
+The man is running during a football game.,The man is running during a baseball game.,football,baseball,0.3,the man is running during a ! game.,-0.024323761463165283,0.9375
+The man is standing beside a busy intersection.,The man is standing beside a busy street.,intersection.,street.,0.0,the man is standing beside a busy !,0.031099677085876465,0.796875
+The man is standing beside a busy street.,The man is standing beside a busy intersection.,street.,intersection.,0.0,the man is standing beside a busy !,-0.031099677085876465,0.796875
+The meat is covered with spices and vegetables. ,The dish is covered with spices and vegetables. ,meat,dish,0.2,the ! is covered with spices and vegetables.,0.008907556533813477,1.0
+The otter is playing with two Frisbee's. ,The boy is playing with two Frisbee's. ,otter,boy,0.0,the ! is playing with two frisbee's.,0.06230133771896362,0.359375
+The pizza with chicken on it looks delicious.,The burger with chicken on it looks delicious.,pizza,burger,0.7,the ! with chicken on it looks delicious.,0.008170127868652344,0.984375
+The plate is holding a sandwich and salad.,The waitress is holding a sandwich and salad.,plate,waitress,0.0,the ! is holding a sandwich and salad.,-0.08044040203094482,0.625
+The refrigerator and the kitchen is being cleaned.,The bathroom and the kitchen is being cleaned.,refrigerator,bathroom,0.0,the ! and the kitchen is being cleaned.,0.020765304565429688,0.015625
+The sailboat became beached during the recent storm.,The dam became beached during the recent storm.,sailboat,dam,0.0,the ! became beached during the recent storm.,0.1651821732521057,0.0
+The sculpture is round and made of clay.,The track is round and made of clay.,sculpture,track,0.0,the ! is round and made of clay.,0.05629795789718628,0.171875
+The shuttle bus is filled with people traveling. ,The city bus is filled with people traveling. ,shuttle,city,0.1,the ! bus is filled with people traveling.,0.0034581422805786133,0.921875
+The top of a toilet is propped up.,The lid of a toilet is propped up.,top,lid,0.0,the ! of a toilet is propped up.,-0.03868246078491211,0.609375
+The track is round and made of clay.,The sculpture is round and made of clay.,track,sculpture,0.0,the ! is round and made of clay.,-0.05629795789718628,0.6875
+The unicorn is a truly majestic tall animal. ,The giraffe is a truly majestic tall animal. ,unicorn,giraffe,0.0,the ! is a truly majestic tall animal.,-0.06882494688034058,0.15625
+The waitress is holding a sandwich and salad.,The plate is holding a sandwich and salad.,waitress,plate,0.5,the ! is holding a sandwich and salad.,0.08044040203094482,0.859375
+The young child is cutting up some grass.,The young child is cutting up some paper.,grass.,paper.,0.0,the young child is cutting up some !,0.048032522201538086,0.953125
+The young child is cutting up some paper.,The young child is cutting up some grass.,paper.,grass.,0.4,the young child is cutting up some !,-0.048032522201538086,0.765625
+The zebra is standing near four brown deer. ,The hunter is standing near four brown deer. ,zebra,hunter,0.0,the ! is standing near four brown deer.,0.03881728649139404,0.390625
+Thin black and white dresses with black flowers.,Thin black and white vase with black flowers.,dresses,vase,0.1,thin black and white ! with black flowers.,-0.010266542434692383,0.609375
+Thin black and white vase with black flowers.,Thin black and white dresses with black flowers.,vase,dresses,0.1,thin black and white ! with black flowers.,0.010266542434692383,0.71875
+this is a giraffe running in  a pen,this is a mouse running in  a pen,giraffe,mouse,0.0,this is a ! running in a pen,0.07362788915634155,0.0
+this is a mouse running in  a pen,this is a giraffe running in  a pen,mouse,giraffe,0.1,this is a ! running in a pen,-0.07362788915634155,0.546875
+This is the grill of a large truck.,This is the underside of a large truck.,grill,underside,0.0,this is the ! of a large truck.,-0.03796142339706421,0.625
+This is the underside of a large truck.,This is the grill of a large truck.,underside,grill,0.2,this is the ! of a large truck.,0.03796142339706421,0.75
+This snow boarder is practicing techniques and tricks.,This video boarder is practicing techniques and tricks.,snow,video,0.0,this ! boarder is practicing techniques and tricks.,0.09540939331054688,0.140625
+This video boarder is practicing techniques and tricks.,This snow boarder is practicing techniques and tricks.,video,snow,0.8,this ! boarder is practicing techniques and tricks.,-0.09540939331054688,0.953125
+Three elephants standing in the forest near water.,Three elephants standing in the grass near water.,forest,grass,0.2,three elephants standing in the ! near water.,-0.02682119607925415,0.921875
+Three elephants standing in the grass near water.,Three elephants standing in the forest near water.,grass,forest,0.0,three elephants standing in the ! near water.,0.02682119607925415,0.984375
+Three giraffes are sitting on the beach. ,Three giraffes are sitting on the ground. ,beach.,ground.,0.2,three giraffes are sitting on the !,0.005243122577667236,0.5
+Three giraffes are sitting on the ground. ,Three giraffes are sitting on the beach. ,ground.,beach.,0.0,three giraffes are sitting on the !,-0.005243122577667236,0.109375
+Three hand formed ceramic pots with dripping paint,Three hand formed clay pots with dripping paint,ceramic,clay,0.0,three hand formed ! pots with dripping paint,-0.04505479335784912,0.703125
+Three hand formed clay pots with dripping paint,Three hand formed ceramic pots with dripping paint,clay,ceramic,0.0,three hand formed ! pots with dripping paint,0.04505479335784912,0.9375
+Three people are riding on a brown elephant.,Three people are riding on a brown motorcycle.,elephant.,motorcycle.,0.0,three people are riding on a brown !,-0.0009660124778747559,0.671875
+Three people are riding on a brown motorcycle.,Three people are riding on a brown elephant.,motorcycle.,elephant.,0.0,three people are riding on a brown !,0.0009660124778747559,0.625
+Three sheep standing on a large grassy field.,Three sheep standing on a large grassy hill.,field.,hill.,0.0,three sheep standing on a large grassy !,-0.019282400608062744,1.0
+Three sheep standing on a large grassy hill.,Three sheep standing on a large grassy field.,hill.,field.,0.0,three sheep standing on a large grassy !,0.019282400608062744,1.0
+three sheep standing together eating some bread ,three sheep standing together eating some grass ,bread,grass,0.2,three sheep standing together eating some !,0.014769256114959717,0.171875
+three sheep standing together eating some grass ,three sheep standing together eating some bread ,grass,bread,0.0,three sheep standing together eating some !,-0.014769256114959717,0.0
+Toilet with indefinite end because of bright light,Life with indefinite end because of bright light,Toilet,Life,0.0,! with indefinite end because of bright light,0.16838747262954712,0.0
+Tree is spreading its pollen in the winter.,Tree is spreading its wings in the winter.,pollen,wings,0.0,tree is spreading its ! in the winter.,0.08435851335525513,0.0
+Tree is spreading its wings in the winter.,Tree is spreading its pollen in the winter.,wings,pollen,0.0,tree is spreading its ! in the winter.,-0.08435851335525513,0.0
+Two boys sitting on the couch holding controllers.,Two boys sitting on the floor holding controllers.,couch,floor,0.1,two boys sitting on the ! holding controllers.,0.025661170482635498,0.96875
+Two boys sitting on the floor holding controllers.,Two boys sitting on the couch holding controllers.,floor,couch,0.0,two boys sitting on the ! holding controllers.,-0.025661170482635498,1.0
+Two brown bears interacting in a rocky area.,Two brown bears interacting in a rocky pasture.,area.,pasture.,0.0,two brown bears interacting in a rocky !,-0.026584327220916748,0.921875
+Two brown bears interacting in a rocky pasture.,Two brown bears interacting in a rocky area.,pasture.,area.,0.1,two brown bears interacting in a rocky !,0.026584327220916748,0.96875
+Two brown bears playing in a field together.,Two brown bears playing in a sandbox together.,field,sandbox,0.4,two brown bears playing in a ! together.,-0.08339625597000122,0.96875
+Two brown bears playing in a sandbox together.,Two brown bears playing in a field together.,sandbox,field,0.1,two brown bears playing in a ! together.,0.08339625597000122,0.953125
+Two cars are waiting at a stoplight.,Two cars are waiting at a stop light.,stoplight.,stop light.,0.0,two cars are waiting at a ! !,-0.03561747074127197,0.3125
+Two cars are waiting at a stop light.,Two cars are waiting at a stoplight.,stop light.,stoplight.,0.0,two cars are waiting at a ! !,0.03561747074127197,0.25
+two cars on a track near a building ,two train on a track near a building ,cars,train,0.1,two ! on a track near a building,-0.0009315609931945801,0.9375
+Two cats in a cage taking their naps.,Two cats in a chair taking their naps.,cage,chair,0.0,two cats in a ! taking their naps.,-0.008864402770996094,0.515625
+Two cats in a chair taking their naps.,Two cats in a cage taking their naps.,chair,cage,0.0,two cats in a ! taking their naps.,0.008864402770996094,0.3125
+Two dogs are playing with a frisbee outside.,Two dogs are playing with a toy outside.,frisbee,toy,0.2,two dogs are playing with a ! outside.,0.061279296875,0.90625
+Two dogs are playing with a toy outside.,Two dogs are playing with a frisbee outside.,toy,frisbee,0.0,two dogs are playing with a ! outside.,-0.061279296875,0.828125
+two dogs on the beach playing frisbee together,two dogs on the snow playing frisbee together,beach,snow,0.3,two dogs on the ! playing frisbee together,0.03143948316574097,0.875
+two dogs on the snow playing frisbee together,two dogs on the beach playing frisbee together,snow,beach,0.2,two dogs on the ! playing frisbee together,-0.03143948316574097,0.78125
+Two elephants walking through a lightly forested area.,Two elephants walking through a lightly forested forest.,area.,forest.,0.0,two elephants walking through a lightly forested !,-0.028332531452178955,1.0
+Two elephants walking through a lightly forested forest.,Two elephants walking through a lightly forested area.,forest.,area.,0.0,two elephants walking through a lightly forested !,0.028332531452178955,1.0
+"Two Giraffes are in the freezer, possibly eating. ","Two Giraffes are in the wilderness, possibly eating. ","freezer,","wilderness,",0.4,two giraffes are in the ! possibly eating.,0.01732182502746582,0.96875
+"Two Giraffes are in the wilderness, possibly eating. ","Two Giraffes are in the freezer, possibly eating. ","wilderness,","freezer,",0.0,two giraffes are in the ! possibly eating.,-0.01732182502746582,0.0
+Two giraffes standing in a brush covered area.,Two giraffes standing in a brush covered pond.,area.,pond.,0.1,two giraffes standing in a brush covered !,-0.04143732786178589,0.5625
+Two giraffes standing in a brush covered pond.,Two giraffes standing in a brush covered area.,pond.,area.,0.4,two giraffes standing in a brush covered !,0.04143732786178589,0.921875
+Two giraffes stand in formation inside an enclosure. ,Two giraffes stand in sand inside an enclosure. ,formation,sand,0.0,two giraffes stand in ! inside a enclosure.,-0.014944493770599365,0.65625
+Two giraffes stand in sand inside an enclosure. ,Two giraffes stand in formation inside an enclosure. ,sand,formation,0.0,two giraffes stand in ! inside a enclosure.,0.014944493770599365,0.515625
+Two girls eating donuts in a cafeteria. ,Two girls eating donuts in a house. ,cafeteria.,house.,0.0,two girls eating donuts in a !,0.028102397918701172,0.9375
+Two girls eating donuts in a house. ,Two girls eating donuts in a cafeteria. ,house.,cafeteria.,0.8,two girls eating donuts in a !,-0.028102397918701172,1.0
+Two girls showing off something in a bikini.,Two girls showing off something in a pan.,bikini.,pan.,0.1,two girls showing off something in a !,0.010922074317932129,0.90625
+Two girls showing off something in a pan.,Two girls showing off something in a bikini.,pan.,bikini.,0.7,two girls showing off something in a !,-0.010922074317932129,0.875
+Two guys standing in a booth with remotes.,Two guys standing in a room with remotes.,booth,room,0.0,two guys standing in a ! with remotes.,0.03904592990875244,0.1875
+Two guys standing in a room with remotes.,Two guys standing in a booth with remotes.,room,booth,0.0,two guys standing in a ! with remotes.,-0.03904592990875244,0.109375
+two horses are walking through a forest together,two horses are walking through a river together,forest,river,0.6,two horses are walking through a ! together,-0.018858373165130615,0.9375
+two horses are walking through a river together,two horses are walking through a forest together,river,forest,0.1,two horses are walking through a ! together,0.018858373165130615,1.0
+Two horses grazing together in a field ,Two horses grazing together in a pasture ,field,pasture,0.0,two horses grazing together in a !,-0.02257061004638672,0.953125
+Two horses grazing together in a pasture ,Two horses grazing together in a field ,pasture,field,0.0,two horses grazing together in a !,0.02257061004638672,0.96875
+Two horses on a beach near the water,Two horses on a horse near the water,beach,horse,0.0,two horses on a ! near the water,0.037190914154052734,0.0
+Two horses on a horse near the water,Two horses on a beach near the water,horse,beach,0.9,two horses on a ! near the water,-0.037190914154052734,1.0
+two horses pull a carriage on a street,two horses pull a cart on a street,carriage,cart,0.0,two horses pull a ! on a street,0.005622744560241699,0.96875
+two horses pull a cart on a street,two horses pull a carriage on a street,cart,carriage,0.0,two horses pull a ! on a street,-0.005622744560241699,0.96875
+Two horses standing in the grass and sand.,Two horses standing in the mud and sand.,grass,mud,0.8,two horses standing in the ! and sand.,0.027058184146881104,0.890625
+Two horses standing in the mud and sand.,Two horses standing in the grass and sand.,mud,grass,0.0,two horses standing in the ! and sand.,-0.027058184146881104,0.515625
+two medical professionals inside of an ambulance. ,two medical professionals inside of an hospital. ,ambulance.,hospital.,0.0,two medical professionals inside of a !,0.05602407455444336,0.984375
+two medical professionals inside of an hospital. ,two medical professionals inside of an ambulance. ,hospital.,ambulance.,0.6,two medical professionals inside of a !,-0.05602407455444336,0.828125
+Two passenger trains with different front cars together,Two railroad trains with different front cars together,passenger,railroad,0.1,two ! trains with different front cars together,0.01560145616531372,0.703125
+Two people are shown holding a peace sign.,Two people are shown holding a stop sign.,peace,stop,0.0,two people are shown holding a ! sign.,0.06391388177871704,0.765625
+Two people are shown holding a stop sign.,Two people are shown holding a peace sign.,stop,peace,0.5,two people are shown holding a ! sign.,-0.06391388177871704,0.859375
+Two people are snowboarding down a hill fast,Two people are snowboarding down a mountain fast,hill,mountain,0.0,two people are snowboarding down a ! fast,-0.015664994716644287,0.875
+Two people are snowboarding down a mountain fast,Two people are snowboarding down a hill fast,mountain,hill,0.0,two people are snowboarding down a ! fast,0.015664994716644287,0.828125
+Two people flying a helicopter in the snow.,Two people flying a kite in the snow.,helicopter,kite,0.2,two people flying a ! in the snow.,0.010967016220092773,0.890625
+Two people flying a kite in the snow.,Two people flying a helicopter in the snow.,kite,helicopter,0.0,two people flying a ! in the snow.,-0.010967016220092773,0.078125
+two people sitting near cows on hay ,two people sitting near sheep on hay ,cows,sheep,0.0,two people sitting near ! on hay,0.0031498074531555176,0.75
+two people sitting near sheep on hay ,two people sitting near cows on hay ,sheep,cows,0.0,two people sitting near ! on hay,-0.0031498074531555176,0.828125
+Two people that are sitting on a bench.,Two people that are sitting on a table.,bench.,table.,0.1,two people that are sitting on a !,0.016786575317382812,0.921875
+Two people that are sitting on a table.,Two people that are sitting on a bench.,table.,bench.,0.8,two people that are sitting on a !,-0.016786575317382812,0.96875
+Two people wearing skis traveling through the snow.,Two people wearing skis traveling through the woods.,snow.,woods.,0.0,two people wearing skis traveling through the !,-0.03951793909072876,0.875
+Two people wearing skis traveling through the woods.,Two people wearing skis traveling through the snow.,woods.,snow.,0.0,two people wearing skis traveling through the !,0.03951793909072876,0.96875
+Two railroad trains with different front cars together,Two passenger trains with different front cars together,railroad,passenger,0.0,two ! trains with different front cars together,-0.01560145616531372,0.90625
+Two signs on a highway near some water.,Two signs on a pole near some water.,highway,pole,0.1,two signs on a ! near some water.,0.01700460910797119,0.890625
+Two signs on a pole near some water.,Two signs on a highway near some water.,pole,highway,0.0,two signs on a ! near some water.,-0.01700460910797119,0.265625
+Two small planes are parked on the runway.,Two small planes are parked on the tarmac.,runway.,tarmac.,0.0,two small planes are parked on the !,0.01042085886001587,0.859375
+Two small planes are parked on the tarmac.,Two small planes are parked on the runway.,tarmac.,runway.,0.0,two small planes are parked on the !,-0.01042085886001587,0.828125
+Two teenagers catch the bottom of a lake,Two teenagers catch the bottom of a wave,lake,wave,0.0,two teenagers catch the bottom of a !,-0.02942413091659546,0.0
+Two teenagers catch the bottom of a wave,Two teenagers catch the bottom of a lake,wave,lake,0.0,two teenagers catch the bottom of a !,0.02942413091659546,0.0
+two train on a track near a building ,two cars on a track near a building ,train,cars,0.4,two ! on a track near a building,0.0009315609931945801,0.171875
+Two trucks that are sitting in the driveway.,Two trucks that are sitting in the street.,driveway.,street.,0.0,two trucks that are sitting in the !,0.008927643299102783,0.046875
+Two trucks that are sitting in the street.,Two trucks that are sitting in the driveway.,street.,driveway.,0.1,two trucks that are sitting in the !,-0.008927643299102783,0.109375
+Two white sheep are resting in a barn.,Two white sheep are resting in a field.,barn.,field.,0.5,two white sheep are resting in a !,0.04437458515167236,0.890625
+Two white sheep are resting in a field.,Two white sheep are resting in a barn.,field.,barn.,0.6,two white sheep are resting in a !,-0.04437458515167236,0.65625
+Two zebras eating dinner behind an open fence.,Two zebras eating grass behind an open fence.,dinner,grass,0.0,two zebras eating ! behind a open fence.,-0.03203141689300537,0.109375
+Two zebras eating grass behind an open fence.,Two zebras eating dinner behind an open fence.,grass,dinner,0.0,two zebras eating ! behind a open fence.,0.03203141689300537,0.0
+Two zebra stand near bushes and tall grass.,Two zebra stand near bushes and tall trees.,grass.,trees.,0.0,two zebra stand near bushes and tall !,0.032112717628479004,0.984375
+Two zebra stand near bushes and tall trees.,Two zebra stand near bushes and tall grass.,trees.,grass.,0.1,two zebra stand near bushes and tall !,-0.032112717628479004,0.96875
+Various exotic fruits adorn a wooden surface. ,Various exotic fruits adorn a wooden table. ,surface.,table.,0.0,various exotic fruits adorn a wooden !,-0.024845659732818604,1.0
+Various exotic fruits adorn a wooden table. ,Various exotic fruits adorn a wooden surface. ,table.,surface.,0.0,various exotic fruits adorn a wooden !,0.024845659732818604,1.0
+wheat bread with chocolate and sliced bananas ,White bread with chocolate and sliced bananas ,wheat,White,0.0,! bread with chocolate and sliced bananas,-0.003960311412811279,0.703125
+White and orange flowers in a glass jar.,White and orange flowers in a glass vase.,jar.,vase.,0.0,white and orange flowers in a glass !,-0.007204651832580566,0.796875
+White and orange flowers in a glass vase.,White and orange flowers in a glass jar.,vase.,jar.,0.0,white and orange flowers in a glass !,0.007204651832580566,0.828125
+White bread with chocolate and sliced bananas ,wheat bread with chocolate and sliced bananas ,White,wheat,0.1,! bread with chocolate and sliced bananas,0.003960311412811279,0.734375
+white flowers in a basket with arranged leaves,white flowers in a vase with arranged leaves,basket,vase,0.2,white flowers in a ! with arranged leaves,-3.826618194580078e-05,0.984375
+white flowers in a vase with arranged leaves,white flowers in a basket with arranged leaves,vase,basket,0.0,white flowers in a ! with arranged leaves,3.826618194580078e-05,1.0
+Woman standing on a tennis court playing tennis.,Men standing on a tennis court playing tennis.,Woman,Men,0.0,! standing on a tennis court playing tennis.,0.0032608509063720703,0.546875
+Working in an industrial kitchen preparing various items.,Men in an industrial kitchen preparing various items.,Working,Men,0.0,! in a industrial kitchen preparing various items.,-0.10332852602005005,1.0
+Young players playing baseball on a baseball field.,Baseball players playing baseball on a baseball field.,Young,Baseball,0.0,! players playing baseball on a baseball field.,0.007719278335571289,1.0
+Zieber eating grass off the ground by itself. ,Zieber eating meat off the ground by itself. ,grass,meat,0.0,zieber eating ! off the ground by itself.,0.026057839393615723,0.015625
+Zieber eating meat off the ground by itself. ,Zieber eating grass off the ground by itself. ,meat,grass,0.0,zieber eating ! off the ground by itself.,-0.026057839393615723,0.125
+ BEST GAME GOING ON WITH BATTER AT BAT,BASEBALL GAME GOING ON WITH BATTER AT BAT,BEST,BASEBALL,0.2,! game going on with batter at bat,0.005044758319854736,0.984375
+ fridge with everything on it sitting on counter.  ,Pizza with everything on it sitting on counter.  ,fridge,Pizza,1.0,! with everything on it sitting on counter.,0.03333413600921631,0.8125
+ parked in parking lot and on a leash.,Dog in parking lot and on a leash.,parked,Dog,0.6,! in parking lot and on a leash.,-0.08137702941894531,0.890625
+ piles of various oranges and bananas in pile.,Closeup of various oranges and bananas in pile.,piles,Closeup,0.0,! of various oranges and bananas in pile.,-0.05464529991149902,0.9375
+ red light with street signs that restrict traffic.,Street light with street signs that restrict traffic.,red,Street,0.0,! light with street signs that restrict traffic.,-0.0497247576713562,0.140625

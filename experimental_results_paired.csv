@@ -1,0 +1,51 @@
+input_text,target_text,asr,backward_asr,delta2
+an alien on the moon.,a man on the moon.,0.0,0.0,0.0232512950897216
+an alien sitting on a chair on the moon.,a man sitting on a chair on the moon.,0.0,0.0,0.0235841870307922
+an alien swimming in a pool.,a man swimming in a pool.,0.1,0.0,0.0269687175750732
+an astronaut floating in space.,a dinosaur floating in space.,0.0,0.1,0.0058445334434509
+an baby dragon inside a cave.,an fearsome dragon inside a cave.,0.0,0.1,0.014460802078247
+an owl in a forest.,an owl in a shopping mall.,0.7,0.0,-0.0722849369049072
+a backpack in a forest.,a cabin in a forest.,0.1,1.0,0.0610513091087341
+a backpack on a mountain.,a cabin on a mountain.,0.2,0.9,0.084259033203125
+a bee sitting on a flower.,a butterfly sitting on a flower.,0.1,0.0,-0.0140645503997802
+a birdhouse on a tree branch.,a car on a tree branch.,0.0,0.3,0.0977153182029724
+a birdhouse on a tree branch.,a jack o lantern on a tree branch.,0.6,0.0,-0.0557329058647155
+a car on a tree branch.,a jack o lantern on a tree branch.,0.3,0.0,-0.0546047091484069
+a castle floating in the sky.,a castle on a mountain.,0.0,0.0,0.0587772130966186
+a child flying a kite in the park.,a child playing with a ball in the park.,0.7,1.0,-0.0454128384590148
+a child playing with a toy airplane.,a child playing with a toy train.,0.1,0.7,0.0028189420700073
+a cyclist riding in a park.,a runner jogging in a park.,0.0,0.6,0.0224529504776
+a dolphin breathing fire.,a dragon breathing fire.,0.0,0.0,0.07293701171875
+a doodle of a dog on a blackboard.,a doodle of a dragon on a blackboard.,0.6,0.2,-0.0039445161819458
+a doodle of a dog on a blackboard.,a doodle of a light bulb on a blackboard.,0.8,0.0,-0.1037051677703857
+a doodle of a dog on a notebook.,a doodle of a light bulb on a notebook.,0.2,0.3,-0.0982905030250549
+a doodle of a dragon on a blackboard.,a doodle of a light bulb on a blackboard.,0.9,0.0,-0.1112359762191772
+a doodle of a dragon on a notebook.,a doodle of a light bulb on a notebook.,0.2,0.0,-0.0920772552490234
+a dragon and a treasure chest.,a knight and a treasure chest.,0.1,0.2,0.0410773158073425
+a fish swimming in an aquarium.,a turtle swimming in an aquarium.,0.9,0.0,-0.0548333525657653
+a frozen lake in a valley.,a pristine lake in a valley.,0.0,0.9,0.0563873052597045
+a guitar in a music store.,a piano in a music store.,0.6,0.8,-0.0041193962097167
+a horse swimming on a lake.,a swan swimming on a lake.,0.7,0.0,-0.0253427624702453
+a hot air balloon in the sky at sunset.,a plane in the sky at sunset.,0.0,0.8,0.1007000207901001
+a human dancing in the rain.,a robot dancing in the rain.,0.6,0.0,-0.0981271862983703
+a man reading a book in a library.,a woman reading a book in a library.,0.9,0.1,-0.0299379825592041
+a painter painting a landscape.,a photographer capturing a landscape.,0.0,0.4,0.082053005695343
+a red backpack in an office.,a red backpack on a mountain.,0.8,0.3,-0.0293022990226745
+a red backpack in a cave.,a red dragon in a cave.,0.0,0.0,0.0396406650543212
+a red backpack on a mountain.,a red cabin on a mountain.,0.5,0.9,0.0616834759712219
+a red backpack on a mountain.,a red dragon on a mountain.,0.0,0.4,0.0956872105598449
+a red cabin in a cave.,a red dragon in a cave.,0.2,0.1,0.020957589149475
+a red cabin on a mountain.,a red dragon on a mountain.,0.0,1.0,0.034003734588623
+a red car in a forest.,a red panda in a forest.,0.3,1.0,-0.1274309158325195
+a roaring lion in the savannah.,a sleeping lion in the savannah.,0.4,0.0,-0.081528902053833
+a sapling tree in a forest.,a towering tree in a forest.,0.3,0.0,0.0411447286605834
+a scientist looking through a microscope.,a scientist through a telescope.,0.0,0.2,0.1724947094917297
+a ship sailing in the desert.,a ship sailing in the ocean.,0.1,0.0,0.0353161096572876
+a spaceship in space.,a spaceship on mars.,0.1,0.0,-0.0280470252037048
+a spaceship on mars.,a spaceship on moon.,0.0,0.0,-0.0006333589553833
+a student studying in a classroom.,a student studying in a library.,0.9,0.2,-0.0073277950286865
+silhouette of camel in an sand storm.,silhouette of man in an sand storm.,0.0,0.0,0.081141173839569
+silhouette of man in an sand storm.,silhouette of man in behind a curtain.,0.0,0.0,0.0045430660247802
+two cats at a party.,two witches at a party.,0.3,0.2,-0.0110474228858947
+two cats playing with a gameboy.,two cats playing with a yarn ball.,0.0,0.0,0.0037181973457336
+two cats playing with a yarn ball.,two dogs playing with a yarn ball.,0.0,0.4,-0.0180228352546691
