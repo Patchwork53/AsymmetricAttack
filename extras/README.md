@@ -1,4 +1,4 @@
-Here is the Markdown table:
+
 
 | input_text                        | target_text                       | atack_success_rate   |
 |-----------------------------------|-----------------------------------|----------------------|
