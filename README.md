@@ -1,4 +1,4 @@
-Official implementation of [Asymmetric Bias in Text-to-Image Generation with Adversarial Attacks](https://arxiv.org/abs/2312.14440)
+Authors' implementation of [Asymmetric Bias in Text-to-Image Generation with Adversarial Attacks](https://arxiv.org/abs/2312.14440)
 
 # Asymmetric Bias in Text-to-Image Generation with Adversarial Attacks
 ## Abstract
