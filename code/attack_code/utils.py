@@ -20,18 +20,18 @@ from PIL import Image
 def get_embeddings(model, input_ids):
   return model.text_model.embeddings(input_ids)
 
-def _make_causal_mask(
-    input_ids_shape: torch.Size, dtype: torch.dtype, device: torch.device, past_key_values_length: int = 0
-):
-    bsz, tgt_len = input_ids_shape
-    mask = torch.full((tgt_len, tgt_len), torch.finfo(dtype).min, device=device)
-    mask_cond = torch.arange(mask.size(-1), device=device)
-    mask.masked_fill_(mask_cond < (mask_cond + 1).view(mask.size(-1), 1), 0)
-    mask = mask.to(dtype)
+# def _make_causal_mask(
+#     input_ids_shape: torch.Size, dtype: torch.dtype, device: torch.device, past_key_values_length: int = 0
+# ):
+#     bsz, tgt_len = input_ids_shape
+#     mask = torch.full((tgt_len, tgt_len), torch.finfo(dtype).min, device=device)
+#     mask_cond = torch.arange(mask.size(-1), device=device)
+#     mask.masked_fill_(mask_cond < (mask_cond + 1).view(mask.size(-1), 1), 0)
+#     mask = mask.to(dtype)
 
-    if past_key_values_length > 0:
-        mask = torch.cat([torch.zeros(tgt_len, past_key_values_length, dtype=dtype, device=device), mask], dim=-1)
-    return mask[None, None, :, :].expand(bsz, 1, tgt_len, tgt_len + past_key_values_length)
+#     if past_key_values_length > 0:
+#         mask = torch.cat([torch.zeros(tgt_len, past_key_values_length, dtype=dtype, device=device), mask], dim=-1)
+#     return mask[None, None, :, :].expand(bsz, 1, tgt_len, tgt_len + past_key_values_length)
 
 def _expand_mask(mask: torch.Tensor, dtype: torch.dtype, tgt_len: Optional[int] = None):
 
@@ -77,7 +77,7 @@ def get_grad(model, adv_input_tokens, target, avoid, suff_start, suff_end, objec
   input_ids = adv_input_tokens.unsqueeze(0)
   input_shape = input_ids.shape
 
-  causal_attention_mask = _make_causal_mask(input_shape, hidden_states.dtype, device=hidden_states.device)
+  # causal_attention_mask = _make_causal_mask(input_shape, hidden_states.dtype, device=hidden_states.device)
 
   if attention_mask is not None:
       attention_mask = _expand_mask(attention_mask, hidden_states.dtype)
@@ -85,7 +85,7 @@ def get_grad(model, adv_input_tokens, target, avoid, suff_start, suff_end, objec
   encoder_outputs = model.text_model.encoder(
       inputs_embeds=hidden_states,
       attention_mask=attention_mask,
-      causal_attention_mask=causal_attention_mask,
+      # causal_attention_mask=causal_attention_mask,
       # output_attentions=output_attentions,
       # output_hidden_states=output_hidden_states,
       return_dict=True,
